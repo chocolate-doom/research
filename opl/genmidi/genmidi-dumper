@@ -1,0 +1,202 @@
+#!/usr/bin/env ruby
+
+NUM_INSTRUMENTS = 175
+
+# Layout of GENMIDI lump data:
+
+LMP_AM_VIB_OFFSET          = 0
+LMP_ATTACK_DECAY_OFFSET    = 1
+LMP_SUSTAIN_RELEASE_OFFSET = 2
+LMP_WAVE_SELECT_OFFSET     = 3
+LMP_KSL_OFFSET             = 4
+LMP_OUTPUT_LEVEL_OFFSET    = 5
+
+LMP_OPERATOR2_OFFSET = 7
+LMP_OPERATOR_LENGTH = 6
+LMP_FEEDBACK_OFFSET = 6
+
+# Layout of SBI format files:
+
+SBI_HEADER = "2OP\032"
+SBI_AM_VIB_OFFSET          = 0
+SBI_KSL_LEVEL_OFFSET       = 2
+SBI_ATTACK_DECAY_OFFSET    = 4
+SBI_SUSTAIN_RELEASE_OFFSET = 6
+SBI_WAVE_SELECT_OFFSET     = 8
+SBI_CONNECTION_OFFSET      = 10
+
+class Instrument
+    FIXED_PITCH  = 0x0001
+    DOUBLE_VOICE = 0x0004
+    attr_reader :voice1_data, :voice2_data, :feedback, :flags
+    attr_reader :fine_tuning, :fixed_note
+    attr_accessor :name
+
+    def initialize(data)
+        header = data[0,4]
+
+        @flags = data[0] | (data[1] << 8)
+        @fine_tuning = data[2] - 128
+        @fixed_note = data[3]
+        @voice1_data = data[4,13]
+        @voice2_data = data[20,13]
+    end
+
+    def fixed_pitch
+        (@flags & FIXED_PITCH) != 0
+    end
+
+    def double_voice
+        (@flags & DOUBLE_VOICE) != 0
+    end
+end
+
+def read_instrument(file)
+    data = file.read(36)
+
+    Instrument.new(data)
+end
+
+def read_name(file)
+    data = file.read(32)
+    data.strip
+end
+
+def read_instruments(filename)
+    instruments = []
+
+    File.open("genmidi.lmp") do |file|
+        header = file.read(8)
+
+        if header != "#OPL_II#"
+            raise "Header not found!"
+        end
+
+        NUM_INSTRUMENTS.times do
+            instrument = read_instrument(file)
+            instruments.push(instrument)
+        end
+
+        NUM_INSTRUMENTS.times do |i|
+            name = read_name(file)
+            instruments[i].name = name
+        end
+    end
+
+    instruments
+end
+
+def data_to_s(data)
+
+    stringified = []
+
+    data.each_byte do |val|
+        stringified.push(sprintf("%02x", val))
+    end
+
+    stringified.join(",")
+end
+
+def display_instruments(instruments)
+    for instrument in instruments
+        print instrument.name
+        padding = 25 - instrument.name.length
+        print " " * padding
+
+        print "(#{instrument.flags}) "
+
+        print data_to_s(instrument.voice1_data)
+        print "|"
+        print data_to_s(instrument.voice2_data)
+        print "\n"
+    end
+end
+
+def lmp_voice_to_sbi(voice_data)
+    operator_data = [
+        voice_data[0, LMP_OPERATOR_LENGTH],
+        voice_data[LMP_OPERATOR2_OFFSET, LMP_OPERATOR_LENGTH]
+    ]
+
+    result = "\0" * 11
+
+    for op in [0, 1]
+        op_data = operator_data[op]
+
+        result[SBI_AM_VIB_OFFSET + op] = op_data[LMP_AM_VIB_OFFSET]
+        result[SBI_KSL_LEVEL_OFFSET + op] = (op_data[LMP_KSL_OFFSET] \
+                                           | op_data[LMP_OUTPUT_LEVEL_OFFSET])
+        result[SBI_ATTACK_DECAY_OFFSET + op] = op_data[LMP_ATTACK_DECAY_OFFSET]
+        result[SBI_SUSTAIN_RELEASE_OFFSET + op] = op_data[LMP_SUSTAIN_RELEASE_OFFSET]
+        result[SBI_WAVE_SELECT_OFFSET + op] = op_data[LMP_WAVE_SELECT_OFFSET]
+    end
+
+    result[SBI_CONNECTION_OFFSET] = voice_data[LMP_FEEDBACK_OFFSET]
+
+    result
+end
+
+def pad_name(name, length)
+    name = name[0, length]
+
+    result = "\0" * length
+    result[0, name.length] = name
+
+    result
+end
+
+def lmp_instrument_to_sbi(instrument)
+    # Build header
+
+    result = SBI_HEADER
+
+    name = pad_name(instrument.name, 32)
+    
+    # fine tuning:
+
+    if instrument.fine_tuning != 0
+        name[28] = 64 + instrument.fine_tuning
+    end
+    if (instrument.flags & Instrument::FIXED_PITCH) != 0
+        name[31] = instrument.fixed_note
+    end
+
+    result += name
+
+    # Voice data
+
+    result += lmp_voice_to_sbi(instrument.voice1_data)
+    result += lmp_voice_to_sbi(instrument.voice2_data)
+    result += "\0\0"
+
+    result
+end
+
+# Write an SBI format file.
+
+def write_sbi(filename, instruments, start_instrument)
+    File.open(filename, "w") do |file|
+        start_instrument.times do
+            file.write "\0" * 60
+        end
+
+        for instrument in instruments
+            data = lmp_instrument_to_sbi(instrument)
+            file.write(data)
+        end
+    end
+end
+
+if ARGV.length < 1
+    puts "Usage: genmidi-dumper [ -sbi | -txt ]"
+    exit(0)
+end
+
+instruments = read_instruments("genmidi.lmp")
+
+if ARGV[0] == "-sbi"
+    write_sbi("std.o3", instruments[0, 128], 0)
+    write_sbi("drums.o3", instruments[128, instruments.length], 35)
+elsif ARGV[0] == "-txt"
+    display_instruments(instruments)
+end

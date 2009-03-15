@@ -1,0 +1,3 @@
+Patch to DOSBox to trace the register writes to the OPL chip while running
+Doom.
+

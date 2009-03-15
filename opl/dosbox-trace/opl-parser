@@ -1,0 +1,376 @@
+#!/usr/bin/env ruby
+
+require "scanf"
+
+FREQ_MULT_OFFSET = 0x20
+SCALE_LEVEL_OFFSET = 0x40
+ATTACK_DECAY_OFFSET = 0x60
+SUSTAIN_RELEASE_OFFSET = 0x80
+OCTAVE_KEY_LSB_OFFSET = 0xa0
+OCTAVE_KEY_MSB_OFFSET = 0xb0
+FEEDBACK_OFFSET = 0xc0
+WAVEFORM_SELECT_OFFSET = 0xe0
+
+CHANNEL_OPERATORS = [ [ 0x00, 0x03 ],
+                      [ 0x01, 0x04 ],
+                      [ 0x02, 0x05 ],
+                      [ 0x08, 0x0b ],
+                      [ 0x09, 0x0c ],
+                      [ 0x0a, 0x0d ],
+                      [ 0x10, 0x13 ],
+                      [ 0x11, 0x14 ],
+                      [ 0x12, 0x15 ] ]
+
+def reverse_channels_list
+    result = [ -1 ] * 21
+
+    for channel in 0...CHANNEL_OPERATORS.length
+        result[CHANNEL_OPERATORS[channel][0]] = channel
+        result[CHANNEL_OPERATORS[channel][1]] = channel
+    end
+
+    result
+end
+
+OPERATOR_TO_CHANNEL = reverse_channels_list
+
+class RegisterWrite
+
+    attr_reader :register, :value
+
+    def initialize(register, value)
+        @register = register
+        @value = value
+    end
+
+    def to_s
+        sprintf("%02x: %02x", @register, @value)
+    end
+end
+
+class MatchPattern
+    def initialize(pattern_class, pattern)
+        @pattern_class = pattern_class
+        @pattern = pattern
+    end
+
+    def matches(array, offset)
+
+        # Sanity check
+
+        if offset + length > array.length
+            return nil
+        end
+
+        # Check that all values in this pattern match
+
+        for i in 0...@pattern.length
+            reg_pattern = @pattern[i]
+            reg_write = array[offset + i]
+
+            # Is this a write to the expected register?
+
+            expected = reg_pattern[0]
+            mask = reg_pattern[1]
+
+            if (reg_write.register & mask) != (expected & mask)
+                return nil
+            end
+
+            # Optional checking of the value:
+
+            if reg_pattern.length > 2
+                expected = reg_pattern[2]
+                mask = reg_pattern[3]
+
+                if (reg_write.value & mask) != (expected & mask)
+                    return nil
+                end
+            end
+        end
+
+        @pattern_class.new(array[offset,length])
+    end
+
+    def length
+        @pattern.length
+    end
+end
+
+class Event
+    attr_reader :reg_writes
+
+    def initialize(reg_writes)
+        @reg_writes = reg_writes
+    end
+
+    # Get a particular register value set in this event:
+
+    def find_value(register)
+        for r in @reg_writes
+            if register == r.register
+                return r.value
+            end
+        end
+
+        nil
+    end
+end
+
+# Event to configure a channel:
+
+class ChannelEvent < Event
+    def channel
+        first_reg = @reg_writes[0].register
+        first_reg & 0xf
+    end
+
+    def operator_1
+        CHANNEL_OPERATORS[channel][0]
+    end
+
+    def operator_2
+        CHANNEL_OPERATORS[channel][1]
+    end
+end
+
+# Event to configure a channel, but we are actually only configuring
+# a single operator
+
+class OperatorEvent < ChannelEvent
+    def channel
+        first_reg = @reg_writes[0].register
+        operator = first_reg & 0x1f
+        OPERATOR_TO_CHANNEL[operator]
+    end
+
+    # Operator number - 0 or 1
+
+    def operator_num
+        first_reg = @reg_writes[0].register
+        operator = first_reg & 0x1f
+
+        if operator == operator_1
+            0
+        else
+            1
+        end
+    end
+end
+
+class InitChannel < OperatorEvent
+
+    GENMIDI_REGS = [ FREQ_MULT_OFFSET, ATTACK_DECAY_OFFSET,
+                     SUSTAIN_RELEASE_OFFSET, WAVEFORM_SELECT_OFFSET,
+                     SCALE_LEVEL_OFFSET, SCALE_LEVEL_OFFSET ]
+
+    def operator_values(op)
+        result = []
+        for base in GENMIDI_REGS
+            result.push(find_value(base + op))
+        end
+
+        result[4] &= 0xc0  # Key scale level
+        result[5] &= 0x3f  # Output level
+
+        result
+    end
+
+    # Get values in the order that they are stored in the GENMIDI
+    # lump.
+
+    def values
+        operator_values(operator_1) +
+        [ find_value(FEEDBACK_OFFSET + channel) ] +
+        operator_values(operator_2)
+    end
+
+    def to_s
+        stringified = values.map { |val| sprintf("%02x", val) }
+        stringified = stringified.join(",")
+        "Initialising channel #{channel}: #{stringified}"
+    end
+end
+
+class DetectionSequence < Event
+    def to_s
+        "Adlib detection sequence"
+    end
+end
+
+class ScaleLevelChange < OperatorEvent
+    SCALE_LEVELS = [
+        "no change",
+        "3dB/8ve",
+        "1.5dB/8ve",
+        "6dB/8ve"
+    ]
+
+    def to_s
+        value = @reg_writes[0].value
+
+        scale_level = (value >> 6) & 0x3
+        total_level = (value & 0x3f) * 0.75
+
+        "Scale level change on channel #{channel}, op #{operator_num}: " +
+            "#{total_level}dB, #{SCALE_LEVELS[scale_level]}"
+    end
+end
+
+class KeyOn < ChannelEvent
+    def to_s
+        value = @reg_writes[0].value | (@reg_writes[1].value << 8)
+
+        octave = (value >> 10) & 0x7
+        f_number = value & 0x3ff
+
+        sprintf("Key on, channel %i: octave %i, freq 0x%x",
+                channel, octave, f_number)
+    end
+end
+
+class KeyOff < ChannelEvent
+    OPERATOR_TYPE = true
+
+    def to_s
+        "Key off, channel #{channel}"
+    end
+end
+
+class InitialInit < Event
+    def to_s
+        "Initial initialisation of registers..."
+    end
+end
+
+# Fallback for if we can't match a pattern:
+
+class BasicRegisterWrite < Event
+    def to_s
+        "Basic register write: " + @reg_writes[0].to_s
+    end
+end
+
+def parse_file(stream)
+    register = nil
+
+    result = []
+
+    stream.each_line do |s|
+        if s =~ /OPL_write: (\d+), ([0-9a-fA-F]+)/
+            reg = $1.to_i
+            value = $2.scanf("%x")[0]
+
+            if reg == 0
+                register = value
+            else
+                result.push(RegisterWrite.new(register, value))
+            end
+        end
+    end
+
+    result
+end
+
+MATCH_PATTERNS = [
+    # Adlib detection sequence:
+
+    MatchPattern.new(DetectionSequence,
+                     [ [ 4, 0xff, 0x60, 0xff ],
+                       [ 4, 0xff, 0x80, 0xff ],
+                       [ 2, 0xff, 0xff, 0xff ],
+                       [ 4, 0xff, 0x21, 0xff ],
+                       [ 4, 0xff, 0x60, 0xff ],
+                       [ 4, 0xff, 0x80, 0xff ] ]),
+
+    # Startup initialisation values:
+
+    MatchPattern.new(InitialInit,
+                     [ [ 0x40, 0xe3, 0x3f, 0xff ],
+                       [ 0x41, 0xe3, 0x3f, 0xff ],
+                       [ 0x42, 0xe3, 0x3f, 0xff ],
+                       [ 0x43, 0xe3, 0x3f, 0xff ] ]),
+
+    MatchPattern.new(InitialInit,
+                     [ [ 0x00, 0x03, 0x00, 0xff ],
+                       [ 0x01, 0x03, 0x00, 0xff ],
+                       [ 0x02, 0x03, 0x00, 0xff ],
+                       [ 0x03, 0x03, 0x00, 0xff ] ]),
+
+    # Key on
+
+    MatchPattern.new(KeyOn,
+                     [ [ OCTAVE_KEY_LSB_OFFSET, 0xf0 ],
+                       [ OCTAVE_KEY_MSB_OFFSET, 0xf0, 0x20, 0x20 ]]),
+
+    # Key off
+    MatchPattern.new(KeyOff,
+                     [ [ OCTAVE_KEY_MSB_OFFSET, 0xf0, 0x20, 0x00 ]]),
+
+    # This pattern occurs when a channel has the registers for its
+    # operators initialised.
+
+    MatchPattern.new(InitChannel,
+                     [ [SCALE_LEVEL_OFFSET,     0xe0],           # First op
+                       [FREQ_MULT_OFFSET,       0xe0],
+                       [ATTACK_DECAY_OFFSET,    0xe0],
+                       [SUSTAIN_RELEASE_OFFSET, 0xe0],
+                       [WAVEFORM_SELECT_OFFSET, 0xe0],
+
+                       [SCALE_LEVEL_OFFSET,     0xe0],           # Second op
+                       [FREQ_MULT_OFFSET,       0xe0],
+                       [ATTACK_DECAY_OFFSET,    0xe0],
+                       [SUSTAIN_RELEASE_OFFSET, 0xe0],
+                       [WAVEFORM_SELECT_OFFSET, 0xe0],
+
+                       [FEEDBACK_OFFSET,        0xf0] ]),
+
+    # Scale level change
+
+    MatchPattern.new(ScaleLevelChange,
+                     [ [ SCALE_LEVEL_OFFSET,    0xe0 ] ]),
+
+    # Fallback basic register write:
+
+    MatchPattern.new(BasicRegisterWrite, [[0, 0]])
+]
+
+writes = parse_file($stdin)
+
+offset = 0
+parsed = []
+
+channel_in_use = [ false ] * 9
+channel_allocate_queue = [ 0, 1, 2, 3, 4, 5, 6, 7, 8 ]
+
+while offset < writes.length
+    for pattern in MATCH_PATTERNS
+        match = pattern.matches(writes, offset)
+
+        if match != nil
+            parsed.push(match)
+            offset += pattern.length
+
+            if match.is_a?(KeyOn) and (match.channel >= 0 and match.channel < 9)
+                if !channel_in_use[match.channel]
+                    expected = channel_allocate_queue[0]
+                    channel_allocate_queue = (channel_allocate_queue[1,9] or [])
+                    channel_in_use[match.channel] = true
+                    puts "expect: #{expected}"
+                end
+            end
+            if match.is_a?(KeyOff) and (match.channel >= 0 and match.channel < 9)
+                channel_allocate_queue.push(match.channel)
+                channel_in_use[match.channel] = false
+            end
+
+            puts match
+            for r in match.reg_writes
+                puts "\t#{r}"
+            end
+
+            break
+        end
+    end
+end
+

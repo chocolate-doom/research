@@ -1,0 +1,3 @@
+Script to parse the Doom GENMIDI lump and dump to text file or SBI
+format file for use with sbiload.
+

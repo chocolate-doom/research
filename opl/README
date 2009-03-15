@@ -1,0 +1,15 @@
+Research data from investigating Chocolate Doom OPL MIDI playback.
+
+    dosbox-trace      DOSBox patch and script to monitor Vanilla Doom OPL
+                      register writes and interpret.
+
+    genmidi           Script for parsing and converting contents of Doom
+                      GENMIDI lump
+
+    oplinit           Linux program to initialise Adlib card and play a tone.
+
+    scale             Constructed MIDI file to play each note in sequence
+                      in order to determine the register writes for each note.
+
+    droplay           Test program for playing back DOSBox raw OPL files.
+

@@ -1,0 +1,26 @@
+#!/usr/bin/env ruby
+
+for i in 0...128
+    # note on
+    putc 0x0f
+    putc 0x98
+    putc i
+    putc 0x7b
+
+    # delay 
+    putc 0x0f
+
+    # note off
+
+    putc 0x88
+    putc i
+    putc 0x00
+end
+
+# end of track
+
+putc 0x00
+putc 0xff
+putc 0x2f
+putc 0x00
+

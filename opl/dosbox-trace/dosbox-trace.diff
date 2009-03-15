@@ -1,0 +1,32 @@
+--- dosbox-0.72-clean/src/hardware/adlib.cpp	2009-02-19 18:12:05.000000000 +0000
++++ dosbox-0.72/src/hardware/adlib.cpp	2009-03-12 18:15:41.000000000 +0000
+@@ -135,15 +135,17 @@
+ 
+ static Bitu OPL_Read(Bitu port,Bitu iolen) {
+ 	Bitu addr=port & 3;
++	Bitu result = 0xff;
+ 	switch (opl.mode) {
+ 	case OPL_opl2:
+-		return OPL2::YM3812Read(0,addr);
++		result = OPL2::YM3812Read(0,addr);
+ 	case OPL_dualopl2:
+-		return OPL2::YM3812Read(addr>>1,addr);
++		result = OPL2::YM3812Read(addr>>1,addr);
+ 	case OPL_opl3:
+-		return THEOPL3::YMF262Read(0,addr);
++		result = THEOPL3::YMF262Read(0,addr);
+ 	}
+-	return 0xff;
++	printf("OPL_read: %x -> %x\n", addr, result);
++	return result;
+ }
+ 
+ static void OPL_RawAdd(Bitu index,Bitu val);
+@@ -160,6 +162,7 @@
+ 		if (opl.raw.capturing) OPL_RawAdd(index,val);
+ 	} else opl.raw.cmd[port>>1]=val;
+ 	if (!port) adlib_commandreg=val;
++	printf("OPL_write: %x, %x\n", port, val);
+ 	switch (opl.mode) {
+ 	case OPL_opl2:
+ 		OPL2::YM3812Write(0,port,val);

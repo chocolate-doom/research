@@ -13,17 +13,28 @@ void write_reg(unsigned int reg, unsigned int val)
 
     outb(reg, ADLIB_PORT);
 
-    for (i=0; i<6; ++i) {
+    for (i=0; i<6; ++i)
+    {
         inb(ADLIB_PORT);
     }
 
     outb(val, ADLIB_PORT + 1);
 
-    for (i=0; i<35; ++i) {
+    for (i=0; i<35; ++i)
+    {
         inb(ADLIB_PORT);
     }
 }
 
+void clear_all_regs(void)
+{
+    int i;
+
+    for (i=0; i<=0xff; ++i)
+    {
+	write_reg(i, 0x00);
+    }
+}
 
 void init(void)
 {
@@ -38,7 +49,7 @@ void init(void)
     int val1 = inb(ADLIB_PORT) & 0xe0;
     write_reg(2, 0xff);
     write_reg(4, 0x21);
-    sleep(1);
+    usleep(50);
     int val2 = inb(ADLIB_PORT) & 0xe0;
     write_reg(4, 0x60);
     write_reg(4, 0x80);
@@ -96,15 +107,18 @@ void play_file(char *filename)
 
 int main(int argc, char *argv[])
 {
-    init();
-
     if (argc < 2)
     {
         printf("Usage: %s <filename>\n", argv[0]);
         exit(-1);
     }
 
+    init();
+    clear_all_regs();
+    sleep(1);
+
     play_file(argv[1]);
 
+    clear_all_regs();
 }
 

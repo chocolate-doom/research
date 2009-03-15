@@ -13,3 +13,6 @@ Research data from investigating Chocolate Doom OPL MIDI playback.
 
     droplay           Test program for playing back DOSBox raw OPL files.
 
+    volume            Examination of how scale level values are affected by
+                      menu volume setting.
+

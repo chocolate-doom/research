@@ -1,0 +1,42 @@
+#!/usr/bin/env ruby
+
+NOTE=0x20
+
+for i in 0...128
+    # set volume to zero
+
+    putc 0x00
+    putc 0xb8
+    putc 0x07
+    putc 0x00
+
+    # note on
+    putc 0x0f
+    putc 0x98
+    putc NOTE
+    putc 0x7b
+
+    # Set volume
+
+    putc 0x00
+    putc 0xb8
+    putc 0x07
+    putc i
+
+    # delay
+    putc 0x0f
+
+    # note off
+
+    putc 0x88
+    putc NOTE
+    putc 0x00
+end
+
+# end of track
+
+putc 0x00
+putc 0xff
+putc 0x2f
+putc 0x00
+

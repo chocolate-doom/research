@@ -16,3 +16,7 @@ Research data from investigating Chocolate Doom OPL MIDI playback.
     volume            Examination of how scale level values are affected by
                       menu volume setting.
 
+    level             Constructed MIDI to play a note at each volume level
+                      in order to determine the register values for MIDI
+		      volumes.
+

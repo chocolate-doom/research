@@ -1,0 +1,3422 @@
+Adlib detection sequence
+	04: 60
+	04: 80
+	02: ff
+	04: 21
+	04: 60
+	04: 80
+Adlib detection sequence
+	04: 60
+	04: 80
+	02: ff
+	04: 21
+	04: 60
+	04: 80
+Initial initialisation of registers...
+	40: 3f
+	41: 3f
+	42: 3f
+	43: 3f
+Initial initialisation of registers...
+	44: 3f
+	45: 3f
+	46: 3f
+	47: 3f
+Initial initialisation of registers...
+	48: 3f
+	49: 3f
+	4a: 3f
+	4b: 3f
+Initial initialisation of registers...
+	4c: 3f
+	4d: 3f
+	4e: 3f
+	4f: 3f
+Initial initialisation of registers...
+	50: 3f
+	51: 3f
+	52: 3f
+	53: 3f
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+Initial initialisation of registers...
+	60: 00
+	61: 00
+	62: 00
+	63: 00
+Initial initialisation of registers...
+	64: 00
+	65: 00
+	66: 00
+	67: 00
+Initial initialisation of registers...
+	68: 00
+	69: 00
+	6a: 00
+	6b: 00
+Initial initialisation of registers...
+	6c: 00
+	6d: 00
+	6e: 00
+	6f: 00
+Initial initialisation of registers...
+	70: 00
+	71: 00
+	72: 00
+	73: 00
+Initial initialisation of registers...
+	74: 00
+	75: 00
+	76: 00
+	77: 00
+Initial initialisation of registers...
+	78: 00
+	79: 00
+	7a: 00
+	7b: 00
+Initial initialisation of registers...
+	7c: 00
+	7d: 00
+	7e: 00
+	7f: 00
+Initial initialisation of registers...
+	80: 00
+	81: 00
+	82: 00
+	83: 00
+Initial initialisation of registers...
+	84: 00
+	85: 00
+	86: 00
+	87: 00
+Initial initialisation of registers...
+	88: 00
+	89: 00
+	8a: 00
+	8b: 00
+Initial initialisation of registers...
+	8c: 00
+	8d: 00
+	8e: 00
+	8f: 00
+Initial initialisation of registers...
+	90: 00
+	91: 00
+	92: 00
+	93: 00
+Initial initialisation of registers...
+	94: 00
+	95: 00
+	96: 00
+	97: 00
+Initial initialisation of registers...
+	98: 00
+	99: 00
+	9a: 00
+	9b: 00
+Initial initialisation of registers...
+	9c: 00
+	9d: 00
+	9e: 00
+	9f: 00
+Initial initialisation of registers...
+	a0: 00
+	a1: 00
+	a2: 00
+	a3: 00
+Initial initialisation of registers...
+	a4: 00
+	a5: 00
+	a6: 00
+	a7: 00
+Initial initialisation of registers...
+	a8: 00
+	a9: 00
+	aa: 00
+	ab: 00
+Initial initialisation of registers...
+	ac: 00
+	ad: 00
+	ae: 00
+	af: 00
+Initial initialisation of registers...
+	b0: 00
+	b1: 00
+	b2: 00
+	b3: 00
+Initial initialisation of registers...
+	b4: 00
+	b5: 00
+	b6: 00
+	b7: 00
+Initial initialisation of registers...
+	b8: 00
+	b9: 00
+	ba: 00
+	bb: 00
+Initial initialisation of registers...
+	bc: 00
+	bd: 00
+	be: 00
+	bf: 00
+Initial initialisation of registers...
+	c0: 00
+	c1: 00
+	c2: 00
+	c3: 00
+Initial initialisation of registers...
+	c4: 00
+	c5: 00
+	c6: 00
+	c7: 00
+Initial initialisation of registers...
+	c8: 00
+	c9: 00
+	ca: 00
+	cb: 00
+Initial initialisation of registers...
+	cc: 00
+	cd: 00
+	ce: 00
+	cf: 00
+Initial initialisation of registers...
+	d0: 00
+	d1: 00
+	d2: 00
+	d3: 00
+Initial initialisation of registers...
+	d4: 00
+	d5: 00
+	d6: 00
+	d7: 00
+Initial initialisation of registers...
+	d8: 00
+	d9: 00
+	da: 00
+	db: 00
+Initial initialisation of registers...
+	dc: 00
+	dd: 00
+	de: 00
+	df: 00
+Initial initialisation of registers...
+	e0: 00
+	e1: 00
+	e2: 00
+	e3: 00
+Initial initialisation of registers...
+	e4: 00
+	e5: 00
+	e6: 00
+	e7: 00
+Initial initialisation of registers...
+	e8: 00
+	e9: 00
+	ea: 00
+	eb: 00
+Initial initialisation of registers...
+	ec: 00
+	ed: 00
+	ee: 00
+	ef: 00
+Initial initialisation of registers...
+	f0: 00
+	f1: 00
+	f2: 00
+	f3: 00
+Basic register write: f4: 00
+	f4: 00
+Basic register write: f5: 00
+	f5: 00
+Basic register write: 01: 00
+	01: 00
+Basic register write: 02: 00
+	02: 00
+Basic register write: 03: 00
+	03: 00
+Initial initialisation of registers...
+	04: 00
+	05: 00
+	06: 00
+	07: 00
+Initial initialisation of registers...
+	08: 00
+	09: 00
+	0a: 00
+	0b: 00
+Initial initialisation of registers...
+	0c: 00
+	0d: 00
+	0e: 00
+	0f: 00
+Initial initialisation of registers...
+	10: 00
+	11: 00
+	12: 00
+	13: 00
+Initial initialisation of registers...
+	14: 00
+	15: 00
+	16: 00
+	17: 00
+Initial initialisation of registers...
+	18: 00
+	19: 00
+	1a: 00
+	1b: 00
+Initial initialisation of registers...
+	1c: 00
+	1d: 00
+	1e: 00
+	1f: 00
+Initial initialisation of registers...
+	20: 00
+	21: 00
+	22: 00
+	23: 00
+Initial initialisation of registers...
+	24: 00
+	25: 00
+	26: 00
+	27: 00
+Initial initialisation of registers...
+	28: 00
+	29: 00
+	2a: 00
+	2b: 00
+Initial initialisation of registers...
+	2c: 00
+	2d: 00
+	2e: 00
+	2f: 00
+Initial initialisation of registers...
+	30: 00
+	31: 00
+	32: 00
+	33: 00
+Initial initialisation of registers...
+	34: 00
+	35: 00
+	36: 00
+	37: 00
+Initial initialisation of registers...
+	38: 00
+	39: 00
+	3a: 00
+	3b: 00
+Initial initialisation of registers...
+	3c: 00
+	3d: 00
+	3e: 00
+	3f: 00
+Basic register write: 04: 60
+	04: 60
+Basic register write: 04: 80
+	04: 80
+Basic register write: 01: 20
+	01: 20
+Basic register write: 08: 40
+	08: 40
+Initialising channel 0: 20,e0,14,00,80,0f,38,30,e1,d6,00,80,3f
+	43: bf
+	23: 30
+	63: e1
+	83: d6
+	e3: 00
+	40: 8f
+	20: 20
+	60: e0
+	80: 14
+	e0: 00
+	c0: 38
+Scale level change on channel 0, op 1: 6.0dB, 1.5dB/8ve
+	43: 88
+expect: 0
+Key on, channel 0: octave 2, freq 0x365
+	a0: 65
+	b0: 2b
+Initialising channel 1: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	44: 3f
+	24: 30
+	64: f1
+	84: f4
+	e4: 01
+	41: 54
+	21: 30
+	61: f0
+	81: f3
+	e1: 01
+	c1: 3a
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Key off, channel 1
+	b1: 0a
+Initialising channel 2: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	45: 3f
+	25: 30
+	65: f1
+	85: f4
+	e5: 01
+	42: 54
+	22: 30
+	62: f0
+	82: f3
+	e2: 01
+	c2: 3a
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Key off, channel 2
+	b2: 0a
+Initialising channel 3: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	4b: 3f
+	2b: 30
+	6b: f1
+	8b: f4
+	eb: 01
+	48: 54
+	28: 30
+	68: f0
+	88: f3
+	e8: 01
+	c3: 3a
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 46.5dB, no change
+	4b: 3e
+Key off, channel 3
+	b3: 0a
+Initialising channel 4: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	4c: 3f
+	2c: 30
+	6c: f1
+	8c: f4
+	ec: 01
+	49: 54
+	29: 30
+	69: f0
+	89: f3
+	e9: 01
+	c4: 3a
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 45.75dB, no change
+	4c: 3d
+Key off, channel 4
+	b4: 0a
+Initialising channel 5: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	4d: 3f
+	2d: 30
+	6d: f1
+	8d: f4
+	ed: 01
+	4a: 54
+	2a: 30
+	6a: f0
+	8a: f3
+	ea: 01
+	c5: 3a
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 45.0dB, no change
+	4d: 3c
+Key off, channel 5
+	b5: 0a
+Initialising channel 6: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	53: 3f
+	33: 30
+	73: f1
+	93: f4
+	f3: 01
+	50: 54
+	30: 30
+	70: f0
+	90: f3
+	f0: 01
+	c6: 3a
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 44.25dB, no change
+	53: 3b
+Key off, channel 6
+	b6: 0a
+Initialising channel 7: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	54: 3f
+	34: 30
+	74: f1
+	94: f4
+	f4: 01
+	51: 54
+	31: 30
+	71: f0
+	91: f3
+	f1: 01
+	c7: 3a
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 43.5dB, no change
+	54: 3a
+Key off, channel 7
+	b7: 0a
+Initialising channel 8: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	55: 3f
+	35: 30
+	75: f1
+	95: f4
+	f5: 01
+	52: 54
+	32: 30
+	72: f0
+	92: f3
+	f2: 01
+	c8: 3a
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 43.5dB, no change
+	55: 3a
+Key off, channel 8
+	b8: 0a
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 42.75dB, no change
+	44: 39
+Key off, channel 1
+	b1: 0a
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 42.0dB, no change
+	45: 38
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 41.25dB, no change
+	4b: 37
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 41.25dB, no change
+	4c: 37
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 40.5dB, no change
+	4d: 36
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 39.75dB, no change
+	53: 35
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 39.0dB, no change
+	54: 34
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 39.0dB, no change
+	55: 34
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 38.25dB, no change
+	44: 33
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 37.5dB, no change
+	45: 32
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 37.5dB, no change
+	4b: 32
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 36.75dB, no change
+	4c: 31
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 36.0dB, no change
+	4d: 30
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 35.25dB, no change
+	53: 2f
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 35.25dB, no change
+	54: 2f
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 34.5dB, no change
+	55: 2e
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 33.75dB, no change
+	44: 2d
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 33.75dB, no change
+	45: 2d
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 33.0dB, no change
+	4b: 2c
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 32.25dB, no change
+	4c: 2b
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 31.5dB, no change
+	4d: 2a
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 30.75dB, no change
+	53: 29
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 30.0dB, no change
+	54: 28
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 29.25dB, no change
+	55: 27
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 29.25dB, no change
+	44: 27
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 28.5dB, no change
+	45: 26
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 27.75dB, no change
+	4b: 25
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 27.0dB, no change
+	4c: 24
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 26.25dB, no change
+	4d: 23
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 25.5dB, no change
+	53: 22
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 25.5dB, no change
+	54: 22
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 24.75dB, no change
+	55: 21
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 24.0dB, no change
+	44: 20
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 24.0dB, no change
+	45: 20
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 23.25dB, no change
+	4b: 1f
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 22.5dB, no change
+	4c: 1e
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 22.5dB, no change
+	4d: 1e
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 21.75dB, no change
+	53: 1d
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 21.0dB, no change
+	54: 1c
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 21.0dB, no change
+	55: 1c
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 20.25dB, no change
+	44: 1b
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 20.25dB, no change
+	45: 1b
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 19.5dB, no change
+	4b: 1a
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 19.5dB, no change
+	4c: 1a
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 18.75dB, no change
+	4d: 19
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 17.25dB, no change
+	55: 17
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 17.25dB, no change
+	44: 17
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 16.5dB, no change
+	45: 16
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 16.5dB, no change
+	4b: 16
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 16.5dB, no change
+	4c: 16
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 16.5dB, no change
+	4d: 16
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 15.75dB, no change
+	53: 15
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 15.75dB, no change
+	54: 15
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 15.0dB, no change
+	55: 14
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 15.0dB, no change
+	44: 14
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 14.25dB, no change
+	45: 13
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 14.25dB, no change
+	4b: 13
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 13.5dB, no change
+	4c: 12
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 13.5dB, no change
+	4d: 12
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 13.5dB, no change
+	53: 12
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 12.75dB, no change
+	54: 11
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 12.75dB, no change
+	55: 11
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 12.0dB, no change
+	44: 10
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 12.0dB, no change
+	45: 10
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 12.0dB, no change
+	4b: 10
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 11.25dB, no change
+	4c: 0f
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 11.25dB, no change
+	4d: 0f
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 11.25dB, no change
+	53: 0f
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 10.5dB, no change
+	54: 0e
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 10.5dB, no change
+	55: 0e
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 10.5dB, no change
+	44: 0e
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 9.75dB, no change
+	45: 0d
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 9.75dB, no change
+	4b: 0d
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 9.75dB, no change
+	4c: 0d
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 9.0dB, no change
+	4d: 0c
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 9.0dB, no change
+	53: 0c
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 9.0dB, no change
+	54: 0c
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 8.25dB, no change
+	55: 0b
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 8.25dB, no change
+	44: 0b
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 8.25dB, no change
+	45: 0b
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 7.5dB, no change
+	4b: 0a
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 7.5dB, no change
+	4c: 0a
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 7.5dB, no change
+	4d: 0a
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 6.75dB, no change
+	53: 09
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 6.75dB, no change
+	54: 09
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 6.75dB, no change
+	55: 09
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 6.0dB, no change
+	44: 08
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 6.0dB, no change
+	45: 08
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 6.0dB, no change
+	4b: 08
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 6.0dB, no change
+	4c: 08
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 5.25dB, no change
+	4d: 07
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 5.25dB, no change
+	53: 07
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 5.25dB, no change
+	54: 07
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 5.25dB, no change
+	55: 07
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 4.5dB, no change
+	44: 06
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 4.5dB, no change
+	45: 06
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 4.5dB, no change
+	4b: 06
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 3.75dB, no change
+	4c: 05
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 3.75dB, no change
+	4d: 05
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 3.75dB, no change
+	53: 05
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 3.75dB, no change
+	54: 05
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 3.0dB, no change
+	55: 04
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 3.0dB, no change
+	44: 04
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 3.0dB, no change
+	45: 04
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 3.0dB, no change
+	4b: 04
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 2.25dB, no change
+	4c: 03
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 2.25dB, no change
+	4d: 03
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 2.25dB, no change
+	53: 03
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 2.25dB, no change
+	54: 03
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 2.25dB, no change
+	55: 03
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 1, op 1: 47.25dB, no change
+	44: 3f
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 1.5dB, no change
+	44: 02
+Key off, channel 1
+	b1: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 1.5dB, no change
+	45: 02
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 1.5dB, no change
+	4b: 02
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 1.5dB, no change
+	4c: 02
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 1.5dB, no change
+	4d: 02
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 1.5dB, no change
+	53: 02
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 1.5dB, no change
+	54: 02
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 1.5dB, no change
+	55: 02
+Key off, channel 8
+	b8: 0a
+Key off, channel 0
+	b0: 0b
+Initialising channel 1: 20,e0,14,00,80,0f,38,30,e1,d6,00,80,3f
+	44: bf
+	24: 30
+	64: e1
+	84: d6
+	e4: 00
+	41: 8f
+	21: 20
+	61: e0
+	81: 14
+	e1: 00
+	c1: 38
+Scale level change on channel 1, op 1: 6.0dB, 1.5dB/8ve
+	44: 88
+expect: 1
+Key on, channel 1: octave 2, freq 0x365
+	a1: 65
+	b1: 2b
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 46.5dB, no change
+	4c: 3e
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 45.75dB, no change
+	4d: 3d
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 45.0dB, no change
+	53: 3c
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 44.25dB, no change
+	54: 3b
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 43.5dB, no change
+	55: 3a
+Key off, channel 8
+	b8: 0a
+Initialising channel 0: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	43: 3f
+	23: 30
+	63: f1
+	83: f4
+	e3: 01
+	40: 54
+	20: 30
+	60: f0
+	80: f3
+	e0: 01
+	c0: 3a
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 43.5dB, no change
+	43: 3a
+Key off, channel 0
+	b0: 0a
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 42.75dB, no change
+	45: 39
+Key off, channel 2
+	b2: 0a
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 42.0dB, no change
+	4b: 38
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 41.25dB, no change
+	4c: 37
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 41.25dB, no change
+	4d: 37
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 40.5dB, no change
+	53: 36
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 39.75dB, no change
+	54: 35
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 39.0dB, no change
+	55: 34
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 39.0dB, no change
+	43: 34
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 38.25dB, no change
+	45: 33
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 37.5dB, no change
+	4b: 32
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 37.5dB, no change
+	4c: 32
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 36.75dB, no change
+	4d: 31
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 36.0dB, no change
+	53: 30
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 35.25dB, no change
+	54: 2f
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 35.25dB, no change
+	55: 2f
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 34.5dB, no change
+	43: 2e
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 33.75dB, no change
+	45: 2d
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 33.75dB, no change
+	4b: 2d
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 33.0dB, no change
+	4c: 2c
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 32.25dB, no change
+	4d: 2b
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 31.5dB, no change
+	53: 2a
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 30.75dB, no change
+	54: 29
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 30.0dB, no change
+	55: 28
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 29.25dB, no change
+	43: 27
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 29.25dB, no change
+	45: 27
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 28.5dB, no change
+	4b: 26
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 27.75dB, no change
+	4c: 25
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 27.0dB, no change
+	4d: 24
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 26.25dB, no change
+	53: 23
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 25.5dB, no change
+	54: 22
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 25.5dB, no change
+	55: 22
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 24.75dB, no change
+	43: 21
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 24.0dB, no change
+	45: 20
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 24.0dB, no change
+	4b: 20
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 23.25dB, no change
+	4c: 1f
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 22.5dB, no change
+	4d: 1e
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 22.5dB, no change
+	53: 1e
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 21.75dB, no change
+	54: 1d
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 21.0dB, no change
+	55: 1c
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 21.0dB, no change
+	43: 1c
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 20.25dB, no change
+	45: 1b
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 20.25dB, no change
+	4b: 1b
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 19.5dB, no change
+	4c: 1a
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 19.5dB, no change
+	4d: 1a
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 18.75dB, no change
+	53: 19
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 17.25dB, no change
+	43: 17
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 17.25dB, no change
+	45: 17
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 16.5dB, no change
+	4b: 16
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 16.5dB, no change
+	4c: 16
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 16.5dB, no change
+	4d: 16
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 16.5dB, no change
+	53: 16
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 15.75dB, no change
+	54: 15
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 15.75dB, no change
+	55: 15
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 15.0dB, no change
+	43: 14
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 15.0dB, no change
+	45: 14
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 14.25dB, no change
+	4b: 13
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 14.25dB, no change
+	4c: 13
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 13.5dB, no change
+	4d: 12
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 13.5dB, no change
+	53: 12
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 13.5dB, no change
+	54: 12
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 12.75dB, no change
+	55: 11
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 12.75dB, no change
+	43: 11
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 12.0dB, no change
+	45: 10
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 12.0dB, no change
+	4b: 10
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 12.0dB, no change
+	4c: 10
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 11.25dB, no change
+	4d: 0f
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 11.25dB, no change
+	53: 0f
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 11.25dB, no change
+	54: 0f
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 10.5dB, no change
+	55: 0e
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 10.5dB, no change
+	43: 0e
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 10.5dB, no change
+	45: 0e
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 9.75dB, no change
+	4b: 0d
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 9.75dB, no change
+	4c: 0d
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 9.75dB, no change
+	4d: 0d
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 9.0dB, no change
+	53: 0c
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 9.0dB, no change
+	54: 0c
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 9.0dB, no change
+	55: 0c
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 8.25dB, no change
+	43: 0b
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 8.25dB, no change
+	45: 0b
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 8.25dB, no change
+	4b: 0b
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 7.5dB, no change
+	4c: 0a
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 7.5dB, no change
+	4d: 0a
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 7.5dB, no change
+	53: 0a
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 6.75dB, no change
+	54: 09
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 6.75dB, no change
+	55: 09
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 6.75dB, no change
+	43: 09
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 6.0dB, no change
+	45: 08
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 6.0dB, no change
+	4b: 08
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 6.0dB, no change
+	4c: 08
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 6.0dB, no change
+	4d: 08
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 5.25dB, no change
+	53: 07
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 5.25dB, no change
+	54: 07
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 5.25dB, no change
+	55: 07
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 5.25dB, no change
+	43: 07
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 4.5dB, no change
+	45: 06
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 4.5dB, no change
+	4b: 06
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 4.5dB, no change
+	4c: 06
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 3.75dB, no change
+	4d: 05
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 3.75dB, no change
+	53: 05
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 3.75dB, no change
+	54: 05
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 3.75dB, no change
+	55: 05
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 3.0dB, no change
+	43: 04
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 3.0dB, no change
+	45: 04
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 3.0dB, no change
+	4b: 04
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 3.0dB, no change
+	4c: 04
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 2.25dB, no change
+	4d: 03
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 2.25dB, no change
+	53: 03
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 2.25dB, no change
+	54: 03
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 2.25dB, no change
+	55: 03
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 2.25dB, no change
+	43: 03
+Key off, channel 0
+	b0: 0a
+Scale level change on channel 2, op 1: 47.25dB, no change
+	45: 3f
+expect: 2
+Key on, channel 2: octave 2, freq 0x223
+	a2: 23
+	b2: 2a
+Scale level change on channel 2, op 1: 1.5dB, no change
+	45: 02
+Key off, channel 2
+	b2: 0a
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 1.5dB, no change
+	4b: 02
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 1.5dB, no change
+	4c: 02
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 1.5dB, no change
+	4d: 02
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 1.5dB, no change
+	53: 02
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 1.5dB, no change
+	54: 02
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 1.5dB, no change
+	55: 02
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 1.5dB, no change
+	43: 02
+Key off, channel 0
+	b0: 0a
+Key off, channel 1
+	b1: 0b
+Initialising channel 2: 20,e0,14,00,80,0f,38,30,e1,d6,00,80,3f
+	45: bf
+	25: 30
+	65: e1
+	85: d6
+	e5: 00
+	42: 8f
+	22: 20
+	62: e0
+	82: 14
+	e2: 00
+	c2: 38
+Scale level change on channel 2, op 1: 6.0dB, 1.5dB/8ve
+	45: 88
+expect: 2
+Key on, channel 2: octave 2, freq 0x365
+	a2: 65
+	b2: 2b
+Scale level change on channel 3, op 1: 47.25dB, no change
+	4b: 3f
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Key off, channel 3
+	b3: 0a
+Scale level change on channel 4, op 1: 47.25dB, no change
+	4c: 3f
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Key off, channel 4
+	b4: 0a
+Scale level change on channel 5, op 1: 47.25dB, no change
+	4d: 3f
+expect: 5
+Key on, channel 5: octave 2, freq 0x223
+	a5: 23
+	b5: 2a
+Scale level change on channel 5, op 1: 46.5dB, no change
+	4d: 3e
+Key off, channel 5
+	b5: 0a
+Scale level change on channel 6, op 1: 47.25dB, no change
+	53: 3f
+expect: 6
+Key on, channel 6: octave 2, freq 0x223
+	a6: 23
+	b6: 2a
+Scale level change on channel 6, op 1: 45.75dB, no change
+	53: 3d
+Key off, channel 6
+	b6: 0a
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+expect: 7
+Key on, channel 7: octave 2, freq 0x223
+	a7: 23
+	b7: 2a
+Scale level change on channel 7, op 1: 45.0dB, no change
+	54: 3c
+Key off, channel 7
+	b7: 0a
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+expect: 8
+Key on, channel 8: octave 2, freq 0x223
+	a8: 23
+	b8: 2a
+Scale level change on channel 8, op 1: 44.25dB, no change
+	55: 3b
+Key off, channel 8
+	b8: 0a
+Scale level change on channel 0, op 1: 47.25dB, no change
+	43: 3f
+expect: 0
+Key on, channel 0: octave 2, freq 0x223
+	a0: 23
+	b0: 2a
+Scale level change on channel 0, op 1: 43.5dB, no change
+	43: 3a
+Key off, channel 0
+	b0: 0a
+Initialising channel 1: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	44: 3f
+	24: 30
+	64: f1
+	84: f4
+	e4: 01
+	41: 54
+	21: 30
+	61: f0
+	81: f3
+	e1: 01
+	c1: 3a
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Scale level change on channel 1, op 1: 43.5dB, no change
+	44: 3a
+Key off, channel 1
+	b1: 0a
+expect: 3
+Key on, channel 3: octave 2, freq 0x223
+	a3: 23
+	b3: 2a
+Scale level change on channel 3, op 1: 42.75dB, no change
+	4b: 39
+Key off, channel 3
+	b3: 0a
+expect: 4
+Key on, channel 4: octave 2, freq 0x223
+	a4: 23
+	b4: 2a
+Scale level change on channel 4, op 1: 42.0dB, no change
+	4c: 38
+Key off, channel 2
+	b2: 0b
+Key off, channel 4
+	b4: 0a
+Initial initialisation of registers...
+	40: 3f
+	41: 3f
+	42: 3f
+	43: 3f
+Initial initialisation of registers...
+	44: 3f
+	45: 3f
+	46: 3f
+	47: 3f
+Initial initialisation of registers...
+	48: 3f
+	49: 3f
+	4a: 3f
+	4b: 3f
+Initial initialisation of registers...
+	4c: 3f
+	4d: 3f
+	4e: 3f
+	4f: 3f
+Initial initialisation of registers...
+	50: 3f
+	51: 3f
+	52: 3f
+	53: 3f
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+Initial initialisation of registers...
+	60: 00
+	61: 00
+	62: 00
+	63: 00
+Initial initialisation of registers...
+	64: 00
+	65: 00
+	66: 00
+	67: 00
+Initial initialisation of registers...
+	68: 00
+	69: 00
+	6a: 00
+	6b: 00
+Initial initialisation of registers...
+	6c: 00
+	6d: 00
+	6e: 00
+	6f: 00
+Initial initialisation of registers...
+	70: 00
+	71: 00
+	72: 00
+	73: 00
+Initial initialisation of registers...
+	74: 00
+	75: 00
+	76: 00
+	77: 00
+Initial initialisation of registers...
+	78: 00
+	79: 00
+	7a: 00
+	7b: 00
+Initial initialisation of registers...
+	7c: 00
+	7d: 00
+	7e: 00
+	7f: 00
+Initial initialisation of registers...
+	80: 00
+	81: 00
+	82: 00
+	83: 00
+Initial initialisation of registers...
+	84: 00
+	85: 00
+	86: 00
+	87: 00
+Initial initialisation of registers...
+	88: 00
+	89: 00
+	8a: 00
+	8b: 00
+Initial initialisation of registers...
+	8c: 00
+	8d: 00
+	8e: 00
+	8f: 00
+Initial initialisation of registers...
+	90: 00
+	91: 00
+	92: 00
+	93: 00
+Initial initialisation of registers...
+	94: 00
+	95: 00
+	96: 00
+	97: 00
+Initial initialisation of registers...
+	98: 00
+	99: 00
+	9a: 00
+	9b: 00
+Initial initialisation of registers...
+	9c: 00
+	9d: 00
+	9e: 00
+	9f: 00
+Initial initialisation of registers...
+	a0: 00
+	a1: 00
+	a2: 00
+	a3: 00
+Initial initialisation of registers...
+	a4: 00
+	a5: 00
+	a6: 00
+	a7: 00
+Initial initialisation of registers...
+	a8: 00
+	a9: 00
+	aa: 00
+	ab: 00
+Initial initialisation of registers...
+	ac: 00
+	ad: 00
+	ae: 00
+	af: 00
+Initial initialisation of registers...
+	b0: 00
+	b1: 00
+	b2: 00
+	b3: 00
+Initial initialisation of registers...
+	b4: 00
+	b5: 00
+	b6: 00
+	b7: 00
+Initial initialisation of registers...
+	b8: 00
+	b9: 00
+	ba: 00
+	bb: 00
+Initial initialisation of registers...
+	bc: 00
+	bd: 00
+	be: 00
+	bf: 00
+Initial initialisation of registers...
+	c0: 00
+	c1: 00
+	c2: 00
+	c3: 00
+Initial initialisation of registers...
+	c4: 00
+	c5: 00
+	c6: 00
+	c7: 00
+Initial initialisation of registers...
+	c8: 00
+	c9: 00
+	ca: 00
+	cb: 00
+Initial initialisation of registers...
+	cc: 00
+	cd: 00
+	ce: 00
+	cf: 00
+Initial initialisation of registers...
+	d0: 00
+	d1: 00
+	d2: 00
+	d3: 00
+Initial initialisation of registers...
+	d4: 00
+	d5: 00
+	d6: 00
+	d7: 00
+Initial initialisation of registers...
+	d8: 00
+	d9: 00
+	da: 00
+	db: 00
+Initial initialisation of registers...
+	dc: 00
+	dd: 00
+	de: 00
+	df: 00
+Initial initialisation of registers...
+	e0: 00
+	e1: 00
+	e2: 00
+	e3: 00
+Initial initialisation of registers...
+	e4: 00
+	e5: 00
+	e6: 00
+	e7: 00
+Initial initialisation of registers...
+	e8: 00
+	e9: 00
+	ea: 00
+	eb: 00
+Initial initialisation of registers...
+	ec: 00
+	ed: 00
+	ee: 00
+	ef: 00
+Initial initialisation of registers...
+	f0: 00
+	f1: 00
+	f2: 00
+	f3: 00
+Basic register write: f4: 00
+	f4: 00
+Basic register write: f5: 00
+	f5: 00
+Basic register write: 01: 00
+	01: 00
+Basic register write: 02: 00
+	02: 00
+Basic register write: 03: 00
+	03: 00
+Initial initialisation of registers...
+	04: 00
+	05: 00
+	06: 00
+	07: 00
+Initial initialisation of registers...
+	08: 00
+	09: 00
+	0a: 00
+	0b: 00
+Initial initialisation of registers...
+	0c: 00
+	0d: 00
+	0e: 00
+	0f: 00
+Initial initialisation of registers...
+	10: 00
+	11: 00
+	12: 00
+	13: 00
+Initial initialisation of registers...
+	14: 00
+	15: 00
+	16: 00
+	17: 00
+Initial initialisation of registers...
+	18: 00
+	19: 00
+	1a: 00
+	1b: 00
+Initial initialisation of registers...
+	1c: 00
+	1d: 00
+	1e: 00
+	1f: 00
+Initial initialisation of registers...
+	20: 00
+	21: 00
+	22: 00
+	23: 00
+Initial initialisation of registers...
+	24: 00
+	25: 00
+	26: 00
+	27: 00
+Initial initialisation of registers...
+	28: 00
+	29: 00
+	2a: 00
+	2b: 00
+Initial initialisation of registers...
+	2c: 00
+	2d: 00
+	2e: 00
+	2f: 00
+Initial initialisation of registers...
+	30: 00
+	31: 00
+	32: 00
+	33: 00
+Initial initialisation of registers...
+	34: 00
+	35: 00
+	36: 00
+	37: 00
+Initial initialisation of registers...
+	38: 00
+	39: 00
+	3a: 00
+	3b: 00
+Initial initialisation of registers...
+	3c: 00
+	3d: 00
+	3e: 00
+	3f: 00
+Basic register write: 04: 60
+	04: 60
+Basic register write: 04: 80
+	04: 80
+Basic register write: 01: 20
+	01: 20

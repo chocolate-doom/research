@@ -1,0 +1,4 @@
+Test MIDI file to play a note at each volume level in sequence, to see how
+MIDI volumes are mapped to register values.
+
+

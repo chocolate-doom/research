@@ -59,6 +59,18 @@ void init(void)
         fprintf(stderr, "Adlib not detected\n");
         exit(-1);
     }
+
+    // reset timers
+
+    write_reg(4, 0x60);
+    write_reg(4, 0x80);
+
+    // "Allow FM chips to control the waveform of each operator":
+    write_reg(1, 0x20);
+
+    // fm mode
+    write_reg(8, 0x40);
+
 }
 
 void play_file(char *filename)

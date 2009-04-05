@@ -7,9 +7,20 @@
 #define HEADER_STRING "DBRAWOPL"
 #define ADLIB_PORT 0x388
 
+// #define DEBUG
+
 void write_reg(unsigned int reg, unsigned int val)
 {
     int i;
+
+    // This was recorded from an OPL2, but we are probably playing
+    // back on an OPL3, so we need to enable the original OPL2
+    // channels.  Doom does this already, but other games don't.
+
+    if ((reg & 0xf0) == 0xc0)
+    {
+	val |= 0x30;
+    }
 
     outb(reg, ADLIB_PORT);
 
@@ -101,15 +112,24 @@ void play_file(char *filename)
 
         if (reg == 0x00)
         {
+#ifdef DEBUG
+            printf("usleep %i ms\n", val);
+#endif
             usleep(val * 1000);
         }
         else if (reg == 0x01)
         {
             val |= (fgetc(stream) << 8);
+#ifdef DEBUG
+            printf("usleep %i ms\n", val);
+#endif
             usleep(val * 1000);
         }
         else
         {
+#ifdef DEBUG
+            printf("write_reg %02x = %02x\n", reg, val);
+#endif
             write_reg(reg, val);
         }
     }

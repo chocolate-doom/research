@@ -1,0 +1,38 @@
+
+N = no effect
+L = triggers line
+E = ends level
+
+               Baron        Cyber         Spider
+
+v1.9:
+
+E1M1:          N            N             N
+E2M1:          N            N             N
+E3M1:          N            N             N
+
+E1M8:          L            L             L
+E2M8:          N            E             E
+E3M8:          N            E             E
+
+ultimate:
+
+E1M1:          N            N             N
+E2M1:          N            N             N
+E3M1:          N            N             N
+
+E1M8:          L            N             N
+E2M8:          N            E             N
+E3M8:          N            N             E
+
+final:
+
+E1M1:          N            N             N
+E2M1:          N            N             N
+E3M1:          N            N             N
+
+E1M8:          L            N             N
+E2M8:          N            E             N
+E3M8:          N            N             E
+
+

@@ -1,0 +1,83 @@
+#!/usr/bin/env ruby
+
+def note_on(delay, channel, note, volume)
+    # note on
+    putc delay
+    putc 0x90 + channel
+    putc note
+    putc volume
+end
+
+def note_off(delay, channel, note)
+    # note on
+    putc delay
+    putc 0x90 + channel
+    putc note
+    putc 0x00
+end
+
+# Turn on some notes and then turn them off, to boost us
+# up to the middle of the range of operators.
+
+note_on(0xf, 8, 0x20, 0x40)        # voice 1
+note_off(0xf, 8, 0x20)
+note_on(0xf, 8, 0x21, 0x40)        # voice 2
+note_off(0xf, 8, 0x21)
+note_on(0xf, 8, 0x22, 0x40)        # voice 3
+note_off(0xf, 8, 0x22)
+
+# Play some notes until we use up all the OPL operators.
+
+note_on(0xf, 8, 0x20, 0x40)                                    # voice 4
+				note_on(0xf, 1, 0x21, 0x40)    # voice 5
+
+# a quiet note, to check if volume affects it
+note_on(0xf, 8, 0x22, 0x10)                                    # voice 6
+
+				note_on(0xf, 1, 0x23, 0x40)    # voice 7
+note_on(0xf, 8, 0x24, 0x40)                                    # voice 8
+				note_on(0xf, 1, 0x25, 0x40)    # voice 1
+note_on(0xf, 8, 0x26, 0x40)                                    # voice 2
+				note_on(0xf, 1, 0x27, 0x40)    # voice 3
+
+# Now all voices are in use ...
+
+note_on(0xf, 8, 0x28, 0x40)                                    # gets v2
+				note_on(0xf, 1, 0x29, 0x40)    # gets v2
+note_on(0xf, 8, 0x2a, 0x40)                                    # gets v8
+				note_on(0xf, 1, 0x2b, 0x40)    # gets v8
+note_on(0xf, 8, 0x2c, 0x40)                                    # gets v6
+				note_on(0xf, 1, 0x2d, 0x40)    # gets v6
+note_on(0xf, 8, 0x2e, 0x40)                                    # gets v4
+				note_on(0xf, 1, 0x2f, 0x40)    # gets v4
+note_on(0xf, 8, 0x30, 0x40)                                    # gets v0
+				note_on(0xf, 1, 0x31, 0x40)    # gets v0
+
+# voices off: 5, 7, 1, 3, 2, 8, 6, 4, 0
+
+note_off(0xf, 8, 0x20)
+				note_off(0xf, 1, 0x21)
+note_off(0xf, 8, 0x22)
+				note_off(0xf, 1, 0x23)
+note_off(0xf, 8, 0x24)
+				note_off(0xf, 1, 0x25)
+note_off(0xf, 8, 0x26)
+				note_off(0xf, 1, 0x27)
+note_off(0xf, 8, 0x28)
+				note_off(0xf, 1, 0x29)
+note_off(0xf, 8, 0x2a)
+				note_off(0xf, 1, 0x2b)
+note_off(0xf, 8, 0x2c)
+				note_off(0xf, 1, 0x2d)
+note_off(0xf, 8, 0x2e)
+				note_off(0xf, 1, 0x2f)
+note_off(0xf, 8, 0x30)
+				note_off(0xf, 1, 0x31)
+
+# end of track
+
+putc 0x00
+putc 0xff
+putc 0x2f
+putc 0x00
+

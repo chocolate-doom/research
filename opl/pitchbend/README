@@ -1,0 +1,17 @@
+
+Constructed MIDI to test pitch bend effects.
+
+Findings:
+
+ * Doom ignores the least significant bit of pitch bend events
+
+ * The "range" of the pitch bend extends over the nearest two notes,
+   ie. when bent down to the minimum, notes sound two semitones lower
+   than normal, when bent up to maximum, notes sound two semitones
+   higher than normal.
+
+ * The full pitch table is in doom2.exe starting at 0x0008864c
+
+ * When bent up at the highest note, the MIDI code overflows the pitch
+   table slightly and uses the next value in memory (0x36c)
+

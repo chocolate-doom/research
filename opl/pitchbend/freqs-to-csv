@@ -1,0 +1,26 @@
+#!/usr/bin/env ruby
+
+require "scanf"
+
+index = 0
+
+$stdin.each_line do |s|
+
+	if s !~ /Key on.*octave (\d+), freq 0x([0-9a-f]+)/
+		next
+	end
+
+	octave = $1.to_i
+	freq = $2.scanf("%x")
+
+	if index > 0
+		puts "#{index},#{octave},#{freq}"
+	end
+
+	index += 1
+
+	if index >= 512
+		break
+	end
+end
+

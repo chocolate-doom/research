@@ -1,0 +1,51 @@
+#!/usr/bin/env ruby
+
+def note_on(delay, channel, note, volume)
+    # note on
+    putc delay
+    putc 0x90 + channel
+    putc note
+    putc volume
+end
+
+def note_off(delay, channel, note)
+    # note on
+    putc delay
+    putc 0x90 + channel
+    putc note
+    putc 0x00
+end
+
+def pitch_bend(delay, channel, bend)
+    putc delay
+    putc 0xe0 + channel
+    putc (bend & 0x7f)
+    putc ((bend >> 7) & 0x7f)
+end
+
+def end_of_track
+
+    # end of track
+
+    putc 0x00
+    putc 0xff
+    putc 0x2f
+    putc 0x00
+end
+
+# Play the same note pitch bent at various values.
+# This doesn't check the full 0...16384 range but should
+# be enough
+
+for i in 0...512
+    pitch_bend(0x3, 8, (i * 16384) / 512)
+
+    # Turn on a note on channel 8:
+
+    note_on(0x3, 8, 30, 0x40 + (i % 32))
+
+    note_off(0xa, 8, 30)
+end
+
+end_of_track
+

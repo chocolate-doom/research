@@ -1,0 +1,51 @@
+#!/usr/bin/env ruby
+
+def note_on(delay, channel, note, volume)
+    # note on
+    putc delay * 6
+    putc 0x90 + channel
+    putc note
+    putc volume
+end
+
+def note_off(delay, channel, note)
+    # note on
+    putc delay * 6
+    putc 0x80 + channel
+    putc note
+    putc 0x00
+end
+
+def program_change(delay, channel, instrument)
+    putc delay * 6
+    putc 0xc0 + channel
+    putc instrument
+end
+
+def end_of_track
+
+    putc 0x00
+    putc 0xff
+    putc 0x2f
+    putc 0x00
+
+end
+
+# Instrument 20 has normal tuning, instrument 21 is -3
+
+program_change(0x1, 1, 20)
+program_change(0x1, 2, 21)
+
+# Play through some notes, making the same note on each of the two channels.
+
+for i in 10..64
+    note_on(10, 1, i, 100)
+    note_on(10, 2, i, 100)
+    note_off(10, 1, i)
+    note_off(0, 2, i)
+end
+
+# end of track
+
+end_of_track
+

@@ -1,0 +1,14 @@
+Investigations into how the fine tuning field affects OPL register writes.
+
+Findings:
+
+ * Fine tuning only affects double voice instruments.  It is only applied to
+   the second voice and not the first.
+
+ * The fine tuning value adjusts the index into Doom's frequency table.  The
+   offset is divided by two before being applied, so a fine tuning value of
+   10 causes an offset of 5.
+
+ * Due to integer rounding, odd numbered negative offsets are rounded down
+   (away from zero), so a tuning of -3 gives an offset of -2.
+

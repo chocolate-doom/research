@@ -1,3 +1,25 @@
 Investigating how Doom decides on a voice to discard when it runs out
 of OPL voices.
 
+Findings so far:
+
+ * The instrument affects the voice that is released (different instruments
+   give different results).  It is the instrument data that is significant,
+   not the instrument number (identical instruments behave the same - 87/88)
+ * Sometimes notes are not turned off when they should be.  Sometimes notes
+   are turned off when they should not be (bug?)
+ * DMX maintains a linked list of the most recently-allocated voices.  These
+   are searched backwards when finding a voice to free, so the most recently
+   allocated voices are the first to be freed.
+ * Different MIDI channels have different "priorities", somehow affected
+   by the instrument in use on that channel.
+ * When no voices are available, the will search back through the allocated
+   voices list and discard the most recently used voice from a channel of
+   a lower priority to the channel for the new note.
+ * If no lower-priority voices are available, a voice from the same
+   channel will be discarded.
+ * If no voices from lower priority channels are available, and none from
+   the same channel, the first voice in the list is discarded, ignoring
+   priority.
+ * The "total level" field for the instrument does NOT determine priority.
+

@@ -65,7 +65,7 @@ end
 def read_instruments(filename)
     instruments = []
 
-    File.open("genmidi.lmp") do |file|
+    File.open("genmidi1.lmp") do |file|
         header = file.read(8)
 
         if header != "#OPL_II#"
@@ -103,7 +103,7 @@ def display_instruments(instruments)
         padding = 25 - instrument.name.length
         print " " * padding
 
-        print "(#{instrument.flags}) "
+        print "(#{instrument.fine_tuning},#{instrument.flags}) "
 
         print data_to_s(instrument.voice1_data)
         print "|"
@@ -187,12 +187,12 @@ def write_sbi(filename, instruments, start_instrument)
     end
 end
 
-if ARGV.length < 1
-    puts "Usage: genmidi-dumper [ -sbi | -txt ]"
+if ARGV.length < 2
+    puts "Usage: genmidi-dumper [ -sbi | -txt ] <filename>"
     exit(0)
 end
 
-instruments = read_instruments("genmidi.lmp")
+instruments = read_instruments(ARGV[1])
 
 if ARGV[0] == "-sbi"
     write_sbi("std.o3", instruments[0, 128], 0)
@@ -200,3 +200,4 @@ if ARGV[0] == "-sbi"
 elsif ARGV[0] == "-txt"
     display_instruments(instruments)
 end
+

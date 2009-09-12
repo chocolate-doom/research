@@ -1,0 +1,7122 @@
+Adlib detection sequence
+	04: 60
+	04: 80
+	02: ff
+	04: 21
+	04: 60
+	04: 80
+Adlib detection sequence
+	04: 60
+	04: 80
+	02: ff
+	04: 21
+	04: 60
+	04: 80
+Initial initialisation of registers...
+	40: 3f
+	41: 3f
+	42: 3f
+	43: 3f
+Initial initialisation of registers...
+	44: 3f
+	45: 3f
+	46: 3f
+	47: 3f
+Initial initialisation of registers...
+	48: 3f
+	49: 3f
+	4a: 3f
+	4b: 3f
+Initial initialisation of registers...
+	4c: 3f
+	4d: 3f
+	4e: 3f
+	4f: 3f
+Initial initialisation of registers...
+	50: 3f
+	51: 3f
+	52: 3f
+	53: 3f
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+Initial initialisation of registers...
+	60: 00
+	61: 00
+	62: 00
+	63: 00
+Initial initialisation of registers...
+	64: 00
+	65: 00
+	66: 00
+	67: 00
+Initial initialisation of registers...
+	68: 00
+	69: 00
+	6a: 00
+	6b: 00
+Initial initialisation of registers...
+	6c: 00
+	6d: 00
+	6e: 00
+	6f: 00
+Initial initialisation of registers...
+	70: 00
+	71: 00
+	72: 00
+	73: 00
+Initial initialisation of registers...
+	74: 00
+	75: 00
+	76: 00
+	77: 00
+Initial initialisation of registers...
+	78: 00
+	79: 00
+	7a: 00
+	7b: 00
+Initial initialisation of registers...
+	7c: 00
+	7d: 00
+	7e: 00
+	7f: 00
+Initial initialisation of registers...
+	80: 00
+	81: 00
+	82: 00
+	83: 00
+Initial initialisation of registers...
+	84: 00
+	85: 00
+	86: 00
+	87: 00
+Initial initialisation of registers...
+	88: 00
+	89: 00
+	8a: 00
+	8b: 00
+Initial initialisation of registers...
+	8c: 00
+	8d: 00
+	8e: 00
+	8f: 00
+Initial initialisation of registers...
+	90: 00
+	91: 00
+	92: 00
+	93: 00
+Initial initialisation of registers...
+	94: 00
+	95: 00
+	96: 00
+	97: 00
+Initial initialisation of registers...
+	98: 00
+	99: 00
+	9a: 00
+	9b: 00
+Initial initialisation of registers...
+	9c: 00
+	9d: 00
+	9e: 00
+	9f: 00
+Initial initialisation of registers...
+	a0: 00
+	a1: 00
+	a2: 00
+	a3: 00
+Initial initialisation of registers...
+	a4: 00
+	a5: 00
+	a6: 00
+	a7: 00
+Initial initialisation of registers...
+	a8: 00
+	a9: 00
+	aa: 00
+	ab: 00
+Initial initialisation of registers...
+	ac: 00
+	ad: 00
+	ae: 00
+	af: 00
+Initial initialisation of registers...
+	b0: 00
+	b1: 00
+	b2: 00
+	b3: 00
+Initial initialisation of registers...
+	b4: 00
+	b5: 00
+	b6: 00
+	b7: 00
+Initial initialisation of registers...
+	b8: 00
+	b9: 00
+	ba: 00
+	bb: 00
+Initial initialisation of registers...
+	bc: 00
+	bd: 00
+	be: 00
+	bf: 00
+Initial initialisation of registers...
+	c0: 00
+	c1: 00
+	c2: 00
+	c3: 00
+Initial initialisation of registers...
+	c4: 00
+	c5: 00
+	c6: 00
+	c7: 00
+Initial initialisation of registers...
+	c8: 00
+	c9: 00
+	ca: 00
+	cb: 00
+Initial initialisation of registers...
+	cc: 00
+	cd: 00
+	ce: 00
+	cf: 00
+Initial initialisation of registers...
+	d0: 00
+	d1: 00
+	d2: 00
+	d3: 00
+Initial initialisation of registers...
+	d4: 00
+	d5: 00
+	d6: 00
+	d7: 00
+Initial initialisation of registers...
+	d8: 00
+	d9: 00
+	da: 00
+	db: 00
+Initial initialisation of registers...
+	dc: 00
+	dd: 00
+	de: 00
+	df: 00
+Initial initialisation of registers...
+	e0: 00
+	e1: 00
+	e2: 00
+	e3: 00
+Initial initialisation of registers...
+	e4: 00
+	e5: 00
+	e6: 00
+	e7: 00
+Initial initialisation of registers...
+	e8: 00
+	e9: 00
+	ea: 00
+	eb: 00
+Initial initialisation of registers...
+	ec: 00
+	ed: 00
+	ee: 00
+	ef: 00
+Initial initialisation of registers...
+	f0: 00
+	f1: 00
+	f2: 00
+	f3: 00
+Basic register write: f4: 00
+	f4: 00
+Basic register write: f5: 00
+	f5: 00
+Basic register write: 01: 00
+	01: 00
+Basic register write: 02: 00
+	02: 00
+Basic register write: 03: 00
+	03: 00
+Initial initialisation of registers...
+	04: 00
+	05: 00
+	06: 00
+	07: 00
+Initial initialisation of registers...
+	08: 00
+	09: 00
+	0a: 00
+	0b: 00
+Initial initialisation of registers...
+	0c: 00
+	0d: 00
+	0e: 00
+	0f: 00
+Initial initialisation of registers...
+	10: 00
+	11: 00
+	12: 00
+	13: 00
+Initial initialisation of registers...
+	14: 00
+	15: 00
+	16: 00
+	17: 00
+Initial initialisation of registers...
+	18: 00
+	19: 00
+	1a: 00
+	1b: 00
+Initial initialisation of registers...
+	1c: 00
+	1d: 00
+	1e: 00
+	1f: 00
+Initial initialisation of registers...
+	20: 00
+	21: 00
+	22: 00
+	23: 00
+Initial initialisation of registers...
+	24: 00
+	25: 00
+	26: 00
+	27: 00
+Initial initialisation of registers...
+	28: 00
+	29: 00
+	2a: 00
+	2b: 00
+Initial initialisation of registers...
+	2c: 00
+	2d: 00
+	2e: 00
+	2f: 00
+Initial initialisation of registers...
+	30: 00
+	31: 00
+	32: 00
+	33: 00
+Initial initialisation of registers...
+	34: 00
+	35: 00
+	36: 00
+	37: 00
+Initial initialisation of registers...
+	38: 00
+	39: 00
+	3a: 00
+	3b: 00
+Initial initialisation of registers...
+	3c: 00
+	3d: 00
+	3e: 00
+	3f: 00
+Basic register write: 04: 60
+	04: 60
+Basic register write: 04: 80
+	04: 80
+Basic register write: 01: 20
+	01: 20
+Basic register write: 08: 40
+	08: 40
+Initialising channel 0: 20,e0,14,00,80,0f,38,30,e1,d6,00,80,3f
+	43: bf
+	23: 30
+	63: e1
+	83: d6
+	e3: 00
+	40: 8f
+	20: 20
+	60: e0
+	80: 14
+	e0: 00
+	c0: 38
+Scale level change on channel 0, op 1: 6.0dB, 1.5dB/8ve
+	43: 88
+expect: 0
+Key on, channel 0: octave 2, freq 0x365
+	a0: 65
+	b0: 2b
+Key off, channel 0
+	b0: 0b
+Initialising channel 1: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	44: 3f
+	24: 30
+	64: f1
+	84: f4
+	e4: 01
+	41: 54
+	21: 30
+	61: f0
+	81: f3
+	e1: 01
+	c1: 3a
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	45: 3f
+	25: 30
+	65: f1
+	85: f4
+	e5: 01
+	42: 54
+	22: 30
+	62: f0
+	82: f3
+	e2: 01
+	c2: 3a
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	4b: 3f
+	2b: 30
+	6b: f1
+	8b: f4
+	eb: 01
+	48: 54
+	28: 30
+	68: f0
+	88: f3
+	e8: 01
+	c3: 3a
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	4c: 3f
+	2c: 30
+	6c: f1
+	8c: f4
+	ec: 01
+	49: 54
+	29: 30
+	69: f0
+	89: f3
+	e9: 01
+	c4: 3a
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	4d: 3f
+	2d: 30
+	6d: f1
+	8d: f4
+	ed: 01
+	4a: 54
+	2a: 30
+	6a: f0
+	8a: f3
+	ea: 01
+	c5: 3a
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	53: 3f
+	33: 30
+	73: f1
+	93: f4
+	f3: 01
+	50: 54
+	30: 30
+	70: f0
+	90: f3
+	f0: 01
+	c6: 3a
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	54: 3f
+	34: 30
+	74: f1
+	94: f4
+	f4: 01
+	51: 54
+	31: 30
+	71: f0
+	91: f3
+	f1: 01
+	c7: 3a
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 8: 30,f0,f3,00,40,12,3a,30,f1,f4,01,00,3f
+	55: 3f
+	35: 30
+	75: f1
+	95: f4
+	f5: 01
+	52: 52
+	32: 30
+	72: f0
+	92: f3
+	f2: 00
+	c8: 3a
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+Initialising channel 0: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	43: 3f
+	23: 30
+	63: f1
+	83: f4
+	e3: 01
+	40: 54
+	20: 30
+	60: f0
+	80: f3
+	e0: 01
+	c0: 3a
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 16
+Initialising channel 1: 30,f0,f3,00,40,12,3a,30,f1,f4,01,00,3f
+	44: 3f
+	24: 30
+	64: f1
+	84: f4
+	e4: 01
+	41: 52
+	21: 30
+	61: f0
+	81: f3
+	e1: 00
+	c1: 3a
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 30,f0,f3,00,40,12,3a,30,f1,f4,01,00,3f
+	45: 3f
+	25: 30
+	65: f1
+	85: f4
+	e5: 01
+	42: 52
+	22: 30
+	62: f0
+	82: f3
+	e2: 00
+	c2: 3a
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 30,f0,f3,00,40,12,3a,30,f1,f4,01,00,3f
+	4b: 3f
+	2b: 30
+	6b: f1
+	8b: f4
+	eb: 01
+	48: 52
+	28: 30
+	68: f0
+	88: f3
+	e8: 00
+	c3: 3a
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 30,f0,f3,00,40,12,3a,30,f1,f4,01,00,3f
+	4c: 3f
+	2c: 30
+	6c: f1
+	8c: f4
+	ec: 01
+	49: 52
+	29: 30
+	69: f0
+	89: f3
+	e9: 00
+	c4: 3a
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 30,f0,f3,00,40,12,3a,30,f1,f4,01,00,3f
+	4d: 3f
+	2d: 30
+	6d: f1
+	8d: f4
+	ed: 01
+	4a: 52
+	2a: 30
+	6a: f0
+	8a: f3
+	ea: 00
+	c5: 3a
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 30,f0,f3,00,40,12,3a,30,f1,f4,01,00,3f
+	53: 3f
+	33: 30
+	73: f1
+	93: f4
+	f3: 01
+	50: 52
+	30: 30
+	70: f0
+	90: f3
+	f0: 00
+	c6: 3a
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 30,f0,f3,00,40,12,3a,30,f1,f4,01,00,3f
+	54: 3f
+	34: 30
+	74: f1
+	94: f4
+	f4: 01
+	51: 52
+	31: 30
+	71: f0
+	91: f3
+	f1: 00
+	c7: 3a
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 0: 30,e1,f3,01,40,0e,38,30,f1,f4,00,00,3f
+	43: 3f
+	23: 30
+	63: f1
+	83: f4
+	e3: 00
+	40: 4e
+	20: 30
+	60: e1
+	80: f3
+	e0: 01
+	c0: 38
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+Initialising channel 8: 11,e8,15,00,00,3f,31,12,f7,14,00,00,3f
+	55: 3f
+	35: 12
+	75: f7
+	95: 14
+	f5: 00
+	52: 3f
+	32: 11
+	72: e8
+	92: 15
+	f2: 00
+	c8: 31
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+Scale level change on channel 8, op 0: 18.0dB, no change
+	52: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+Key off, channel 8
+	b8: 16
+Initialising channel 8: 30,f0,f3,00,40,12,3a,30,f1,f4,01,00,3f
+	55: 3f
+	35: 30
+	75: f1
+	95: f4
+	f5: 01
+	52: 52
+	32: 30
+	72: f0
+	92: f3
+	f2: 00
+	c8: 3a
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x2b1
+	a8: b1
+	b8: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x2da
+	a0: da
+	b0: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 16
+Initialising channel 1: 30,e1,f3,01,40,0e,38,30,f1,f4,00,00,3f
+	44: 3f
+	24: 30
+	64: f1
+	84: f4
+	e4: 00
+	41: 4e
+	21: 30
+	61: e1
+	81: f3
+	e1: 01
+	c1: 38
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 11,e8,15,00,00,3f,31,12,f7,14,00,00,3f
+	45: 3f
+	25: 12
+	65: f7
+	85: 14
+	e5: 00
+	42: 3f
+	22: 11
+	62: e8
+	82: 15
+	e2: 00
+	c2: 31
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+Scale level change on channel 2, op 0: 18.0dB, no change
+	42: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x365
+	a2: 65
+	b2: 33
+Initialising channel 3: 30,e1,f3,01,40,0e,38,30,f1,f4,00,00,3f
+	4b: 3f
+	2b: 30
+	6b: f1
+	8b: f4
+	eb: 00
+	48: 4e
+	28: 30
+	68: e1
+	88: f3
+	e8: 01
+	c3: 38
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x398
+	a3: 98
+	b3: 33
+Initialising channel 4: 11,e8,15,00,00,3f,31,12,f7,14,00,00,3f
+	4c: 3f
+	2c: 12
+	6c: f7
+	8c: 14
+	ec: 00
+	49: 3f
+	29: 11
+	69: e8
+	89: 15
+	e9: 00
+	c4: 31
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+Scale level change on channel 4, op 0: 18.0dB, no change
+	49: 18
+expect: 4
+Key on, channel 4: octave 4, freq 0x398
+	a4: 98
+	b4: 33
+Initialising channel 5: 30,e1,f3,01,40,0e,38,30,f1,f4,00,00,3f
+	4d: 3f
+	2d: 30
+	6d: f1
+	8d: f4
+	ed: 00
+	4a: 4e
+	2a: 30
+	6a: e1
+	8a: f3
+	ea: 01
+	c5: 38
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 4, freq 0x3cf
+	a5: cf
+	b5: 33
+Initialising channel 6: 11,e8,15,00,00,3f,31,12,f7,14,00,00,3f
+	53: 3f
+	33: 12
+	73: f7
+	93: 14
+	f3: 00
+	50: 3f
+	30: 11
+	70: e8
+	90: 15
+	f0: 00
+	c6: 31
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+Scale level change on channel 6, op 0: 18.0dB, no change
+	50: 18
+expect: 6
+Key on, channel 6: octave 4, freq 0x3cf
+	a6: cf
+	b6: 33
+Initialising channel 7: 30,e1,f3,01,40,0e,38,30,f1,f4,00,00,3f
+	54: 3f
+	34: 30
+	74: f1
+	94: f4
+	f4: 00
+	51: 4e
+	31: 30
+	71: e1
+	91: f3
+	f1: 01
+	c7: 38
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x204
+	a7: 04
+	b7: 36
+Initialising channel 8: 11,e8,15,00,00,3f,31,12,f7,14,00,00,3f
+	55: 3f
+	35: 12
+	75: f7
+	95: 14
+	f5: 00
+	52: 3f
+	32: 11
+	72: e8
+	92: 15
+	f2: 00
+	c8: 31
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+Scale level change on channel 8, op 0: 18.0dB, no change
+	52: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x204
+	a8: 04
+	b8: 36
+expect: 0
+Key on, channel 0: octave 5, freq 0x223
+	a0: 23
+	b0: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x244
+	a0: 44
+	b0: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x266
+	a0: 66
+	b0: 36
+Key off, channel 0
+	b0: 16
+Initialising channel 0: 10,f1,53,01,40,0f,36,10,d1,f4,00,00,3f
+	43: 3f
+	23: 10
+	63: d1
+	83: f4
+	e3: 00
+	40: 4f
+	20: 10
+	60: f1
+	80: 53
+	e0: 01
+	c0: 36
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+Key off, channel 0
+	b0: 16
+Initialising channel 0: 30,e1,f3,01,40,0e,38,30,f1,f4,00,00,3f
+	43: 3f
+	23: 30
+	63: f1
+	83: f4
+	e3: 00
+	40: 4e
+	20: 30
+	60: e1
+	80: f3
+	e0: 01
+	c0: 38
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 0
+	b0: 16
+Initialising channel 0: 10,f1,53,01,40,0f,36,10,d1,f4,00,00,3f
+	43: 3f
+	23: 10
+	63: d1
+	83: f4
+	e3: 00
+	40: 4f
+	20: 10
+	60: f1
+	80: 53
+	e0: 01
+	c0: 36
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x2da
+	a0: da
+	b0: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 13
+Key off, channel 5
+	b5: 13
+Key off, channel 6
+	b6: 13
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 16
+Initialising channel 1: 10,f1,53,01,40,0f,36,10,d1,f4,00,00,3f
+	44: 3f
+	24: 10
+	64: d1
+	84: f4
+	e4: 00
+	41: 4f
+	21: 10
+	61: f1
+	81: 53
+	e1: 01
+	c1: 36
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 11,f1,53,00,40,0f,36,11,d1,f4,00,00,3f
+	45: 3f
+	25: 11
+	65: d1
+	85: f4
+	e5: 00
+	42: 4f
+	22: 11
+	62: f1
+	82: 53
+	e2: 00
+	c2: 36
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x366
+	a2: 66
+	b2: 33
+Initialising channel 3: 10,f1,53,01,40,0f,36,10,d1,f4,00,00,3f
+	4b: 3f
+	2b: 10
+	6b: d1
+	8b: f4
+	eb: 00
+	48: 4f
+	28: 10
+	68: f1
+	88: 53
+	e8: 01
+	c3: 36
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x398
+	a3: 98
+	b3: 33
+Initialising channel 4: 11,f1,53,00,40,0f,36,11,d1,f4,00,00,3f
+	4c: 3f
+	2c: 11
+	6c: d1
+	8c: f4
+	ec: 00
+	49: 4f
+	29: 11
+	69: f1
+	89: 53
+	e9: 00
+	c4: 36
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 4, freq 0x39a
+	a4: 9a
+	b4: 33
+Initialising channel 5: 10,f1,53,01,40,0f,36,10,d1,f4,00,00,3f
+	4d: 3f
+	2d: 10
+	6d: d1
+	8d: f4
+	ed: 00
+	4a: 4f
+	2a: 10
+	6a: f1
+	8a: 53
+	ea: 01
+	c5: 36
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 4, freq 0x3cf
+	a5: cf
+	b5: 33
+Initialising channel 6: 11,f1,53,00,40,0f,36,11,d1,f4,00,00,3f
+	53: 3f
+	33: 11
+	73: d1
+	93: f4
+	f3: 00
+	50: 4f
+	30: 11
+	70: f1
+	90: 53
+	f0: 00
+	c6: 36
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 4, freq 0x3d1
+	a6: d1
+	b6: 33
+Initialising channel 7: 10,f1,53,01,40,0f,36,10,d1,f4,00,00,3f
+	54: 3f
+	34: 10
+	74: d1
+	94: f4
+	f4: 00
+	51: 4f
+	31: 10
+	71: f1
+	91: 53
+	f1: 01
+	c7: 36
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x204
+	a7: 04
+	b7: 36
+Initialising channel 8: 11,f1,53,00,40,0f,36,11,d1,f4,00,00,3f
+	55: 3f
+	35: 11
+	75: d1
+	95: f4
+	f5: 00
+	52: 4f
+	32: 11
+	72: f1
+	92: 53
+	f2: 00
+	c8: 36
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x205
+	a8: 05
+	b8: 36
+expect: 0
+Key on, channel 0: octave 5, freq 0x223
+	a0: 23
+	b0: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x244
+	a0: 44
+	b0: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x266
+	a0: 66
+	b0: 36
+Key off, channel 0
+	b0: 16
+Initialising channel 0: 21,f1,51,00,40,26,36,31,d2,e5,00,00,3f
+	43: 3f
+	23: 31
+	63: d2
+	83: e5
+	e3: 00
+	40: 66
+	20: 21
+	60: f1
+	80: 51
+	e0: 00
+	c0: 36
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 4, freq 0x28b
+	a0: 8b
+	b0: 32
+Key off, channel 0
+	b0: 12
+Initialising channel 0: 10,f1,53,01,40,0f,36,10,d1,f4,00,00,3f
+	43: 3f
+	23: 10
+	63: d1
+	83: f4
+	e3: 00
+	40: 4f
+	20: 10
+	60: f1
+	80: 53
+	e0: 01
+	c0: 36
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 0
+	b0: 16
+Initialising channel 0: 21,f1,51,00,40,26,36,31,d2,e5,00,00,3f
+	43: 3f
+	23: 31
+	63: d2
+	83: e5
+	e3: 00
+	40: 66
+	20: 21
+	60: f1
+	80: 51
+	e0: 00
+	c0: 36
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 4, freq 0x2da
+	a0: da
+	b0: 32
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 13
+Key off, channel 5
+	b5: 13
+Key off, channel 6
+	b6: 13
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 12
+Initialising channel 1: 21,f1,51,00,40,26,36,31,d2,e5,00,00,3f
+	44: 3f
+	24: 31
+	64: d2
+	84: e5
+	e4: 00
+	41: 66
+	21: 21
+	61: f1
+	81: 51
+	e1: 00
+	c1: 36
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 3, freq 0x365
+	a1: 65
+	b1: 2f
+Initialising channel 2: 21,f1,51,00,40,26,36,31,d2,e5,00,00,3f
+	45: 3f
+	25: 31
+	65: d2
+	85: e5
+	e5: 00
+	42: 66
+	22: 21
+	62: f1
+	82: 51
+	e2: 00
+	c2: 36
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 3, freq 0x398
+	a2: 98
+	b2: 2f
+Initialising channel 3: 21,f1,51,00,40,26,36,31,d2,e5,00,00,3f
+	4b: 3f
+	2b: 31
+	6b: d2
+	8b: e5
+	eb: 00
+	48: 66
+	28: 21
+	68: f1
+	88: 51
+	e8: 00
+	c3: 36
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 3, freq 0x3cf
+	a3: cf
+	b3: 2f
+Initialising channel 4: 21,f1,51,00,40,26,36,31,d2,e5,00,00,3f
+	4c: 3f
+	2c: 31
+	6c: d2
+	8c: e5
+	ec: 00
+	49: 66
+	29: 21
+	69: f1
+	89: 51
+	e9: 00
+	c4: 36
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 4, freq 0x204
+	a4: 04
+	b4: 32
+Initialising channel 5: 21,f1,51,00,40,26,36,31,d2,e5,00,00,3f
+	4d: 3f
+	2d: 31
+	6d: d2
+	8d: e5
+	ed: 00
+	4a: 66
+	2a: 21
+	6a: f1
+	8a: 51
+	ea: 00
+	c5: 36
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 4, freq 0x223
+	a5: 23
+	b5: 32
+Initialising channel 6: 21,f1,51,00,40,26,36,31,d2,e5,00,00,3f
+	53: 3f
+	33: 31
+	73: d2
+	93: e5
+	f3: 00
+	50: 66
+	30: 21
+	70: f1
+	90: 51
+	f0: 00
+	c6: 36
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 4, freq 0x244
+	a6: 44
+	b6: 32
+Initialising channel 7: 21,f1,51,00,40,26,36,31,d2,e5,00,00,3f
+	54: 3f
+	34: 31
+	74: d2
+	94: e5
+	f4: 00
+	51: 66
+	31: 21
+	71: f1
+	91: 51
+	f1: 00
+	c7: 36
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 4, freq 0x266
+	a7: 66
+	b7: 32
+Initialising channel 8: 30,f1,e6,00,40,11,36,b0,f1,e5,00,40,3f
+	55: 7f
+	35: b0
+	75: f1
+	95: e5
+	f5: 00
+	52: 51
+	32: 30
+	72: f1
+	92: e6
+	f2: 00
+	c8: 36
+Scale level change on channel 8, op 1: 18.0dB, 3dB/8ve
+	55: 58
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+Initialising channel 0: 12,f2,79,00,40,3f,39,10,f1,99,00,40,3f
+	43: 7f
+	23: 10
+	63: f1
+	83: 99
+	e3: 00
+	40: 7f
+	20: 12
+	60: f2
+	80: 79
+	e0: 00
+	c0: 39
+Scale level change on channel 0, op 1: 18.0dB, 3dB/8ve
+	43: 58
+Scale level change on channel 0, op 0: 18.0dB, 3dB/8ve
+	40: 58
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+Key off, channel 0
+	b0: 16
+Initialising channel 0: 21,f1,51,00,40,26,36,31,d2,e5,00,00,3f
+	43: 3f
+	23: 31
+	63: d2
+	83: e5
+	e3: 00
+	40: 66
+	20: 21
+	60: f1
+	80: 51
+	e0: 00
+	c0: 36
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 4, freq 0x2b1
+	a0: b1
+	b0: 32
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 0f
+Key off, channel 2
+	b2: 0f
+Key off, channel 3
+	b3: 0f
+Key off, channel 4
+	b4: 12
+Key off, channel 5
+	b5: 12
+Key off, channel 6
+	b6: 12
+Key off, channel 7
+	b7: 12
+Key off, channel 0
+	b0: 12
+Key off, channel 8
+	b8: 16
+Initialising channel 1: 30,f1,e6,00,40,11,36,b0,f1,e5,00,40,3f
+	44: 7f
+	24: b0
+	64: f1
+	84: e5
+	e4: 00
+	41: 51
+	21: 30
+	61: f1
+	81: e6
+	e1: 00
+	c1: 36
+Scale level change on channel 1, op 1: 18.0dB, 3dB/8ve
+	44: 58
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 12,f2,79,00,40,3f,39,10,f1,99,00,40,3f
+	45: 7f
+	25: 10
+	65: f1
+	85: 99
+	e5: 00
+	42: 7f
+	22: 12
+	62: f2
+	82: 79
+	e2: 00
+	c2: 39
+Scale level change on channel 2, op 1: 18.0dB, 3dB/8ve
+	45: 58
+Scale level change on channel 2, op 0: 18.0dB, 3dB/8ve
+	42: 58
+expect: 2
+Key on, channel 2: octave 4, freq 0x365
+	a2: 65
+	b2: 33
+Initialising channel 3: 30,f1,e6,00,40,11,36,b0,f1,e5,00,40,3f
+	4b: 7f
+	2b: b0
+	6b: f1
+	8b: e5
+	eb: 00
+	48: 51
+	28: 30
+	68: f1
+	88: e6
+	e8: 00
+	c3: 36
+Scale level change on channel 3, op 1: 18.0dB, 3dB/8ve
+	4b: 58
+expect: 3
+Key on, channel 3: octave 4, freq 0x398
+	a3: 98
+	b3: 33
+Initialising channel 4: 12,f2,79,00,40,3f,39,10,f1,99,00,40,3f
+	4c: 7f
+	2c: 10
+	6c: f1
+	8c: 99
+	ec: 00
+	49: 7f
+	29: 12
+	69: f2
+	89: 79
+	e9: 00
+	c4: 39
+Scale level change on channel 4, op 1: 18.0dB, 3dB/8ve
+	4c: 58
+Scale level change on channel 4, op 0: 18.0dB, 3dB/8ve
+	49: 58
+expect: 4
+Key on, channel 4: octave 4, freq 0x398
+	a4: 98
+	b4: 33
+Initialising channel 5: 30,f1,e6,00,40,11,36,b0,f1,e5,00,40,3f
+	4d: 7f
+	2d: b0
+	6d: f1
+	8d: e5
+	ed: 00
+	4a: 51
+	2a: 30
+	6a: f1
+	8a: e6
+	ea: 00
+	c5: 36
+Scale level change on channel 5, op 1: 18.0dB, 3dB/8ve
+	4d: 58
+expect: 5
+Key on, channel 5: octave 4, freq 0x3cf
+	a5: cf
+	b5: 33
+Initialising channel 6: 12,f2,79,00,40,3f,39,10,f1,99,00,40,3f
+	53: 7f
+	33: 10
+	73: f1
+	93: 99
+	f3: 00
+	50: 7f
+	30: 12
+	70: f2
+	90: 79
+	f0: 00
+	c6: 39
+Scale level change on channel 6, op 1: 18.0dB, 3dB/8ve
+	53: 58
+Scale level change on channel 6, op 0: 18.0dB, 3dB/8ve
+	50: 58
+expect: 6
+Key on, channel 6: octave 4, freq 0x3cf
+	a6: cf
+	b6: 33
+Initialising channel 7: 30,f1,e6,00,40,11,36,b0,f1,e5,00,40,3f
+	54: 7f
+	34: b0
+	74: f1
+	94: e5
+	f4: 00
+	51: 51
+	31: 30
+	71: f1
+	91: e6
+	f1: 00
+	c7: 36
+Scale level change on channel 7, op 1: 18.0dB, 3dB/8ve
+	54: 58
+expect: 7
+Key on, channel 7: octave 5, freq 0x204
+	a7: 04
+	b7: 36
+Initialising channel 0: 12,f2,79,00,40,3f,39,10,f1,99,00,40,3f
+	43: 7f
+	23: 10
+	63: f1
+	83: 99
+	e3: 00
+	40: 7f
+	20: 12
+	60: f2
+	80: 79
+	e0: 00
+	c0: 39
+Scale level change on channel 0, op 1: 18.0dB, 3dB/8ve
+	43: 58
+Scale level change on channel 0, op 0: 18.0dB, 3dB/8ve
+	40: 58
+expect: 0
+Key on, channel 0: octave 5, freq 0x204
+	a0: 04
+	b0: 36
+expect: 8
+Key on, channel 8: octave 5, freq 0x223
+	a8: 23
+	b8: 36
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x244
+	a8: 44
+	b8: 36
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x266
+	a8: 66
+	b8: 36
+Key off, channel 8
+	b8: 16
+Initialising channel 8: 30,f2,01,02,80,07,36,30,c1,f4,01,00,3f
+	55: 3f
+	35: 30
+	75: c1
+	95: f4
+	f5: 01
+	52: 87
+	32: 30
+	72: f2
+	92: 01
+	f2: 02
+	c8: 36
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+Key off, channel 8
+	b8: 16
+Initialising channel 8: 30,f1,e6,00,40,11,36,b0,f1,e5,00,40,3f
+	55: 7f
+	35: b0
+	75: f1
+	95: e5
+	f5: 00
+	52: 51
+	32: 30
+	72: f1
+	92: e6
+	f2: 00
+	c8: 36
+Scale level change on channel 8, op 1: 18.0dB, 3dB/8ve
+	55: 58
+expect: 8
+Key on, channel 8: octave 5, freq 0x2b1
+	a8: b1
+	b8: 36
+Key off, channel 8
+	b8: 16
+Initialising channel 8: 30,f2,01,02,80,07,36,30,c1,f4,01,00,3f
+	55: 3f
+	35: 30
+	75: c1
+	95: f4
+	f5: 01
+	52: 87
+	32: 30
+	72: f2
+	92: 01
+	f2: 02
+	c8: 36
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 13
+Key off, channel 5
+	b5: 13
+Key off, channel 6
+	b6: 13
+Key off, channel 7
+	b7: 16
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 16
+Initialising channel 1: 30,f2,01,02,80,07,36,30,c1,f4,01,00,3f
+	44: 3f
+	24: 30
+	64: c1
+	84: f4
+	e4: 01
+	41: 87
+	21: 30
+	61: f2
+	81: 01
+	e1: 02
+	c1: 36
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 30,f2,01,02,80,07,36,30,c1,f4,01,00,3f
+	45: 3f
+	25: 30
+	65: c1
+	85: f4
+	e5: 01
+	42: 87
+	22: 30
+	62: f2
+	82: 01
+	e2: 02
+	c2: 36
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 30,f2,01,02,80,07,36,30,c1,f4,01,00,3f
+	4b: 3f
+	2b: 30
+	6b: c1
+	8b: f4
+	eb: 01
+	48: 87
+	28: 30
+	68: f2
+	88: 01
+	e8: 02
+	c3: 36
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 30,f2,01,02,80,07,36,30,c1,f4,01,00,3f
+	4c: 3f
+	2c: 30
+	6c: c1
+	8c: f4
+	ec: 01
+	49: 87
+	29: 30
+	69: f2
+	89: 01
+	e9: 02
+	c4: 36
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 30,f2,01,02,80,07,36,30,c1,f4,01,00,3f
+	4d: 3f
+	2d: 30
+	6d: c1
+	8d: f4
+	ed: 01
+	4a: 87
+	2a: 30
+	6a: f2
+	8a: 01
+	ea: 02
+	c5: 36
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 30,f2,01,02,80,07,36,30,c1,f4,01,00,3f
+	53: 3f
+	33: 30
+	73: c1
+	93: f4
+	f3: 01
+	50: 87
+	30: 30
+	70: f2
+	90: 01
+	f0: 02
+	c6: 36
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 30,f2,01,02,80,07,36,30,c1,f4,01,00,3f
+	54: 3f
+	34: 30
+	74: c1
+	94: f4
+	f4: 01
+	51: 87
+	31: 30
+	71: f2
+	91: 01
+	f1: 02
+	c7: 36
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 0: 90,a1,62,01,80,0e,3c,10,91,a7,01,00,3f
+	43: 3f
+	23: 10
+	63: 91
+	83: a7
+	e3: 01
+	40: 8e
+	20: 90
+	60: a1
+	80: 62
+	e0: 01
+	c0: 3c
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+expect: 8
+Key on, channel 8: octave 5, freq 0x2b1
+	a8: b1
+	b8: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x2da
+	a0: da
+	b0: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 16
+Initialising channel 1: 90,a1,62,01,80,0e,3c,10,91,a7,01,00,3f
+	44: 3f
+	24: 10
+	64: 91
+	84: a7
+	e4: 01
+	41: 8e
+	21: 90
+	61: a1
+	81: 62
+	e1: 01
+	c1: 3c
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 90,a1,62,01,80,0e,3c,10,91,a7,01,00,3f
+	45: 3f
+	25: 10
+	65: 91
+	85: a7
+	e5: 01
+	42: 8e
+	22: 90
+	62: a1
+	82: 62
+	e2: 01
+	c2: 3c
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 90,a1,62,01,80,0e,3c,10,91,a7,01,00,3f
+	4b: 3f
+	2b: 10
+	6b: 91
+	8b: a7
+	eb: 01
+	48: 8e
+	28: 90
+	68: a1
+	88: 62
+	e8: 01
+	c3: 3c
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 90,a1,62,01,80,0e,3c,10,91,a7,01,00,3f
+	4c: 3f
+	2c: 10
+	6c: 91
+	8c: a7
+	ec: 01
+	49: 8e
+	29: 90
+	69: a1
+	89: 62
+	e9: 01
+	c4: 3c
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 90,a1,62,01,80,0e,3c,10,91,a7,01,00,3f
+	4d: 3f
+	2d: 10
+	6d: 91
+	8d: a7
+	ed: 01
+	4a: 8e
+	2a: 90
+	6a: a1
+	8a: 62
+	ea: 01
+	c5: 3c
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 90,a1,62,01,80,0e,3c,10,91,a7,01,00,3f
+	53: 3f
+	33: 10
+	73: 91
+	93: a7
+	f3: 01
+	50: 8e
+	30: 90
+	70: a1
+	90: 62
+	f0: 01
+	c6: 3c
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 90,a1,62,01,80,0e,3c,10,91,a7,01,00,3f
+	54: 3f
+	34: 10
+	74: 91
+	94: a7
+	f4: 01
+	51: 8e
+	31: 90
+	71: a1
+	91: 62
+	f1: 01
+	c7: 3c
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 8: 28,f2,64,01,40,0f,38,31,f2,e4,00,00,3f
+	55: 3f
+	35: 31
+	75: f2
+	95: e4
+	f5: 00
+	52: 4f
+	32: 28
+	72: f2
+	92: 64
+	f2: 01
+	c8: 38
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 4, freq 0x28b
+	a8: 8b
+	b8: 32
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 8
+	b8: 12
+expect: 8
+Key on, channel 8: octave 4, freq 0x2da
+	a8: da
+	b8: 32
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 12
+Initialising channel 1: 28,f2,64,01,40,0f,38,31,f2,e4,00,00,3f
+	44: 3f
+	24: 31
+	64: f2
+	84: e4
+	e4: 00
+	41: 4f
+	21: 28
+	61: f2
+	81: 64
+	e1: 01
+	c1: 38
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 3, freq 0x365
+	a1: 65
+	b1: 2f
+Initialising channel 2: 28,f2,64,01,40,0f,38,31,f2,e4,00,00,3f
+	45: 3f
+	25: 31
+	65: f2
+	85: e4
+	e5: 00
+	42: 4f
+	22: 28
+	62: f2
+	82: 64
+	e2: 01
+	c2: 38
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 3, freq 0x398
+	a2: 98
+	b2: 2f
+Initialising channel 3: 28,f2,64,01,40,0f,38,31,f2,e4,00,00,3f
+	4b: 3f
+	2b: 31
+	6b: f2
+	8b: e4
+	eb: 00
+	48: 4f
+	28: 28
+	68: f2
+	88: 64
+	e8: 01
+	c3: 38
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 3, freq 0x3cf
+	a3: cf
+	b3: 2f
+Initialising channel 4: 28,f2,64,01,40,0f,38,31,f2,e4,00,00,3f
+	4c: 3f
+	2c: 31
+	6c: f2
+	8c: e4
+	ec: 00
+	49: 4f
+	29: 28
+	69: f2
+	89: 64
+	e9: 01
+	c4: 38
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 4, freq 0x204
+	a4: 04
+	b4: 32
+Initialising channel 5: 28,f2,64,01,40,0f,38,31,f2,e4,00,00,3f
+	4d: 3f
+	2d: 31
+	6d: f2
+	8d: e4
+	ed: 00
+	4a: 4f
+	2a: 28
+	6a: f2
+	8a: 64
+	ea: 01
+	c5: 38
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 4, freq 0x223
+	a5: 23
+	b5: 32
+Initialising channel 6: 28,f2,64,01,40,0f,38,31,f2,e4,00,00,3f
+	53: 3f
+	33: 31
+	73: f2
+	93: e4
+	f3: 00
+	50: 4f
+	30: 28
+	70: f2
+	90: 64
+	f0: 01
+	c6: 38
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 4, freq 0x244
+	a6: 44
+	b6: 32
+Initialising channel 7: 28,f2,64,01,40,0f,38,31,f2,e4,00,00,3f
+	54: 3f
+	34: 31
+	74: f2
+	94: e4
+	f4: 00
+	51: 4f
+	31: 28
+	71: f2
+	91: 64
+	f1: 01
+	c7: 38
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 4, freq 0x266
+	a7: 66
+	b7: 32
+Initialising channel 0: 13,91,11,00,00,3f,39,14,7d,34,00,00,3f
+	43: 3f
+	23: 14
+	63: 7d
+	83: 34
+	e3: 00
+	40: 3f
+	20: 13
+	60: 91
+	80: 11
+	e0: 00
+	c0: 39
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+Scale level change on channel 0, op 0: 18.0dB, no change
+	40: 18
+expect: 0
+Key on, channel 0: octave 4, freq 0x28b
+	a0: 8b
+	b0: 32
+expect: 8
+Key on, channel 8: octave 4, freq 0x2b1
+	a8: b1
+	b8: 32
+Key off, channel 0
+	b0: 12
+expect: 0
+Key on, channel 0: octave 4, freq 0x2da
+	a0: da
+	b0: 32
+Key off, channel 1
+	b1: 0f
+Key off, channel 2
+	b2: 0f
+Key off, channel 3
+	b3: 0f
+Key off, channel 4
+	b4: 12
+Key off, channel 5
+	b5: 12
+Key off, channel 6
+	b6: 12
+Key off, channel 7
+	b7: 12
+Key off, channel 8
+	b8: 12
+Key off, channel 0
+	b0: 12
+Initialising channel 1: 13,91,11,00,00,3f,39,14,7d,34,00,00,3f
+	44: 3f
+	24: 14
+	64: 7d
+	84: 34
+	e4: 00
+	41: 3f
+	21: 13
+	61: 91
+	81: 11
+	e1: 00
+	c1: 39
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+Scale level change on channel 1, op 0: 18.0dB, no change
+	41: 18
+expect: 1
+Key on, channel 1: octave 3, freq 0x365
+	a1: 65
+	b1: 2f
+Initialising channel 2: 13,91,11,00,00,3f,39,14,7d,34,00,00,3f
+	45: 3f
+	25: 14
+	65: 7d
+	85: 34
+	e5: 00
+	42: 3f
+	22: 13
+	62: 91
+	82: 11
+	e2: 00
+	c2: 39
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+Scale level change on channel 2, op 0: 18.0dB, no change
+	42: 18
+expect: 2
+Key on, channel 2: octave 3, freq 0x398
+	a2: 98
+	b2: 2f
+Initialising channel 3: 13,91,11,00,00,3f,39,14,7d,34,00,00,3f
+	4b: 3f
+	2b: 14
+	6b: 7d
+	8b: 34
+	eb: 00
+	48: 3f
+	28: 13
+	68: 91
+	88: 11
+	e8: 00
+	c3: 39
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+Scale level change on channel 3, op 0: 18.0dB, no change
+	48: 18
+expect: 3
+Key on, channel 3: octave 3, freq 0x3cf
+	a3: cf
+	b3: 2f
+Initialising channel 4: 13,91,11,00,00,3f,39,14,7d,34,00,00,3f
+	4c: 3f
+	2c: 14
+	6c: 7d
+	8c: 34
+	ec: 00
+	49: 3f
+	29: 13
+	69: 91
+	89: 11
+	e9: 00
+	c4: 39
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+Scale level change on channel 4, op 0: 18.0dB, no change
+	49: 18
+expect: 4
+Key on, channel 4: octave 4, freq 0x204
+	a4: 04
+	b4: 32
+Initialising channel 5: 13,91,11,00,00,3f,39,14,7d,34,00,00,3f
+	4d: 3f
+	2d: 14
+	6d: 7d
+	8d: 34
+	ed: 00
+	4a: 3f
+	2a: 13
+	6a: 91
+	8a: 11
+	ea: 00
+	c5: 39
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+Scale level change on channel 5, op 0: 18.0dB, no change
+	4a: 18
+expect: 5
+Key on, channel 5: octave 4, freq 0x223
+	a5: 23
+	b5: 32
+Initialising channel 6: 13,91,11,00,00,3f,39,14,7d,34,00,00,3f
+	53: 3f
+	33: 14
+	73: 7d
+	93: 34
+	f3: 00
+	50: 3f
+	30: 13
+	70: 91
+	90: 11
+	f0: 00
+	c6: 39
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+Scale level change on channel 6, op 0: 18.0dB, no change
+	50: 18
+expect: 6
+Key on, channel 6: octave 4, freq 0x244
+	a6: 44
+	b6: 32
+Initialising channel 7: 13,91,11,00,00,3f,39,14,7d,34,00,00,3f
+	54: 3f
+	34: 14
+	74: 7d
+	94: 34
+	f4: 00
+	51: 3f
+	31: 13
+	71: 91
+	91: 11
+	f1: 00
+	c7: 39
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+Scale level change on channel 7, op 0: 18.0dB, no change
+	51: 18
+expect: 7
+Key on, channel 7: octave 4, freq 0x266
+	a7: 66
+	b7: 32
+Initialising channel 8: b2,f6,41,00,00,0f,30,90,d2,92,00,00,3f
+	55: 3f
+	35: 90
+	75: d2
+	95: 92
+	f5: 00
+	52: 0f
+	32: b2
+	72: f6
+	92: 41
+	f2: 00
+	c8: 30
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+expect: 0
+Key on, channel 0: octave 4, freq 0x2b1
+	a0: b1
+	b0: 32
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 0f
+Key off, channel 2
+	b2: 0f
+Key off, channel 3
+	b3: 0f
+Key off, channel 4
+	b4: 12
+Key off, channel 5
+	b5: 12
+Key off, channel 6
+	b6: 12
+Key off, channel 7
+	b7: 12
+Key off, channel 0
+	b0: 12
+Key off, channel 8
+	b8: 16
+Initialising channel 1: b2,f6,41,00,00,0f,30,90,d2,92,00,00,3f
+	44: 3f
+	24: 90
+	64: d2
+	84: 92
+	e4: 00
+	41: 0f
+	21: b2
+	61: f6
+	81: 41
+	e1: 00
+	c1: 30
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: b2,f6,41,00,00,0f,30,90,d2,92,00,00,3f
+	45: 3f
+	25: 90
+	65: d2
+	85: 92
+	e5: 00
+	42: 0f
+	22: b2
+	62: f6
+	82: 41
+	e2: 00
+	c2: 30
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: b2,f6,41,00,00,0f,30,90,d2,92,00,00,3f
+	4b: 3f
+	2b: 90
+	6b: d2
+	8b: 92
+	eb: 00
+	48: 0f
+	28: b2
+	68: f6
+	88: 41
+	e8: 00
+	c3: 30
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: b2,f6,41,00,00,0f,30,90,d2,92,00,00,3f
+	4c: 3f
+	2c: 90
+	6c: d2
+	8c: 92
+	ec: 00
+	49: 0f
+	29: b2
+	69: f6
+	89: 41
+	e9: 00
+	c4: 30
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: b2,f6,41,00,00,0f,30,90,d2,92,00,00,3f
+	4d: 3f
+	2d: 90
+	6d: d2
+	8d: 92
+	ed: 00
+	4a: 0f
+	2a: b2
+	6a: f6
+	8a: 41
+	ea: 00
+	c5: 30
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: b2,f6,41,00,00,0f,30,90,d2,92,00,00,3f
+	53: 3f
+	33: 90
+	73: d2
+	93: 92
+	f3: 00
+	50: 0f
+	30: b2
+	70: f6
+	90: 41
+	f0: 00
+	c6: 30
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: b2,f6,41,00,00,0f,30,90,d2,92,00,00,3f
+	54: 3f
+	34: 90
+	74: d2
+	94: 92
+	f4: 00
+	51: 0f
+	31: b2
+	71: f6
+	91: 41
+	f1: 00
+	c7: 30
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 0: f0,f1,f3,00,00,3f,31,f2,f1,f4,00,00,3f
+	43: 3f
+	23: f2
+	63: f1
+	83: f4
+	e3: 00
+	40: 3f
+	20: f0
+	60: f1
+	80: f3
+	e0: 00
+	c0: 31
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+Scale level change on channel 0, op 0: 18.0dB, no change
+	40: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+expect: 8
+Key on, channel 8: octave 5, freq 0x2b1
+	a8: b1
+	b8: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x2da
+	a0: da
+	b0: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 16
+Initialising channel 1: f0,f1,f3,00,00,3f,31,f2,f1,f4,00,00,3f
+	44: 3f
+	24: f2
+	64: f1
+	84: f4
+	e4: 00
+	41: 3f
+	21: f0
+	61: f1
+	81: f3
+	e1: 00
+	c1: 31
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+Scale level change on channel 1, op 0: 18.0dB, no change
+	41: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: f0,f1,f3,00,00,3f,31,f2,f1,f4,00,00,3f
+	45: 3f
+	25: f2
+	65: f1
+	85: f4
+	e5: 00
+	42: 3f
+	22: f0
+	62: f1
+	82: f3
+	e2: 00
+	c2: 31
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+Scale level change on channel 2, op 0: 18.0dB, no change
+	42: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: f0,f1,f3,00,00,3f,31,f2,f1,f4,00,00,3f
+	4b: 3f
+	2b: f2
+	6b: f1
+	8b: f4
+	eb: 00
+	48: 3f
+	28: f0
+	68: f1
+	88: f3
+	e8: 00
+	c3: 31
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+Scale level change on channel 3, op 0: 18.0dB, no change
+	48: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: f0,f1,f3,00,00,3f,31,f2,f1,f4,00,00,3f
+	4c: 3f
+	2c: f2
+	6c: f1
+	8c: f4
+	ec: 00
+	49: 3f
+	29: f0
+	69: f1
+	89: f3
+	e9: 00
+	c4: 31
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+Scale level change on channel 4, op 0: 18.0dB, no change
+	49: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: f0,f1,f3,00,00,3f,31,f2,f1,f4,00,00,3f
+	4d: 3f
+	2d: f2
+	6d: f1
+	8d: f4
+	ed: 00
+	4a: 3f
+	2a: f0
+	6a: f1
+	8a: f3
+	ea: 00
+	c5: 31
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+Scale level change on channel 5, op 0: 18.0dB, no change
+	4a: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: f0,f1,f3,00,00,3f,31,f2,f1,f4,00,00,3f
+	53: 3f
+	33: f2
+	73: f1
+	93: f4
+	f3: 00
+	50: 3f
+	30: f0
+	70: f1
+	90: f3
+	f0: 00
+	c6: 31
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+Scale level change on channel 6, op 0: 18.0dB, no change
+	50: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: f0,f1,f3,00,00,3f,31,f2,f1,f4,00,00,3f
+	54: 3f
+	34: f2
+	74: f1
+	94: f4
+	f4: 00
+	51: 3f
+	31: f0
+	71: f1
+	91: f3
+	f1: 00
+	c7: 31
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+Scale level change on channel 7, op 0: 18.0dB, no change
+	51: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 8: 80,79,15,00,00,3f,31,83,f8,75,02,00,3f
+	55: 3f
+	35: 83
+	75: f8
+	95: 75
+	f5: 02
+	52: 3f
+	32: 80
+	72: 79
+	92: 15
+	f2: 00
+	c8: 31
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+Scale level change on channel 8, op 0: 18.0dB, no change
+	52: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 16
+Initialising channel 1: 80,79,15,00,00,3f,31,83,f8,75,02,00,3f
+	44: 3f
+	24: 83
+	64: f8
+	84: 75
+	e4: 02
+	41: 3f
+	21: 80
+	61: 79
+	81: 15
+	e1: 00
+	c1: 31
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+Scale level change on channel 1, op 0: 18.0dB, no change
+	41: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 80,79,15,00,00,3f,31,83,f8,75,02,00,3f
+	45: 3f
+	25: 83
+	65: f8
+	85: 75
+	e5: 02
+	42: 3f
+	22: 80
+	62: 79
+	82: 15
+	e2: 00
+	c2: 31
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+Scale level change on channel 2, op 0: 18.0dB, no change
+	42: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 80,79,15,00,00,3f,31,83,f8,75,02,00,3f
+	4b: 3f
+	2b: 83
+	6b: f8
+	8b: 75
+	eb: 02
+	48: 3f
+	28: 80
+	68: 79
+	88: 15
+	e8: 00
+	c3: 31
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+Scale level change on channel 3, op 0: 18.0dB, no change
+	48: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 80,79,15,00,00,3f,31,83,f8,75,02,00,3f
+	4c: 3f
+	2c: 83
+	6c: f8
+	8c: 75
+	ec: 02
+	49: 3f
+	29: 80
+	69: 79
+	89: 15
+	e9: 00
+	c4: 31
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+Scale level change on channel 4, op 0: 18.0dB, no change
+	49: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 80,79,15,00,00,3f,31,83,f8,75,02,00,3f
+	4d: 3f
+	2d: 83
+	6d: f8
+	8d: 75
+	ed: 02
+	4a: 3f
+	2a: 80
+	6a: 79
+	8a: 15
+	ea: 00
+	c5: 31
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+Scale level change on channel 5, op 0: 18.0dB, no change
+	4a: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 80,79,15,00,00,3f,31,83,f8,75,02,00,3f
+	53: 3f
+	33: 83
+	73: f8
+	93: 75
+	f3: 02
+	50: 3f
+	30: 80
+	70: 79
+	90: 15
+	f0: 00
+	c6: 31
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+Scale level change on channel 6, op 0: 18.0dB, no change
+	50: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 80,79,15,00,00,3f,31,83,f8,75,02,00,3f
+	54: 3f
+	34: 83
+	74: f8
+	94: 75
+	f4: 02
+	51: 3f
+	31: 80
+	71: 79
+	91: 15
+	f1: 00
+	c7: 31
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+Scale level change on channel 7, op 0: 18.0dB, no change
+	51: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 0: 14,f6,93,00,00,1f,38,10,f6,53,00,00,3f
+	43: 3f
+	23: 10
+	63: f6
+	83: 53
+	e3: 00
+	40: 1f
+	20: 14
+	60: f6
+	80: 93
+	e0: 00
+	c0: 38
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+expect: 8
+Key on, channel 8: octave 5, freq 0x2b1
+	a8: b1
+	b8: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x2da
+	a0: da
+	b0: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 16
+Initialising channel 1: 14,f6,93,00,00,1f,38,10,f6,53,00,00,3f
+	44: 3f
+	24: 10
+	64: f6
+	84: 53
+	e4: 00
+	41: 1f
+	21: 14
+	61: f6
+	81: 93
+	e1: 00
+	c1: 38
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 14,f6,93,00,00,1f,38,10,f6,53,00,00,3f
+	45: 3f
+	25: 10
+	65: f6
+	85: 53
+	e5: 00
+	42: 1f
+	22: 14
+	62: f6
+	82: 93
+	e2: 00
+	c2: 38
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 14,f6,93,00,00,1f,38,10,f6,53,00,00,3f
+	4b: 3f
+	2b: 10
+	6b: f6
+	8b: 53
+	eb: 00
+	48: 1f
+	28: 14
+	68: f6
+	88: 93
+	e8: 00
+	c3: 38
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 14,f6,93,00,00,1f,38,10,f6,53,00,00,3f
+	4c: 3f
+	2c: 10
+	6c: f6
+	8c: 53
+	ec: 00
+	49: 1f
+	29: 14
+	69: f6
+	89: 93
+	e9: 00
+	c4: 38
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 14,f6,93,00,00,1f,38,10,f6,53,00,00,3f
+	4d: 3f
+	2d: 10
+	6d: f6
+	8d: 53
+	ed: 00
+	4a: 1f
+	2a: 14
+	6a: f6
+	8a: 93
+	ea: 00
+	c5: 38
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 14,f6,93,00,00,1f,38,10,f6,53,00,00,3f
+	53: 3f
+	33: 10
+	73: f6
+	93: 53
+	f3: 00
+	50: 1f
+	30: 14
+	70: f6
+	90: 93
+	f0: 00
+	c6: 38
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 14,f6,93,00,00,1f,38,10,f6,53,00,00,3f
+	54: 3f
+	34: 10
+	74: f6
+	94: 53
+	f4: 00
+	51: 1f
+	31: 14
+	71: f6
+	91: 93
+	f1: 00
+	c7: 38
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 8: 81,b6,13,01,80,19,3a,02,ff,13,00,00,3f
+	55: 3f
+	35: 02
+	75: ff
+	95: 13
+	f5: 00
+	52: 99
+	32: 81
+	72: b6
+	92: 13
+	f2: 01
+	c8: 3a
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 4, freq 0x28b
+	a8: 8b
+	b8: 32
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 8
+	b8: 12
+expect: 8
+Key on, channel 8: octave 4, freq 0x2da
+	a8: da
+	b8: 32
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 12
+Initialising channel 1: 81,b6,13,01,80,19,3a,02,ff,13,00,00,3f
+	44: 3f
+	24: 02
+	64: ff
+	84: 13
+	e4: 00
+	41: 99
+	21: 81
+	61: b6
+	81: 13
+	e1: 01
+	c1: 3a
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 3, freq 0x365
+	a1: 65
+	b1: 2f
+Initialising channel 2: 81,b6,13,01,80,19,3a,02,ff,13,00,00,3f
+	45: 3f
+	25: 02
+	65: ff
+	85: 13
+	e5: 00
+	42: 99
+	22: 81
+	62: b6
+	82: 13
+	e2: 01
+	c2: 3a
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 3, freq 0x398
+	a2: 98
+	b2: 2f
+Initialising channel 3: 81,b6,13,01,80,19,3a,02,ff,13,00,00,3f
+	4b: 3f
+	2b: 02
+	6b: ff
+	8b: 13
+	eb: 00
+	48: 99
+	28: 81
+	68: b6
+	88: 13
+	e8: 01
+	c3: 3a
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 3, freq 0x3cf
+	a3: cf
+	b3: 2f
+Initialising channel 4: 81,b6,13,01,80,19,3a,02,ff,13,00,00,3f
+	4c: 3f
+	2c: 02
+	6c: ff
+	8c: 13
+	ec: 00
+	49: 99
+	29: 81
+	69: b6
+	89: 13
+	e9: 01
+	c4: 3a
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 4, freq 0x204
+	a4: 04
+	b4: 32
+Initialising channel 5: 81,b6,13,01,80,19,3a,02,ff,13,00,00,3f
+	4d: 3f
+	2d: 02
+	6d: ff
+	8d: 13
+	ed: 00
+	4a: 99
+	2a: 81
+	6a: b6
+	8a: 13
+	ea: 01
+	c5: 3a
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 4, freq 0x223
+	a5: 23
+	b5: 32
+Initialising channel 6: 81,b6,13,01,80,19,3a,02,ff,13,00,00,3f
+	53: 3f
+	33: 02
+	73: ff
+	93: 13
+	f3: 00
+	50: 99
+	30: 81
+	70: b6
+	90: 13
+	f0: 01
+	c6: 3a
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 4, freq 0x244
+	a6: 44
+	b6: 32
+Initialising channel 7: 81,b6,13,01,80,19,3a,02,ff,13,00,00,3f
+	54: 3f
+	34: 02
+	74: ff
+	94: 13
+	f4: 00
+	51: 99
+	31: 81
+	71: b6
+	91: 13
+	f1: 01
+	c7: 3a
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 4, freq 0x266
+	a7: 66
+	b7: 32
+Initialising channel 0: 30,91,11,00,40,07,38,11,52,53,00,80,3f
+	43: bf
+	23: 11
+	63: 52
+	83: 53
+	e3: 00
+	40: 47
+	20: 30
+	60: 91
+	80: 11
+	e0: 00
+	c0: 38
+Scale level change on channel 0, op 1: 18.0dB, 1.5dB/8ve
+	43: 98
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+expect: 8
+Key on, channel 8: octave 4, freq 0x2b1
+	a8: b1
+	b8: 32
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x2da
+	a0: da
+	b0: 36
+Key off, channel 1
+	b1: 0f
+Key off, channel 2
+	b2: 0f
+Key off, channel 3
+	b3: 0f
+Key off, channel 4
+	b4: 12
+Key off, channel 5
+	b5: 12
+Key off, channel 6
+	b6: 12
+Key off, channel 7
+	b7: 12
+Key off, channel 8
+	b8: 12
+Key off, channel 0
+	b0: 16
+Initialising channel 1: 30,91,11,00,40,07,38,11,52,53,00,80,3f
+	44: bf
+	24: 11
+	64: 52
+	84: 53
+	e4: 00
+	41: 47
+	21: 30
+	61: 91
+	81: 11
+	e1: 00
+	c1: 38
+Scale level change on channel 1, op 1: 18.0dB, 1.5dB/8ve
+	44: 98
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 30,91,11,00,40,07,38,11,52,53,00,80,3f
+	45: bf
+	25: 11
+	65: 52
+	85: 53
+	e5: 00
+	42: 47
+	22: 30
+	62: 91
+	82: 11
+	e2: 00
+	c2: 38
+Scale level change on channel 2, op 1: 18.0dB, 1.5dB/8ve
+	45: 98
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 30,91,11,00,40,07,38,11,52,53,00,80,3f
+	4b: bf
+	2b: 11
+	6b: 52
+	8b: 53
+	eb: 00
+	48: 47
+	28: 30
+	68: 91
+	88: 11
+	e8: 00
+	c3: 38
+Scale level change on channel 3, op 1: 18.0dB, 1.5dB/8ve
+	4b: 98
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 30,91,11,00,40,07,38,11,52,53,00,80,3f
+	4c: bf
+	2c: 11
+	6c: 52
+	8c: 53
+	ec: 00
+	49: 47
+	29: 30
+	69: 91
+	89: 11
+	e9: 00
+	c4: 38
+Scale level change on channel 4, op 1: 18.0dB, 1.5dB/8ve
+	4c: 98
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 30,91,11,00,40,07,38,11,52,53,00,80,3f
+	4d: bf
+	2d: 11
+	6d: 52
+	8d: 53
+	ed: 00
+	4a: 47
+	2a: 30
+	6a: 91
+	8a: 11
+	ea: 00
+	c5: 38
+Scale level change on channel 5, op 1: 18.0dB, 1.5dB/8ve
+	4d: 98
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 30,91,11,00,40,07,38,11,52,53,00,80,3f
+	53: bf
+	33: 11
+	73: 52
+	93: 53
+	f3: 00
+	50: 47
+	30: 30
+	70: 91
+	90: 11
+	f0: 00
+	c6: 38
+Scale level change on channel 6, op 1: 18.0dB, 1.5dB/8ve
+	53: 98
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 30,91,11,00,40,07,38,11,52,53,00,80,3f
+	54: bf
+	34: 11
+	74: 52
+	94: 53
+	f4: 00
+	51: 47
+	31: 30
+	71: 91
+	91: 11
+	f1: 00
+	c7: 38
+Scale level change on channel 7, op 1: 18.0dB, 1.5dB/8ve
+	54: 98
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 8: a0,b1,16,00,80,3f,37,61,d1,17,01,80,3f
+	55: bf
+	35: 61
+	75: d1
+	95: 17
+	f5: 01
+	52: bf
+	32: a0
+	72: b1
+	92: 16
+	f2: 00
+	c8: 37
+Scale level change on channel 8, op 1: 18.0dB, 1.5dB/8ve
+	55: 98
+Scale level change on channel 8, op 0: 18.0dB, 1.5dB/8ve
+	52: 98
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 16
+Initialising channel 1: a0,b1,16,00,80,3f,37,61,d1,17,01,80,3f
+	44: bf
+	24: 61
+	64: d1
+	84: 17
+	e4: 01
+	41: bf
+	21: a0
+	61: b1
+	81: 16
+	e1: 00
+	c1: 37
+Scale level change on channel 1, op 1: 18.0dB, 1.5dB/8ve
+	44: 98
+Scale level change on channel 1, op 0: 18.0dB, 1.5dB/8ve
+	41: 98
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: a0,b1,16,00,80,3f,37,61,d1,17,01,80,3f
+	45: bf
+	25: 61
+	65: d1
+	85: 17
+	e5: 01
+	42: bf
+	22: a0
+	62: b1
+	82: 16
+	e2: 00
+	c2: 37
+Scale level change on channel 2, op 1: 18.0dB, 1.5dB/8ve
+	45: 98
+Scale level change on channel 2, op 0: 18.0dB, 1.5dB/8ve
+	42: 98
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: a0,b1,16,00,80,3f,37,61,d1,17,01,80,3f
+	4b: bf
+	2b: 61
+	6b: d1
+	8b: 17
+	eb: 01
+	48: bf
+	28: a0
+	68: b1
+	88: 16
+	e8: 00
+	c3: 37
+Scale level change on channel 3, op 1: 18.0dB, 1.5dB/8ve
+	4b: 98
+Scale level change on channel 3, op 0: 18.0dB, 1.5dB/8ve
+	48: 98
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: a0,b1,16,00,80,3f,37,61,d1,17,01,80,3f
+	4c: bf
+	2c: 61
+	6c: d1
+	8c: 17
+	ec: 01
+	49: bf
+	29: a0
+	69: b1
+	89: 16
+	e9: 00
+	c4: 37
+Scale level change on channel 4, op 1: 18.0dB, 1.5dB/8ve
+	4c: 98
+Scale level change on channel 4, op 0: 18.0dB, 1.5dB/8ve
+	49: 98
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: a0,b1,16,00,80,3f,37,61,d1,17,01,80,3f
+	4d: bf
+	2d: 61
+	6d: d1
+	8d: 17
+	ed: 01
+	4a: bf
+	2a: a0
+	6a: b1
+	8a: 16
+	ea: 00
+	c5: 37
+Scale level change on channel 5, op 1: 18.0dB, 1.5dB/8ve
+	4d: 98
+Scale level change on channel 5, op 0: 18.0dB, 1.5dB/8ve
+	4a: 98
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: a0,b1,16,00,80,3f,37,61,d1,17,01,80,3f
+	53: bf
+	33: 61
+	73: d1
+	93: 17
+	f3: 01
+	50: bf
+	30: a0
+	70: b1
+	90: 16
+	f0: 00
+	c6: 37
+Scale level change on channel 6, op 1: 18.0dB, 1.5dB/8ve
+	53: 98
+Scale level change on channel 6, op 0: 18.0dB, 1.5dB/8ve
+	50: 98
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: a0,b1,16,00,80,3f,37,61,d1,17,01,80,3f
+	54: bf
+	34: 61
+	74: d1
+	94: 17
+	f4: 01
+	51: bf
+	31: a0
+	71: b1
+	91: 16
+	f1: 00
+	c7: 37
+Scale level change on channel 7, op 1: 18.0dB, 1.5dB/8ve
+	54: 98
+Scale level change on channel 7, op 0: 18.0dB, 1.5dB/8ve
+	51: 98
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 0: 30,f1,05,01,00,3f,37,94,f4,36,00,00,3f
+	43: 3f
+	23: 94
+	63: f4
+	83: 36
+	e3: 00
+	40: 3f
+	20: 30
+	60: f1
+	80: 05
+	e0: 01
+	c0: 37
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+Scale level change on channel 0, op 0: 18.0dB, no change
+	40: 18
+expect: 0
+Key on, channel 0: octave 4, freq 0x28b
+	a0: 8b
+	b0: 32
+expect: 8
+Key on, channel 8: octave 5, freq 0x2b1
+	a8: b1
+	b8: 36
+Key off, channel 0
+	b0: 12
+expect: 0
+Key on, channel 0: octave 4, freq 0x2da
+	a0: da
+	b0: 32
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 12
+Initialising channel 1: 30,f1,05,01,00,3f,37,94,f4,36,00,00,3f
+	44: 3f
+	24: 94
+	64: f4
+	84: 36
+	e4: 00
+	41: 3f
+	21: 30
+	61: f1
+	81: 05
+	e1: 01
+	c1: 37
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+Scale level change on channel 1, op 0: 18.0dB, no change
+	41: 18
+expect: 1
+Key on, channel 1: octave 3, freq 0x365
+	a1: 65
+	b1: 2f
+Initialising channel 2: 30,f1,05,01,00,3f,37,94,f4,36,00,00,3f
+	45: 3f
+	25: 94
+	65: f4
+	85: 36
+	e5: 00
+	42: 3f
+	22: 30
+	62: f1
+	82: 05
+	e2: 01
+	c2: 37
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+Scale level change on channel 2, op 0: 18.0dB, no change
+	42: 18
+expect: 2
+Key on, channel 2: octave 3, freq 0x398
+	a2: 98
+	b2: 2f
+Initialising channel 3: 30,f1,05,01,00,3f,37,94,f4,36,00,00,3f
+	4b: 3f
+	2b: 94
+	6b: f4
+	8b: 36
+	eb: 00
+	48: 3f
+	28: 30
+	68: f1
+	88: 05
+	e8: 01
+	c3: 37
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+Scale level change on channel 3, op 0: 18.0dB, no change
+	48: 18
+expect: 3
+Key on, channel 3: octave 3, freq 0x3cf
+	a3: cf
+	b3: 2f
+Initialising channel 4: 30,f1,05,01,00,3f,37,94,f4,36,00,00,3f
+	4c: 3f
+	2c: 94
+	6c: f4
+	8c: 36
+	ec: 00
+	49: 3f
+	29: 30
+	69: f1
+	89: 05
+	e9: 01
+	c4: 37
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+Scale level change on channel 4, op 0: 18.0dB, no change
+	49: 18
+expect: 4
+Key on, channel 4: octave 4, freq 0x204
+	a4: 04
+	b4: 32
+Initialising channel 5: 30,f1,05,01,00,3f,37,94,f4,36,00,00,3f
+	4d: 3f
+	2d: 94
+	6d: f4
+	8d: 36
+	ed: 00
+	4a: 3f
+	2a: 30
+	6a: f1
+	8a: 05
+	ea: 01
+	c5: 37
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+Scale level change on channel 5, op 0: 18.0dB, no change
+	4a: 18
+expect: 5
+Key on, channel 5: octave 4, freq 0x223
+	a5: 23
+	b5: 32
+Initialising channel 6: 30,f1,05,01,00,3f,37,94,f4,36,00,00,3f
+	53: 3f
+	33: 94
+	73: f4
+	93: 36
+	f3: 00
+	50: 3f
+	30: 30
+	70: f1
+	90: 05
+	f0: 01
+	c6: 37
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+Scale level change on channel 6, op 0: 18.0dB, no change
+	50: 18
+expect: 6
+Key on, channel 6: octave 4, freq 0x244
+	a6: 44
+	b6: 32
+Initialising channel 7: 30,f1,05,01,00,3f,37,94,f4,36,00,00,3f
+	54: 3f
+	34: 94
+	74: f4
+	94: 36
+	f4: 00
+	51: 3f
+	31: 30
+	71: f1
+	91: 05
+	f1: 01
+	c7: 37
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+Scale level change on channel 7, op 0: 18.0dB, no change
+	51: 18
+expect: 7
+Key on, channel 7: octave 4, freq 0x266
+	a7: 66
+	b7: 32
+Initialising channel 8: e2,f2,17,00,80,1e,30,60,ff,07,01,80,3f
+	55: bf
+	35: 60
+	75: ff
+	95: 07
+	f5: 01
+	52: 9e
+	32: e2
+	72: f2
+	92: 17
+	f2: 00
+	c8: 30
+Scale level change on channel 8, op 1: 18.0dB, 1.5dB/8ve
+	55: 98
+expect: 8
+Key on, channel 8: octave 4, freq 0x28b
+	a8: 8b
+	b8: 32
+Initialising channel 0: e0,f2,17,01,80,1e,30,a0,ff,07,00,80,3f
+	43: bf
+	23: a0
+	63: ff
+	83: 07
+	e3: 00
+	40: 9e
+	20: e0
+	60: f2
+	80: 17
+	e0: 01
+	c0: 30
+Scale level change on channel 0, op 1: 18.0dB, 1.5dB/8ve
+	43: 98
+expect: 0
+Key on, channel 0: octave 5, freq 0x290
+	a0: 90
+	b0: 36
+Key off, channel 0
+	b0: 16
+Initialising channel 0: 30,f1,05,01,00,3f,37,94,f4,36,00,00,3f
+	43: 3f
+	23: 94
+	63: f4
+	83: 36
+	e3: 00
+	40: 3f
+	20: 30
+	60: f1
+	80: 05
+	e0: 01
+	c0: 37
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+Scale level change on channel 0, op 0: 18.0dB, no change
+	40: 18
+expect: 0
+Key on, channel 0: octave 4, freq 0x2b1
+	a0: b1
+	b0: 32
+Key off, channel 8
+	b8: 12
+expect: 8
+Key on, channel 8: octave 4, freq 0x2da
+	a8: da
+	b8: 32
+Key off, channel 1
+	b1: 0f
+Key off, channel 2
+	b2: 0f
+Key off, channel 3
+	b3: 0f
+Key off, channel 4
+	b4: 12
+Key off, channel 5
+	b5: 12
+Key off, channel 6
+	b6: 12
+Key off, channel 7
+	b7: 12
+Key off, channel 0
+	b0: 12
+Key off, channel 8
+	b8: 12
+Initialising channel 1: e2,f2,17,00,80,1e,30,60,ff,07,01,80,3f
+	44: bf
+	24: 60
+	64: ff
+	84: 07
+	e4: 01
+	41: 9e
+	21: e2
+	61: f2
+	81: 17
+	e1: 00
+	c1: 30
+Scale level change on channel 1, op 1: 18.0dB, 1.5dB/8ve
+	44: 98
+expect: 1
+Key on, channel 1: octave 3, freq 0x365
+	a1: 65
+	b1: 2f
+Initialising channel 2: e0,f2,17,01,80,1e,30,a0,ff,07,00,80,3f
+	45: bf
+	25: a0
+	65: ff
+	85: 07
+	e5: 00
+	42: 9e
+	22: e0
+	62: f2
+	82: 17
+	e2: 01
+	c2: 30
+Scale level change on channel 2, op 1: 18.0dB, 1.5dB/8ve
+	45: 98
+expect: 2
+Key on, channel 2: octave 4, freq 0x36c
+	a2: 6c
+	b2: 33
+Initialising channel 3: e2,f2,17,00,80,1e,30,60,ff,07,01,80,3f
+	4b: bf
+	2b: 60
+	6b: ff
+	8b: 07
+	eb: 01
+	48: 9e
+	28: e2
+	68: f2
+	88: 17
+	e8: 00
+	c3: 30
+Scale level change on channel 3, op 1: 18.0dB, 1.5dB/8ve
+	4b: 98
+expect: 3
+Key on, channel 3: octave 3, freq 0x398
+	a3: 98
+	b3: 2f
+Initialising channel 4: e0,f2,17,01,80,1e,30,a0,ff,07,00,80,3f
+	4c: bf
+	2c: a0
+	6c: ff
+	8c: 07
+	ec: 00
+	49: 9e
+	29: e0
+	69: f2
+	89: 17
+	e9: 01
+	c4: 30
+Scale level change on channel 4, op 1: 18.0dB, 1.5dB/8ve
+	4c: 98
+expect: 4
+Key on, channel 4: octave 4, freq 0x3a1
+	a4: a1
+	b4: 33
+Initialising channel 5: e2,f2,17,00,80,1e,30,60,ff,07,01,80,3f
+	4d: bf
+	2d: 60
+	6d: ff
+	8d: 07
+	ed: 01
+	4a: 9e
+	2a: e2
+	6a: f2
+	8a: 17
+	ea: 00
+	c5: 30
+Scale level change on channel 5, op 1: 18.0dB, 1.5dB/8ve
+	4d: 98
+expect: 5
+Key on, channel 5: octave 3, freq 0x3cf
+	a5: cf
+	b5: 2f
+Initialising channel 6: e0,f2,17,01,80,1e,30,a0,ff,07,00,80,3f
+	53: bf
+	33: a0
+	73: ff
+	93: 07
+	f3: 00
+	50: 9e
+	30: e0
+	70: f2
+	90: 17
+	f0: 01
+	c6: 30
+Scale level change on channel 6, op 1: 18.0dB, 1.5dB/8ve
+	53: 98
+expect: 6
+Key on, channel 6: octave 4, freq 0x3d8
+	a6: d8
+	b6: 33
+Initialising channel 7: e2,f2,17,00,80,1e,30,60,ff,07,01,80,3f
+	54: bf
+	34: 60
+	74: ff
+	94: 07
+	f4: 01
+	51: 9e
+	31: e2
+	71: f2
+	91: 17
+	f1: 00
+	c7: 30
+Scale level change on channel 7, op 1: 18.0dB, 1.5dB/8ve
+	54: 98
+expect: 7
+Key on, channel 7: octave 4, freq 0x204
+	a7: 04
+	b7: 32
+Initialising channel 0: e0,f2,17,01,80,1e,30,a0,ff,07,00,80,3f
+	43: bf
+	23: a0
+	63: ff
+	83: 07
+	e3: 00
+	40: 9e
+	20: e0
+	60: f2
+	80: 17
+	e0: 01
+	c0: 30
+Scale level change on channel 0, op 1: 18.0dB, 1.5dB/8ve
+	43: 98
+expect: 0
+Key on, channel 0: octave 5, freq 0x209
+	a0: 09
+	b0: 36
+expect: 8
+Key on, channel 8: octave 4, freq 0x223
+	a8: 23
+	b8: 32
+Key off, channel 8
+	b8: 12
+expect: 8
+Key on, channel 8: octave 4, freq 0x244
+	a8: 44
+	b8: 32
+Key off, channel 8
+	b8: 12
+expect: 8
+Key on, channel 8: octave 4, freq 0x266
+	a8: 66
+	b8: 32
+Key off, channel 8
+	b8: 12
+Initialising channel 8: 30,30,04,00,80,3f,39,31,54,14,01,80,3f
+	55: bf
+	35: 31
+	75: 54
+	95: 14
+	f5: 01
+	52: bf
+	32: 30
+	72: 30
+	92: 04
+	f2: 00
+	c8: 39
+Scale level change on channel 8, op 1: 18.0dB, 1.5dB/8ve
+	55: 98
+Scale level change on channel 8, op 0: 18.0dB, 1.5dB/8ve
+	52: 98
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+Key off, channel 8
+	b8: 16
+Initialising channel 8: e2,f2,17,00,80,1e,30,60,ff,07,01,80,3f
+	55: bf
+	35: 60
+	75: ff
+	95: 07
+	f5: 01
+	52: 9e
+	32: e2
+	72: f2
+	92: 17
+	f2: 00
+	c8: 30
+Scale level change on channel 8, op 1: 18.0dB, 1.5dB/8ve
+	55: 98
+expect: 8
+Key on, channel 8: octave 4, freq 0x2b1
+	a8: b1
+	b8: 32
+Key off, channel 8
+	b8: 12
+Initialising channel 8: 30,30,04,00,80,3f,39,31,54,14,01,80,3f
+	55: bf
+	35: 31
+	75: 54
+	95: 14
+	f5: 01
+	52: bf
+	32: 30
+	72: 30
+	92: 04
+	f2: 00
+	c8: 39
+Scale level change on channel 8, op 1: 18.0dB, 1.5dB/8ve
+	55: 98
+Scale level change on channel 8, op 0: 18.0dB, 1.5dB/8ve
+	52: 98
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 0f
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 0f
+Key off, channel 4
+	b4: 13
+Key off, channel 5
+	b5: 0f
+Key off, channel 6
+	b6: 13
+Key off, channel 7
+	b7: 12
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 16
+Initialising channel 1: 30,30,04,00,80,3f,39,31,54,14,01,80,3f
+	44: bf
+	24: 31
+	64: 54
+	84: 14
+	e4: 01
+	41: bf
+	21: 30
+	61: 30
+	81: 04
+	e1: 00
+	c1: 39
+Scale level change on channel 1, op 1: 18.0dB, 1.5dB/8ve
+	44: 98
+Scale level change on channel 1, op 0: 18.0dB, 1.5dB/8ve
+	41: 98
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 30,30,04,00,80,3f,39,31,54,14,01,80,3f
+	45: bf
+	25: 31
+	65: 54
+	85: 14
+	e5: 01
+	42: bf
+	22: 30
+	62: 30
+	82: 04
+	e2: 00
+	c2: 39
+Scale level change on channel 2, op 1: 18.0dB, 1.5dB/8ve
+	45: 98
+Scale level change on channel 2, op 0: 18.0dB, 1.5dB/8ve
+	42: 98
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 30,30,04,00,80,3f,39,31,54,14,01,80,3f
+	4b: bf
+	2b: 31
+	6b: 54
+	8b: 14
+	eb: 01
+	48: bf
+	28: 30
+	68: 30
+	88: 04
+	e8: 00
+	c3: 39
+Scale level change on channel 3, op 1: 18.0dB, 1.5dB/8ve
+	4b: 98
+Scale level change on channel 3, op 0: 18.0dB, 1.5dB/8ve
+	48: 98
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 30,30,04,00,80,3f,39,31,54,14,01,80,3f
+	4c: bf
+	2c: 31
+	6c: 54
+	8c: 14
+	ec: 01
+	49: bf
+	29: 30
+	69: 30
+	89: 04
+	e9: 00
+	c4: 39
+Scale level change on channel 4, op 1: 18.0dB, 1.5dB/8ve
+	4c: 98
+Scale level change on channel 4, op 0: 18.0dB, 1.5dB/8ve
+	49: 98
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 30,30,04,00,80,3f,39,31,54,14,01,80,3f
+	4d: bf
+	2d: 31
+	6d: 54
+	8d: 14
+	ed: 01
+	4a: bf
+	2a: 30
+	6a: 30
+	8a: 04
+	ea: 00
+	c5: 39
+Scale level change on channel 5, op 1: 18.0dB, 1.5dB/8ve
+	4d: 98
+Scale level change on channel 5, op 0: 18.0dB, 1.5dB/8ve
+	4a: 98
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 30,30,04,00,80,3f,39,31,54,14,01,80,3f
+	53: bf
+	33: 31
+	73: 54
+	93: 14
+	f3: 01
+	50: bf
+	30: 30
+	70: 30
+	90: 04
+	f0: 00
+	c6: 39
+Scale level change on channel 6, op 1: 18.0dB, 1.5dB/8ve
+	53: 98
+Scale level change on channel 6, op 0: 18.0dB, 1.5dB/8ve
+	50: 98
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 30,30,04,00,80,3f,39,31,54,14,01,80,3f
+	54: bf
+	34: 31
+	74: 54
+	94: 14
+	f4: 01
+	51: bf
+	31: 30
+	71: 30
+	91: 04
+	f1: 00
+	c7: 39
+Scale level change on channel 7, op 1: 18.0dB, 1.5dB/8ve
+	54: 98
+Scale level change on channel 7, op 0: 18.0dB, 1.5dB/8ve
+	51: 98
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 0: 00,80,17,00,40,09,36,81,60,17,01,80,3f
+	43: bf
+	23: 81
+	63: 60
+	83: 17
+	e3: 01
+	40: 49
+	20: 00
+	60: 80
+	80: 17
+	e0: 00
+	c0: 36
+Scale level change on channel 0, op 1: 18.0dB, 1.5dB/8ve
+	43: 98
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+expect: 8
+Key on, channel 8: octave 5, freq 0x2b1
+	a8: b1
+	b8: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x2da
+	a0: da
+	b0: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 16
+Initialising channel 1: 00,80,17,00,40,09,36,81,60,17,01,80,3f
+	44: bf
+	24: 81
+	64: 60
+	84: 17
+	e4: 01
+	41: 49
+	21: 00
+	61: 80
+	81: 17
+	e1: 00
+	c1: 36
+Scale level change on channel 1, op 1: 18.0dB, 1.5dB/8ve
+	44: 98
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 00,80,17,00,40,09,36,81,60,17,01,80,3f
+	45: bf
+	25: 81
+	65: 60
+	85: 17
+	e5: 01
+	42: 49
+	22: 00
+	62: 80
+	82: 17
+	e2: 00
+	c2: 36
+Scale level change on channel 2, op 1: 18.0dB, 1.5dB/8ve
+	45: 98
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 00,80,17,00,40,09,36,81,60,17,01,80,3f
+	4b: bf
+	2b: 81
+	6b: 60
+	8b: 17
+	eb: 01
+	48: 49
+	28: 00
+	68: 80
+	88: 17
+	e8: 00
+	c3: 36
+Scale level change on channel 3, op 1: 18.0dB, 1.5dB/8ve
+	4b: 98
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 00,80,17,00,40,09,36,81,60,17,01,80,3f
+	4c: bf
+	2c: 81
+	6c: 60
+	8c: 17
+	ec: 01
+	49: 49
+	29: 00
+	69: 80
+	89: 17
+	e9: 00
+	c4: 36
+Scale level change on channel 4, op 1: 18.0dB, 1.5dB/8ve
+	4c: 98
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 00,80,17,00,40,09,36,81,60,17,01,80,3f
+	4d: bf
+	2d: 81
+	6d: 60
+	8d: 17
+	ed: 01
+	4a: 49
+	2a: 00
+	6a: 80
+	8a: 17
+	ea: 00
+	c5: 36
+Scale level change on channel 5, op 1: 18.0dB, 1.5dB/8ve
+	4d: 98
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 00,80,17,00,40,09,36,81,60,17,01,80,3f
+	53: bf
+	33: 81
+	73: 60
+	93: 17
+	f3: 01
+	50: 49
+	30: 00
+	70: 80
+	90: 17
+	f0: 00
+	c6: 36
+Scale level change on channel 6, op 1: 18.0dB, 1.5dB/8ve
+	53: 98
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 00,80,17,00,40,09,36,81,60,17,01,80,3f
+	54: bf
+	34: 81
+	74: 60
+	94: 17
+	f4: 01
+	51: 49
+	31: 00
+	71: 80
+	91: 17
+	f1: 00
+	c7: 36
+Scale level change on channel 7, op 1: 18.0dB, 1.5dB/8ve
+	54: 98
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 8: 20,a2,15,00,40,08,3a,31,41,26,01,00,3f
+	55: 3f
+	35: 31
+	75: 41
+	95: 26
+	f5: 01
+	52: 48
+	32: 20
+	72: a2
+	92: 15
+	f2: 00
+	c8: 3a
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+Initialising channel 0: 20,82,15,00,40,0a,3a,31,46,26,01,00,3f
+	43: 3f
+	23: 31
+	63: 46
+	83: 26
+	e3: 01
+	40: 4a
+	20: 20
+	60: 82
+	80: 15
+	e0: 00
+	c0: 3a
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x288
+	a0: 88
+	b0: 36
+Key off, channel 0
+	b0: 16
+Initialising channel 0: 00,80,17,00,40,09,36,81,60,17,01,80,3f
+	43: bf
+	23: 81
+	63: 60
+	83: 17
+	e3: 01
+	40: 49
+	20: 00
+	60: 80
+	80: 17
+	e0: 00
+	c0: 36
+Scale level change on channel 0, op 1: 18.0dB, 1.5dB/8ve
+	43: 98
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 16
+Initialising channel 1: 20,a2,15,00,40,08,3a,31,41,26,01,00,3f
+	44: 3f
+	24: 31
+	64: 41
+	84: 26
+	e4: 01
+	41: 48
+	21: 20
+	61: a2
+	81: 15
+	e1: 00
+	c1: 3a
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 20,82,15,00,40,0a,3a,31,46,26,01,00,3f
+	45: 3f
+	25: 31
+	65: 46
+	85: 26
+	e5: 01
+	42: 4a
+	22: 20
+	62: 82
+	82: 15
+	e2: 00
+	c2: 3a
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x361
+	a2: 61
+	b2: 33
+Initialising channel 3: 20,a2,15,00,40,08,3a,31,41,26,01,00,3f
+	4b: 3f
+	2b: 31
+	6b: 41
+	8b: 26
+	eb: 01
+	48: 48
+	28: 20
+	68: a2
+	88: 15
+	e8: 00
+	c3: 3a
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x398
+	a3: 98
+	b3: 33
+Initialising channel 4: 20,82,15,00,40,0a,3a,31,46,26,01,00,3f
+	4c: 3f
+	2c: 31
+	6c: 46
+	8c: 26
+	ec: 01
+	49: 4a
+	29: 20
+	69: 82
+	89: 15
+	e9: 00
+	c4: 3a
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 4, freq 0x395
+	a4: 95
+	b4: 33
+Initialising channel 5: 20,a2,15,00,40,08,3a,31,41,26,01,00,3f
+	4d: 3f
+	2d: 31
+	6d: 41
+	8d: 26
+	ed: 01
+	4a: 48
+	2a: 20
+	6a: a2
+	8a: 15
+	ea: 00
+	c5: 3a
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 4, freq 0x3cf
+	a5: cf
+	b5: 33
+Initialising channel 6: 20,82,15,00,40,0a,3a,31,46,26,01,00,3f
+	53: 3f
+	33: 31
+	73: 46
+	93: 26
+	f3: 01
+	50: 4a
+	30: 20
+	70: 82
+	90: 15
+	f0: 00
+	c6: 3a
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 4, freq 0x3cb
+	a6: cb
+	b6: 33
+Initialising channel 7: 20,a2,15,00,40,08,3a,31,41,26,01,00,3f
+	54: 3f
+	34: 31
+	74: 41
+	94: 26
+	f4: 01
+	51: 48
+	31: 20
+	71: a2
+	91: 15
+	f1: 00
+	c7: 3a
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x204
+	a7: 04
+	b7: 36
+Initialising channel 0: 20,82,15,00,40,0a,3a,31,46,26,01,00,3f
+	43: 3f
+	23: 31
+	63: 46
+	83: 26
+	e3: 01
+	40: 4a
+	20: 20
+	60: 82
+	80: 15
+	e0: 00
+	c0: 3a
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x202
+	a0: 02
+	b0: 36
+expect: 8
+Key on, channel 8: octave 5, freq 0x223
+	a8: 23
+	b8: 36
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x244
+	a8: 44
+	b8: 36
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x266
+	a8: 66
+	b8: 36
+Key off, channel 8
+	b8: 16
+Initialising channel 8: b0,60,34,00,00,0c,38,b2,42,16,00,80,3f
+	55: bf
+	35: b2
+	75: 42
+	95: 16
+	f5: 00
+	52: 0c
+	32: b0
+	72: 60
+	92: 34
+	f2: 00
+	c8: 38
+Scale level change on channel 8, op 1: 18.0dB, 1.5dB/8ve
+	55: 98
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+Key off, channel 8
+	b8: 16
+Initialising channel 8: 20,a2,15,00,40,08,3a,31,41,26,01,00,3f
+	55: 3f
+	35: 31
+	75: 41
+	95: 26
+	f5: 01
+	52: 48
+	32: 20
+	72: a2
+	92: 15
+	f2: 00
+	c8: 3a
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x2b1
+	a8: b1
+	b8: 36
+Key off, channel 8
+	b8: 16
+Initialising channel 8: b0,60,34,00,00,0c,38,b2,42,16,00,80,3f
+	55: bf
+	35: b2
+	75: 42
+	95: 16
+	f5: 00
+	52: 0c
+	32: b0
+	72: 60
+	92: 34
+	f2: 00
+	c8: 38
+Scale level change on channel 8, op 1: 18.0dB, 1.5dB/8ve
+	55: 98
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 13
+Key off, channel 5
+	b5: 13
+Key off, channel 6
+	b6: 13
+Key off, channel 7
+	b7: 16
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 16
+Initialising channel 1: b0,60,34,00,00,0c,38,b2,42,16,00,80,3f
+	44: bf
+	24: b2
+	64: 42
+	84: 16
+	e4: 00
+	41: 0c
+	21: b0
+	61: 60
+	81: 34
+	e1: 00
+	c1: 38
+Scale level change on channel 1, op 1: 18.0dB, 1.5dB/8ve
+	44: 98
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: b0,60,34,00,00,0c,38,b2,42,16,00,80,3f
+	45: bf
+	25: b2
+	65: 42
+	85: 16
+	e5: 00
+	42: 0c
+	22: b0
+	62: 60
+	82: 34
+	e2: 00
+	c2: 38
+Scale level change on channel 2, op 1: 18.0dB, 1.5dB/8ve
+	45: 98
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: b0,60,34,00,00,0c,38,b2,42,16,00,80,3f
+	4b: bf
+	2b: b2
+	6b: 42
+	8b: 16
+	eb: 00
+	48: 0c
+	28: b0
+	68: 60
+	88: 34
+	e8: 00
+	c3: 38
+Scale level change on channel 3, op 1: 18.0dB, 1.5dB/8ve
+	4b: 98
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: b0,60,34,00,00,0c,38,b2,42,16,00,80,3f
+	4c: bf
+	2c: b2
+	6c: 42
+	8c: 16
+	ec: 00
+	49: 0c
+	29: b0
+	69: 60
+	89: 34
+	e9: 00
+	c4: 38
+Scale level change on channel 4, op 1: 18.0dB, 1.5dB/8ve
+	4c: 98
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: b0,60,34,00,00,0c,38,b2,42,16,00,80,3f
+	4d: bf
+	2d: b2
+	6d: 42
+	8d: 16
+	ed: 00
+	4a: 0c
+	2a: b0
+	6a: 60
+	8a: 34
+	ea: 00
+	c5: 38
+Scale level change on channel 5, op 1: 18.0dB, 1.5dB/8ve
+	4d: 98
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: b0,60,34,00,00,0c,38,b2,42,16,00,80,3f
+	53: bf
+	33: b2
+	73: 42
+	93: 16
+	f3: 00
+	50: 0c
+	30: b0
+	70: 60
+	90: 34
+	f0: 00
+	c6: 38
+Scale level change on channel 6, op 1: 18.0dB, 1.5dB/8ve
+	53: 98
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: b0,60,34,00,00,0c,38,b2,42,16,00,80,3f
+	54: bf
+	34: b2
+	74: 42
+	94: 16
+	f4: 00
+	51: 0c
+	31: b0
+	71: 60
+	91: 34
+	f1: 00
+	c7: 38
+Scale level change on channel 7, op 1: 18.0dB, 1.5dB/8ve
+	54: 98
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 0: 20,f0,05,01,80,12,38,31,52,05,02,00,3f
+	43: 3f
+	23: 31
+	63: 52
+	83: 05
+	e3: 02
+	40: 92
+	20: 20
+	60: f0
+	80: 05
+	e0: 01
+	c0: 38
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+Initialising channel 8: 20,f0,05,01,80,12,30,31,52,05,02,00,3f
+	55: 3f
+	35: 31
+	75: 52
+	95: 05
+	f5: 02
+	52: 92
+	32: 20
+	72: f0
+	92: 05
+	f2: 01
+	c8: 30
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+Key off, channel 8
+	b8: 16
+Initialising channel 8: b0,60,34,00,00,0c,38,b2,42,16,00,80,3f
+	55: bf
+	35: b2
+	75: 42
+	95: 16
+	f5: 00
+	52: 0c
+	32: b0
+	72: 60
+	92: 34
+	f2: 00
+	c8: 38
+Scale level change on channel 8, op 1: 18.0dB, 1.5dB/8ve
+	55: 98
+expect: 8
+Key on, channel 8: octave 5, freq 0x2b1
+	a8: b1
+	b8: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x2da
+	a0: da
+	b0: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 16
+Initialising channel 1: 20,f0,05,01,80,12,38,31,52,05,02,00,3f
+	44: 3f
+	24: 31
+	64: 52
+	84: 05
+	e4: 02
+	41: 92
+	21: 20
+	61: f0
+	81: 05
+	e1: 01
+	c1: 38
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 20,f0,05,01,80,12,30,31,52,05,02,00,3f
+	45: 3f
+	25: 31
+	65: 52
+	85: 05
+	e5: 02
+	42: 92
+	22: 20
+	62: f0
+	82: 05
+	e2: 01
+	c2: 30
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x365
+	a2: 65
+	b2: 33
+Initialising channel 3: 20,f0,05,01,80,12,38,31,52,05,02,00,3f
+	4b: 3f
+	2b: 31
+	6b: 52
+	8b: 05
+	eb: 02
+	48: 92
+	28: 20
+	68: f0
+	88: 05
+	e8: 01
+	c3: 38
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x398
+	a3: 98
+	b3: 33
+Initialising channel 4: 20,f0,05,01,80,12,30,31,52,05,02,00,3f
+	4c: 3f
+	2c: 31
+	6c: 52
+	8c: 05
+	ec: 02
+	49: 92
+	29: 20
+	69: f0
+	89: 05
+	e9: 01
+	c4: 30
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 4, freq 0x398
+	a4: 98
+	b4: 33
+Initialising channel 5: 20,f0,05,01,80,12,38,31,52,05,02,00,3f
+	4d: 3f
+	2d: 31
+	6d: 52
+	8d: 05
+	ed: 02
+	4a: 92
+	2a: 20
+	6a: f0
+	8a: 05
+	ea: 01
+	c5: 38
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 4, freq 0x3cf
+	a5: cf
+	b5: 33
+Initialising channel 6: 20,f0,05,01,80,12,30,31,52,05,02,00,3f
+	53: 3f
+	33: 31
+	73: 52
+	93: 05
+	f3: 02
+	50: 92
+	30: 20
+	70: f0
+	90: 05
+	f0: 01
+	c6: 30
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 4, freq 0x3cf
+	a6: cf
+	b6: 33
+Initialising channel 7: 20,f0,05,01,80,12,38,31,52,05,02,00,3f
+	54: 3f
+	34: 31
+	74: 52
+	94: 05
+	f4: 02
+	51: 92
+	31: 20
+	71: f0
+	91: 05
+	f1: 01
+	c7: 38
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x204
+	a7: 04
+	b7: 36
+Initialising channel 8: 20,f0,05,01,80,12,30,31,52,05,02,00,3f
+	55: 3f
+	35: 31
+	75: 52
+	95: 05
+	f5: 02
+	52: 92
+	32: 20
+	72: f0
+	92: 05
+	f2: 01
+	c8: 30
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x204
+	a8: 04
+	b8: 36
+expect: 0
+Key on, channel 0: octave 5, freq 0x223
+	a0: 23
+	b0: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x244
+	a0: 44
+	b0: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x266
+	a0: 66
+	b0: 36
+Key off, channel 0
+	b0: 16
+Initialising channel 0: 20,f1,f5,00,80,0d,30,20,f1,f6,00,00,3f
+	43: 3f
+	23: 20
+	63: f1
+	83: f6
+	e3: 00
+	40: 8d
+	20: 20
+	60: f1
+	80: f5
+	e0: 00
+	c0: 30
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+Key off, channel 0
+	b0: 16
+Initialising channel 0: 20,f0,05,01,80,12,38,31,52,05,02,00,3f
+	43: 3f
+	23: 31
+	63: 52
+	83: 05
+	e3: 02
+	40: 92
+	20: 20
+	60: f0
+	80: 05
+	e0: 01
+	c0: 38
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 0
+	b0: 16
+Initialising channel 0: 20,f1,f5,00,80,0d,30,20,f1,f6,00,00,3f
+	43: 3f
+	23: 20
+	63: f1
+	83: f6
+	e3: 00
+	40: 8d
+	20: 20
+	60: f1
+	80: f5
+	e0: 00
+	c0: 30
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x2da
+	a0: da
+	b0: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 13
+Key off, channel 5
+	b5: 13
+Key off, channel 6
+	b6: 13
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 16
+Initialising channel 1: 20,f1,f5,00,80,0d,30,20,f1,f6,00,00,3f
+	44: 3f
+	24: 20
+	64: f1
+	84: f6
+	e4: 00
+	41: 8d
+	21: 20
+	61: f1
+	81: f5
+	e1: 00
+	c1: 30
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 20,f1,f5,00,80,0d,30,20,f1,f6,00,00,3f
+	45: 3f
+	25: 20
+	65: f1
+	85: f6
+	e5: 00
+	42: 8d
+	22: 20
+	62: f1
+	82: f5
+	e2: 00
+	c2: 30
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 20,f1,f5,00,80,0d,30,20,f1,f6,00,00,3f
+	4b: 3f
+	2b: 20
+	6b: f1
+	8b: f6
+	eb: 00
+	48: 8d
+	28: 20
+	68: f1
+	88: f5
+	e8: 00
+	c3: 30
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 20,f1,f5,00,80,0d,30,20,f1,f6,00,00,3f
+	4c: 3f
+	2c: 20
+	6c: f1
+	8c: f6
+	ec: 00
+	49: 8d
+	29: 20
+	69: f1
+	89: f5
+	e9: 00
+	c4: 30
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 20,f1,f5,00,80,0d,30,20,f1,f6,00,00,3f
+	4d: 3f
+	2d: 20
+	6d: f1
+	8d: f6
+	ed: 00
+	4a: 8d
+	2a: 20
+	6a: f1
+	8a: f5
+	ea: 00
+	c5: 30
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 20,f1,f5,00,80,0d,30,20,f1,f6,00,00,3f
+	53: 3f
+	33: 20
+	73: f1
+	93: f6
+	f3: 00
+	50: 8d
+	30: 20
+	70: f1
+	90: f5
+	f0: 00
+	c6: 30
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 20,f1,f5,00,80,0d,30,20,f1,f6,00,00,3f
+	54: 3f
+	34: 20
+	74: f1
+	94: f6
+	f4: 00
+	51: 8d
+	31: 20
+	71: f1
+	91: f5
+	f1: 00
+	c7: 30
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 8: 30,e1,e4,01,00,0d,3a,30,f2,e3,00,00,3f
+	55: 3f
+	35: 30
+	75: f2
+	95: e3
+	f5: 00
+	52: 0d
+	32: 30
+	72: e1
+	92: e4
+	f2: 01
+	c8: 3a
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 16
+Initialising channel 1: 30,e1,e4,01,00,0d,3a,30,f2,e3,00,00,3f
+	44: 3f
+	24: 30
+	64: f2
+	84: e3
+	e4: 00
+	41: 0d
+	21: 30
+	61: e1
+	81: e4
+	e1: 01
+	c1: 3a
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 30,e1,e4,01,00,0d,3a,30,f2,e3,00,00,3f
+	45: 3f
+	25: 30
+	65: f2
+	85: e3
+	e5: 00
+	42: 0d
+	22: 30
+	62: e1
+	82: e4
+	e2: 01
+	c2: 3a
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 30,e1,e4,01,00,0d,3a,30,f2,e3,00,00,3f
+	4b: 3f
+	2b: 30
+	6b: f2
+	8b: e3
+	eb: 00
+	48: 0d
+	28: 30
+	68: e1
+	88: e4
+	e8: 01
+	c3: 3a
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 30,e1,e4,01,00,0d,3a,30,f2,e3,00,00,3f
+	4c: 3f
+	2c: 30
+	6c: f2
+	8c: e3
+	ec: 00
+	49: 0d
+	29: 30
+	69: e1
+	89: e4
+	e9: 01
+	c4: 3a
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 30,e1,e4,01,00,0d,3a,30,f2,e3,00,00,3f
+	4d: 3f
+	2d: 30
+	6d: f2
+	8d: e3
+	ed: 00
+	4a: 0d
+	2a: 30
+	6a: e1
+	8a: e4
+	ea: 01
+	c5: 3a
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 30,e1,e4,01,00,0d,3a,30,f2,e3,00,00,3f
+	53: 3f
+	33: 30
+	73: f2
+	93: e3
+	f3: 00
+	50: 0d
+	30: 30
+	70: e1
+	90: e4
+	f0: 01
+	c6: 3a
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 30,e1,e4,01,00,0d,3a,30,f2,e3,00,00,3f
+	54: 3f
+	34: 30
+	74: f2
+	94: e3
+	f4: 00
+	51: 0d
+	31: 30
+	71: e1
+	91: e4
+	f1: 01
+	c7: 3a
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 0: 00,f1,1f,02,00,21,3a,00,f4,88,00,00,3f
+	43: 3f
+	23: 00
+	63: f4
+	83: 88
+	e3: 00
+	40: 21
+	20: 00
+	60: f1
+	80: 1f
+	e0: 02
+	c0: 3a
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+expect: 8
+Key on, channel 8: octave 5, freq 0x2b1
+	a8: b1
+	b8: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x2da
+	a0: da
+	b0: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 16
+Initialising channel 1: 00,f1,1f,02,00,21,3a,00,f4,88,00,00,3f
+	44: 3f
+	24: 00
+	64: f4
+	84: 88
+	e4: 00
+	41: 21
+	21: 00
+	61: f1
+	81: 1f
+	e1: 02
+	c1: 3a
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 00,f1,1f,02,00,21,3a,00,f4,88,00,00,3f
+	45: 3f
+	25: 00
+	65: f4
+	85: 88
+	e5: 00
+	42: 21
+	22: 00
+	62: f1
+	82: 1f
+	e2: 02
+	c2: 3a
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 00,f1,1f,02,00,21,3a,00,f4,88,00,00,3f
+	4b: 3f
+	2b: 00
+	6b: f4
+	8b: 88
+	eb: 00
+	48: 21
+	28: 00
+	68: f1
+	88: 1f
+	e8: 02
+	c3: 3a
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 00,f1,1f,02,00,21,3a,00,f4,88,00,00,3f
+	4c: 3f
+	2c: 00
+	6c: f4
+	8c: 88
+	ec: 00
+	49: 21
+	29: 00
+	69: f1
+	89: 1f
+	e9: 02
+	c4: 3a
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 00,f1,1f,02,00,21,3a,00,f4,88,00,00,3f
+	4d: 3f
+	2d: 00
+	6d: f4
+	8d: 88
+	ed: 00
+	4a: 21
+	2a: 00
+	6a: f1
+	8a: 1f
+	ea: 02
+	c5: 3a
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 00,f1,1f,02,00,21,3a,00,f4,88,00,00,3f
+	53: 3f
+	33: 00
+	73: f4
+	93: 88
+	f3: 00
+	50: 21
+	30: 00
+	70: f1
+	90: 1f
+	f0: 02
+	c6: 3a
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 00,f1,1f,02,00,21,3a,00,f4,88,00,00,3f
+	54: 3f
+	34: 00
+	74: f4
+	94: 88
+	f4: 00
+	51: 21
+	31: 00
+	71: f1
+	91: 1f
+	f1: 02
+	c7: 3a
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 8: 10,ea,32,01,80,07,32,10,d2,e7,02,00,3f
+	55: 3f
+	35: 10
+	75: d2
+	95: e7
+	f5: 02
+	52: 87
+	32: 10
+	72: ea
+	92: 32
+	f2: 01
+	c8: 32
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 16
+Initialising channel 1: 10,ea,32,01,80,07,32,10,d2,e7,02,00,3f
+	44: 3f
+	24: 10
+	64: d2
+	84: e7
+	e4: 02
+	41: 87
+	21: 10
+	61: ea
+	81: 32
+	e1: 01
+	c1: 32
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 10,ea,32,01,80,07,32,10,d2,e7,02,00,3f
+	45: 3f
+	25: 10
+	65: d2
+	85: e7
+	e5: 02
+	42: 87
+	22: 10
+	62: ea
+	82: 32
+	e2: 01
+	c2: 32
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 10,ea,32,01,80,07,32,10,d2,e7,02,00,3f
+	4b: 3f
+	2b: 10
+	6b: d2
+	8b: e7
+	eb: 02
+	48: 87
+	28: 10
+	68: ea
+	88: 32
+	e8: 01
+	c3: 32
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 10,ea,32,01,80,07,32,10,d2,e7,02,00,3f
+	4c: 3f
+	2c: 10
+	6c: d2
+	8c: e7
+	ec: 02
+	49: 87
+	29: 10
+	69: ea
+	89: 32
+	e9: 01
+	c4: 32
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 10,ea,32,01,80,07,32,10,d2,e7,02,00,3f
+	4d: 3f
+	2d: 10
+	6d: d2
+	8d: e7
+	ed: 02
+	4a: 87
+	2a: 10
+	6a: ea
+	8a: 32
+	ea: 01
+	c5: 32
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 10,ea,32,01,80,07,32,10,d2,e7,02,00,3f
+	53: 3f
+	33: 10
+	73: d2
+	93: e7
+	f3: 02
+	50: 87
+	30: 10
+	70: ea
+	90: 32
+	f0: 01
+	c6: 32
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 10,ea,32,01,80,07,32,10,d2,e7,02,00,3f
+	54: 3f
+	34: 10
+	74: d2
+	94: e7
+	f4: 02
+	51: 87
+	31: 10
+	71: ea
+	91: 32
+	f1: 01
+	c7: 32
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 0: 30,e0,f4,00,80,12,30,30,f2,f5,00,80,3f
+	43: bf
+	23: 30
+	63: f2
+	83: f5
+	e3: 00
+	40: 92
+	20: 30
+	60: e0
+	80: f4
+	e0: 00
+	c0: 30
+Scale level change on channel 0, op 1: 18.0dB, 1.5dB/8ve
+	43: 98
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+expect: 8
+Key on, channel 8: octave 5, freq 0x2b1
+	a8: b1
+	b8: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x2da
+	a0: da
+	b0: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 16
+Initialising channel 1: 30,e0,f4,00,80,12,30,30,f2,f5,00,80,3f
+	44: bf
+	24: 30
+	64: f2
+	84: f5
+	e4: 00
+	41: 92
+	21: 30
+	61: e0
+	81: f4
+	e1: 00
+	c1: 30
+Scale level change on channel 1, op 1: 18.0dB, 1.5dB/8ve
+	44: 98
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 30,e0,f4,00,80,12,30,30,f2,f5,00,80,3f
+	45: bf
+	25: 30
+	65: f2
+	85: f5
+	e5: 00
+	42: 92
+	22: 30
+	62: e0
+	82: f4
+	e2: 00
+	c2: 30
+Scale level change on channel 2, op 1: 18.0dB, 1.5dB/8ve
+	45: 98
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 30,e0,f4,00,80,12,30,30,f2,f5,00,80,3f
+	4b: bf
+	2b: 30
+	6b: f2
+	8b: f5
+	eb: 00
+	48: 92
+	28: 30
+	68: e0
+	88: f4
+	e8: 00
+	c3: 30
+Scale level change on channel 3, op 1: 18.0dB, 1.5dB/8ve
+	4b: 98
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 30,e0,f4,00,80,12,30,30,f2,f5,00,80,3f
+	4c: bf
+	2c: 30
+	6c: f2
+	8c: f5
+	ec: 00
+	49: 92
+	29: 30
+	69: e0
+	89: f4
+	e9: 00
+	c4: 30
+Scale level change on channel 4, op 1: 18.0dB, 1.5dB/8ve
+	4c: 98
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 30,e0,f4,00,80,12,30,30,f2,f5,00,80,3f
+	4d: bf
+	2d: 30
+	6d: f2
+	8d: f5
+	ed: 00
+	4a: 92
+	2a: 30
+	6a: e0
+	8a: f4
+	ea: 00
+	c5: 30
+Scale level change on channel 5, op 1: 18.0dB, 1.5dB/8ve
+	4d: 98
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 30,e0,f4,00,80,12,30,30,f2,f5,00,80,3f
+	53: bf
+	33: 30
+	73: f2
+	93: f5
+	f3: 00
+	50: 92
+	30: 30
+	70: e0
+	90: f4
+	f0: 00
+	c6: 30
+Scale level change on channel 6, op 1: 18.0dB, 1.5dB/8ve
+	53: 98
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 30,e0,f4,00,80,12,30,30,f2,f5,00,80,3f
+	54: bf
+	34: 30
+	74: f2
+	94: f5
+	f4: 00
+	51: 92
+	31: 30
+	71: e0
+	91: f4
+	f1: 00
+	c7: 30
+Scale level change on channel 7, op 1: 18.0dB, 1.5dB/8ve
+	54: 98
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 8: 00,f1,ff,00,00,10,3a,51,f0,ff,01,00,3f
+	55: 3f
+	35: 51
+	75: f0
+	95: ff
+	f5: 01
+	52: 10
+	32: 00
+	72: f1
+	92: ff
+	f2: 00
+	c8: 3a
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 16
+Initialising channel 1: 00,f1,ff,00,00,10,3a,51,f0,ff,01,00,3f
+	44: 3f
+	24: 51
+	64: f0
+	84: ff
+	e4: 01
+	41: 10
+	21: 00
+	61: f1
+	81: ff
+	e1: 00
+	c1: 3a
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 00,f1,ff,00,00,10,3a,51,f0,ff,01,00,3f
+	45: 3f
+	25: 51
+	65: f0
+	85: ff
+	e5: 01
+	42: 10
+	22: 00
+	62: f1
+	82: ff
+	e2: 00
+	c2: 3a
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 00,f1,ff,00,00,10,3a,51,f0,ff,01,00,3f
+	4b: 3f
+	2b: 51
+	6b: f0
+	8b: ff
+	eb: 01
+	48: 10
+	28: 00
+	68: f1
+	88: ff
+	e8: 00
+	c3: 3a
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 00,f1,ff,00,00,10,3a,51,f0,ff,01,00,3f
+	4c: 3f
+	2c: 51
+	6c: f0
+	8c: ff
+	ec: 01
+	49: 10
+	29: 00
+	69: f1
+	89: ff
+	e9: 00
+	c4: 3a
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 00,f1,ff,00,00,10,3a,51,f0,ff,01,00,3f
+	4d: 3f
+	2d: 51
+	6d: f0
+	8d: ff
+	ed: 01
+	4a: 10
+	2a: 00
+	6a: f1
+	8a: ff
+	ea: 00
+	c5: 3a
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 00,f1,ff,00,00,10,3a,51,f0,ff,01,00,3f
+	53: 3f
+	33: 51
+	73: f0
+	93: ff
+	f3: 01
+	50: 10
+	30: 00
+	70: f1
+	90: ff
+	f0: 00
+	c6: 3a
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 00,f1,ff,00,00,10,3a,51,f0,ff,01,00,3f
+	54: 3f
+	34: 51
+	74: f0
+	94: ff
+	f4: 01
+	51: 10
+	31: 00
+	71: f1
+	91: ff
+	f1: 00
+	c7: 3a
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 0: 10,f1,ff,00,00,0d,3c,51,f0,ff,01,00,3f
+	43: 3f
+	23: 51
+	63: f0
+	83: ff
+	e3: 01
+	40: 0d
+	20: 10
+	60: f1
+	80: ff
+	e0: 00
+	c0: 3c
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+expect: 8
+Key on, channel 8: octave 5, freq 0x2b1
+	a8: b1
+	b8: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x2da
+	a0: da
+	b0: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 16
+Initialising channel 1: 10,f1,ff,00,00,0d,3c,51,f0,ff,01,00,3f
+	44: 3f
+	24: 51
+	64: f0
+	84: ff
+	e4: 01
+	41: 0d
+	21: 10
+	61: f1
+	81: ff
+	e1: 00
+	c1: 3c
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 10,f1,ff,00,00,0d,3c,51,f0,ff,01,00,3f
+	45: 3f
+	25: 51
+	65: f0
+	85: ff
+	e5: 01
+	42: 0d
+	22: 10
+	62: f1
+	82: ff
+	e2: 00
+	c2: 3c
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 10,f1,ff,00,00,0d,3c,51,f0,ff,01,00,3f
+	4b: 3f
+	2b: 51
+	6b: f0
+	8b: ff
+	eb: 01
+	48: 0d
+	28: 10
+	68: f1
+	88: ff
+	e8: 00
+	c3: 3c
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 10,f1,ff,00,00,0d,3c,51,f0,ff,01,00,3f
+	4c: 3f
+	2c: 51
+	6c: f0
+	8c: ff
+	ec: 01
+	49: 0d
+	29: 10
+	69: f1
+	89: ff
+	e9: 00
+	c4: 3c
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 10,f1,ff,00,00,0d,3c,51,f0,ff,01,00,3f
+	4d: 3f
+	2d: 51
+	6d: f0
+	8d: ff
+	ed: 01
+	4a: 0d
+	2a: 10
+	6a: f1
+	8a: ff
+	ea: 00
+	c5: 3c
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 10,f1,ff,00,00,0d,3c,51,f0,ff,01,00,3f
+	53: 3f
+	33: 51
+	73: f0
+	93: ff
+	f3: 01
+	50: 0d
+	30: 10
+	70: f1
+	90: ff
+	f0: 00
+	c6: 3c
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 10,f1,ff,00,00,0d,3c,51,f0,ff,01,00,3f
+	54: 3f
+	34: 51
+	74: f0
+	94: ff
+	f4: 01
+	51: 0d
+	31: 10
+	71: f1
+	91: ff
+	f1: 00
+	c7: 3c
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 8: 10,a1,97,02,40,03,30,11,e1,e7,00,00,3f
+	55: 3f
+	35: 11
+	75: e1
+	95: e7
+	f5: 00
+	52: 43
+	32: 10
+	72: a1
+	92: 97
+	f2: 02
+	c8: 30
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 16
+Initialising channel 1: 10,a1,97,02,40,03,30,11,e1,e7,00,00,3f
+	44: 3f
+	24: 11
+	64: e1
+	84: e7
+	e4: 00
+	41: 43
+	21: 10
+	61: a1
+	81: 97
+	e1: 02
+	c1: 30
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 10,a1,97,02,40,03,30,11,e1,e7,00,00,3f
+	45: 3f
+	25: 11
+	65: e1
+	85: e7
+	e5: 00
+	42: 43
+	22: 10
+	62: a1
+	82: 97
+	e2: 02
+	c2: 30
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 10,a1,97,02,40,03,30,11,e1,e7,00,00,3f
+	4b: 3f
+	2b: 11
+	6b: e1
+	8b: e7
+	eb: 00
+	48: 43
+	28: 10
+	68: a1
+	88: 97
+	e8: 02
+	c3: 30
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 10,a1,97,02,40,03,30,11,e1,e7,00,00,3f
+	4c: 3f
+	2c: 11
+	6c: e1
+	8c: e7
+	ec: 00
+	49: 43
+	29: 10
+	69: a1
+	89: 97
+	e9: 02
+	c4: 30
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 10,a1,97,02,40,03,30,11,e1,e7,00,00,3f
+	4d: 3f
+	2d: 11
+	6d: e1
+	8d: e7
+	ed: 00
+	4a: 43
+	2a: 10
+	6a: a1
+	8a: 97
+	ea: 02
+	c5: 30
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 10,a1,97,02,40,03,30,11,e1,e7,00,00,3f
+	53: 3f
+	33: 11
+	73: e1
+	93: e7
+	f3: 00
+	50: 43
+	30: 10
+	70: a1
+	90: 97
+	f0: 02
+	c6: 30
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 10,a1,97,02,40,03,30,11,e1,e7,00,00,3f
+	54: 3f
+	34: 11
+	74: e1
+	94: e7
+	f4: 00
+	51: 43
+	31: 10
+	71: a1
+	91: 97
+	f1: 02
+	c7: 30
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 0: 20,c4,20,00,00,0e,30,b0,c3,f6,00,00,3f
+	43: 3f
+	23: b0
+	63: c3
+	83: f6
+	e3: 00
+	40: 0e
+	20: 20
+	60: c4
+	80: 20
+	e0: 00
+	c0: 30
+Scale level change on channel 0, op 1: 18.0dB, no change
+	43: 18
+expect: 0
+Key on, channel 0: octave 5, freq 0x28b
+	a0: 8b
+	b0: 36
+expect: 8
+Key on, channel 8: octave 5, freq 0x2b1
+	a8: b1
+	b8: 36
+Key off, channel 0
+	b0: 16
+expect: 0
+Key on, channel 0: octave 5, freq 0x2da
+	a0: da
+	b0: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 8
+	b8: 16
+Key off, channel 0
+	b0: 16
+Initialising channel 1: 20,c4,20,00,00,0e,30,b0,c3,f6,00,00,3f
+	44: 3f
+	24: b0
+	64: c3
+	84: f6
+	e4: 00
+	41: 0e
+	21: 20
+	61: c4
+	81: 20
+	e1: 00
+	c1: 30
+Scale level change on channel 1, op 1: 18.0dB, no change
+	44: 18
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Initialising channel 2: 20,c4,20,00,00,0e,30,b0,c3,f6,00,00,3f
+	45: 3f
+	25: b0
+	65: c3
+	85: f6
+	e5: 00
+	42: 0e
+	22: 20
+	62: c4
+	82: 20
+	e2: 00
+	c2: 30
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Initialising channel 3: 20,c4,20,00,00,0e,30,b0,c3,f6,00,00,3f
+	4b: 3f
+	2b: b0
+	6b: c3
+	8b: f6
+	eb: 00
+	48: 0e
+	28: 20
+	68: c4
+	88: 20
+	e8: 00
+	c3: 30
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Initialising channel 4: 20,c4,20,00,00,0e,30,b0,c3,f6,00,00,3f
+	4c: 3f
+	2c: b0
+	6c: c3
+	8c: f6
+	ec: 00
+	49: 0e
+	29: 20
+	69: c4
+	89: 20
+	e9: 00
+	c4: 30
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Initialising channel 5: 20,c4,20,00,00,0e,30,b0,c3,f6,00,00,3f
+	4d: 3f
+	2d: b0
+	6d: c3
+	8d: f6
+	ed: 00
+	4a: 0e
+	2a: 20
+	6a: c4
+	8a: 20
+	ea: 00
+	c5: 30
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Initialising channel 6: 20,c4,20,00,00,0e,30,b0,c3,f6,00,00,3f
+	53: 3f
+	33: b0
+	73: c3
+	93: f6
+	f3: 00
+	50: 0e
+	30: 20
+	70: c4
+	90: 20
+	f0: 00
+	c6: 30
+Scale level change on channel 6, op 1: 18.0dB, no change
+	53: 18
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Initialising channel 7: 20,c4,20,00,00,0e,30,b0,c3,f6,00,00,3f
+	54: 3f
+	34: b0
+	74: c3
+	94: f6
+	f4: 00
+	51: 0e
+	31: 20
+	71: c4
+	91: 20
+	f1: 00
+	c7: 30
+Scale level change on channel 7, op 1: 18.0dB, no change
+	54: 18
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Initialising channel 8: 30,f0,ff,00,80,16,3a,31,f1,f8,00,00,3f
+	55: 3f
+	35: 31
+	75: f1
+	95: f8
+	f5: 00
+	52: 96
+	32: 30
+	72: f0
+	92: ff
+	f2: 00
+	c8: 3a
+Scale level change on channel 8, op 1: 18.0dB, no change
+	55: 18
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+expect: 0
+Key on, channel 0: octave 5, freq 0x2b1
+	a0: b1
+	b0: 36
+Key off, channel 8
+	b8: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x2da
+	a8: da
+	b8: 36
+Key off, channel 1
+	b1: 13
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 16
+Key off, channel 5
+	b5: 16
+Key off, channel 6
+	b6: 16
+Key off, channel 7
+	b7: 16
+Key off, channel 0
+	b0: 16
+Key off, channel 8
+	b8: 16
+Initialising channel 1: 20,e0,14,00,80,0f,38,30,e1,d6,00,80,3f
+	44: bf
+	24: 30
+	64: e1
+	84: d6
+	e4: 00
+	41: 8f
+	21: 20
+	61: e0
+	81: 14
+	e1: 00
+	c1: 38
+Scale level change on channel 1, op 1: 6.0dB, 1.5dB/8ve
+	44: 88
+expect: 1
+Key on, channel 1: octave 2, freq 0x365
+	a1: 65
+	b1: 2b
+Key off, channel 1
+	b1: 0b
+Initialising channel 2: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	45: 3f
+	25: 30
+	65: f1
+	85: f4
+	e5: 01
+	42: 54
+	22: 30
+	62: f0
+	82: f3
+	e2: 01
+	c2: 3a
+Scale level change on channel 2, op 1: 18.0dB, no change
+	45: 18
+expect: 2
+Key on, channel 2: octave 4, freq 0x365
+	a2: 65
+	b2: 33
+Initialising channel 3: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	4b: 3f
+	2b: 30
+	6b: f1
+	8b: f4
+	eb: 01
+	48: 54
+	28: 30
+	68: f0
+	88: f3
+	e8: 01
+	c3: 3a
+Scale level change on channel 3, op 1: 18.0dB, no change
+	4b: 18
+expect: 3
+Key on, channel 3: octave 4, freq 0x398
+	a3: 98
+	b3: 33
+Initialising channel 4: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	4c: 3f
+	2c: 30
+	6c: f1
+	8c: f4
+	ec: 01
+	49: 54
+	29: 30
+	69: f0
+	89: f3
+	e9: 01
+	c4: 3a
+Scale level change on channel 4, op 1: 18.0dB, no change
+	4c: 18
+expect: 4
+Key on, channel 4: octave 4, freq 0x3cf
+	a4: cf
+	b4: 33
+Initialising channel 5: 30,f0,f3,01,40,14,3a,30,f1,f4,01,00,3f
+	4d: 3f
+	2d: 30
+	6d: f1
+	8d: f4
+	ed: 01
+	4a: 54
+	2a: 30
+	6a: f0
+	8a: f3
+	ea: 01
+	c5: 3a
+Scale level change on channel 5, op 1: 18.0dB, no change
+	4d: 18
+expect: 5
+Key on, channel 5: octave 5, freq 0x204
+	a5: 04
+	b5: 36
+Key off, channel 2
+	b2: 13
+Key off, channel 3
+	b3: 13
+Key off, channel 4
+	b4: 13
+Key off, channel 5
+	b5: 16
+Initial initialisation of registers...
+	40: 3f
+	41: 3f
+	42: 3f
+	43: 3f
+Initial initialisation of registers...
+	44: 3f
+	45: 3f
+	46: 3f
+	47: 3f
+Initial initialisation of registers...
+	48: 3f
+	49: 3f
+	4a: 3f
+	4b: 3f
+Initial initialisation of registers...
+	4c: 3f
+	4d: 3f
+	4e: 3f
+	4f: 3f
+Initial initialisation of registers...
+	50: 3f
+	51: 3f
+	52: 3f
+	53: 3f
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+Initial initialisation of registers...
+	60: 00
+	61: 00
+	62: 00
+	63: 00
+Initial initialisation of registers...
+	64: 00
+	65: 00
+	66: 00
+	67: 00
+Initial initialisation of registers...
+	68: 00
+	69: 00
+	6a: 00
+	6b: 00
+Initial initialisation of registers...
+	6c: 00
+	6d: 00
+	6e: 00
+	6f: 00
+Initial initialisation of registers...
+	70: 00
+	71: 00
+	72: 00
+	73: 00
+Initial initialisation of registers...
+	74: 00
+	75: 00
+	76: 00
+	77: 00
+Initial initialisation of registers...
+	78: 00
+	79: 00
+	7a: 00
+	7b: 00
+Initial initialisation of registers...
+	7c: 00
+	7d: 00
+	7e: 00
+	7f: 00
+Initial initialisation of registers...
+	80: 00
+	81: 00
+	82: 00
+	83: 00
+Initial initialisation of registers...
+	84: 00
+	85: 00
+	86: 00
+	87: 00
+Initial initialisation of registers...
+	88: 00
+	89: 00
+	8a: 00
+	8b: 00
+Initial initialisation of registers...
+	8c: 00
+	8d: 00
+	8e: 00
+	8f: 00
+Initial initialisation of registers...
+	90: 00
+	91: 00
+	92: 00
+	93: 00
+Initial initialisation of registers...
+	94: 00
+	95: 00
+	96: 00
+	97: 00
+Initial initialisation of registers...
+	98: 00
+	99: 00
+	9a: 00
+	9b: 00
+Initial initialisation of registers...
+	9c: 00
+	9d: 00
+	9e: 00
+	9f: 00
+Initial initialisation of registers...
+	a0: 00
+	a1: 00
+	a2: 00
+	a3: 00
+Initial initialisation of registers...
+	a4: 00
+	a5: 00
+	a6: 00
+	a7: 00
+Initial initialisation of registers...
+	a8: 00
+	a9: 00
+	aa: 00
+	ab: 00
+Initial initialisation of registers...
+	ac: 00
+	ad: 00
+	ae: 00
+	af: 00
+Initial initialisation of registers...
+	b0: 00
+	b1: 00
+	b2: 00
+	b3: 00
+Initial initialisation of registers...
+	b4: 00
+	b5: 00
+	b6: 00
+	b7: 00
+Initial initialisation of registers...
+	b8: 00
+	b9: 00
+	ba: 00
+	bb: 00
+Initial initialisation of registers...
+	bc: 00
+	bd: 00
+	be: 00
+	bf: 00
+Initial initialisation of registers...
+	c0: 00
+	c1: 00
+	c2: 00
+	c3: 00
+Initial initialisation of registers...
+	c4: 00
+	c5: 00
+	c6: 00
+	c7: 00
+Initial initialisation of registers...
+	c8: 00
+	c9: 00
+	ca: 00
+	cb: 00
+Initial initialisation of registers...
+	cc: 00
+	cd: 00
+	ce: 00
+	cf: 00
+Initial initialisation of registers...
+	d0: 00
+	d1: 00
+	d2: 00
+	d3: 00
+Initial initialisation of registers...
+	d4: 00
+	d5: 00
+	d6: 00
+	d7: 00
+Initial initialisation of registers...
+	d8: 00
+	d9: 00
+	da: 00
+	db: 00
+Initial initialisation of registers...
+	dc: 00
+	dd: 00
+	de: 00
+	df: 00
+Initial initialisation of registers...
+	e0: 00
+	e1: 00
+	e2: 00
+	e3: 00
+Initial initialisation of registers...
+	e4: 00
+	e5: 00
+	e6: 00
+	e7: 00
+Initial initialisation of registers...
+	e8: 00
+	e9: 00
+	ea: 00
+	eb: 00
+Initial initialisation of registers...
+	ec: 00
+	ed: 00
+	ee: 00
+	ef: 00
+Initial initialisation of registers...
+	f0: 00
+	f1: 00
+	f2: 00
+	f3: 00
+Basic register write: f4: 00
+	f4: 00
+Basic register write: f5: 00
+	f5: 00
+Basic register write: 01: 00
+	01: 00
+Basic register write: 02: 00
+	02: 00
+Basic register write: 03: 00
+	03: 00
+Initial initialisation of registers...
+	04: 00
+	05: 00
+	06: 00
+	07: 00
+Initial initialisation of registers...
+	08: 00
+	09: 00
+	0a: 00
+	0b: 00
+Initial initialisation of registers...
+	0c: 00
+	0d: 00
+	0e: 00
+	0f: 00
+Initial initialisation of registers...
+	10: 00
+	11: 00
+	12: 00
+	13: 00
+Initial initialisation of registers...
+	14: 00
+	15: 00
+	16: 00
+	17: 00
+Initial initialisation of registers...
+	18: 00
+	19: 00
+	1a: 00
+	1b: 00
+Initial initialisation of registers...
+	1c: 00
+	1d: 00
+	1e: 00
+	1f: 00
+Initial initialisation of registers...
+	20: 00
+	21: 00
+	22: 00
+	23: 00
+Initial initialisation of registers...
+	24: 00
+	25: 00
+	26: 00
+	27: 00
+Initial initialisation of registers...
+	28: 00
+	29: 00
+	2a: 00
+	2b: 00
+Initial initialisation of registers...
+	2c: 00
+	2d: 00
+	2e: 00
+	2f: 00
+Initial initialisation of registers...
+	30: 00
+	31: 00
+	32: 00
+	33: 00
+Initial initialisation of registers...
+	34: 00
+	35: 00
+	36: 00
+	37: 00
+Initial initialisation of registers...
+	38: 00
+	39: 00
+	3a: 00
+	3b: 00
+Initial initialisation of registers...
+	3c: 00
+	3d: 00
+	3e: 00
+	3f: 00
+Basic register write: 04: 60
+	04: 60
+Basic register write: 04: 80
+	04: 80
+Basic register write: 01: 20
+	01: 20

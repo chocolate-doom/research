@@ -1,0 +1,96 @@
+#!/usr/bin/env ruby
+#
+# Script to investigate priorities of different MIDI instruments,
+# so that the factor used to determine priority can be identified.
+#
+# We go through each pair of MIDI instruments, ie. (0, 1), (1, 2), ...
+# etc. We then set channel 1 and 2 to use each of the instruments.
+# Then we play enough notes (9) to fill every OPL voice, so that the
+# allocated voices linked list looks like this:
+#
+# (start)-> 1-2-1-1-1-1-1-1-1
+#
+# Once all voices are filled, try to play a note on channel 2.  If
+# channel 2 is a higher priority than channel 1, the first voice
+# in the list (using channel 1) will be discarded for the new voice,
+# but if channel 1 is a higher priority, the existing channel 2
+# voice will be discarded to keep the channel 1 voice.
+#
+# From this we can work out how the priority of different instruments
+# compares, and compare this to the instrument data to see if something
+# fits.
+
+def note_on(delay, channel, note, volume)
+    # note on
+    putc delay
+    putc 0x90 + channel
+    putc note
+    putc volume
+end
+
+def note_off(delay, channel, note)
+    # note on
+    putc delay
+    putc 0x80 + channel
+    putc note
+    putc 0x00
+end
+
+def program_change(delay, channel, instrument)
+    putc delay
+    putc 0xc0 + channel
+    putc instrument
+end
+
+def end_of_track
+    putc 0x00
+    putc 0xff
+    putc 0x2f
+    putc 0x00
+end
+
+# Turn off the note in e1m1-cropped.mid
+
+note_off(0, 2, 40)
+
+# Go through each pair in turn.
+
+for i in 0..32
+
+    # Set the instruments for the two channels.
+
+    program_change(0x1, 1, i)
+    program_change(0x1, 2, i + 1)
+
+    # Play some notes.
+
+    note_on(0xf, 1, 0x40, 0x40)
+    note_on(0xf, 1, 0x41, 0x40)
+    note_on(0xf, 1, 0x42, 0x40)
+    note_on(0xf, 1, 0x43, 0x40)
+    note_on(0xf, 1, 0x44, 0x40)
+    note_on(0xf, 1, 0x45, 0x40)
+    note_on(0xf, 1, 0x46, 0x40)
+    note_on(0xf, 2, 0x47, 0x40)
+    note_on(0xf, 1, 0x48, 0x40)
+
+    # The overflow note:
+
+    note_on(0xf, 2, 0x49, 0x40)
+
+    # Turn off all the notes:
+
+    note_off(0xf, 1, 0x40)
+    note_off(0xf, 1, 0x41)
+    note_off(0xf, 1, 0x42)
+    note_off(0xf, 1, 0x43)
+    note_off(0xf, 1, 0x44)
+    note_off(0xf, 1, 0x45)
+    note_off(0xf, 1, 0x46)
+    note_off(0xf, 2, 0x47)
+    note_off(0xf, 1, 0x48)
+    note_off(0xf, 2, 0x49)
+end
+
+end_of_track
+

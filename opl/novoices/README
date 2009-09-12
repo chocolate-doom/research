@@ -21,5 +21,10 @@ Findings so far:
  * If no voices from lower priority channels are available, and none from
    the same channel, the first voice in the list is discarded, ignoring
    priority.
- * The "total level" field for the instrument does NOT determine priority.
+ * Priority seems to be determined by MIDI instrument number - lower
+   instruments have a higher priority than higher instruments, so instrument
+   0 defeats 1, 1 defeats 2, etc.
+ * If a double voice instrument is played, and there are no free voices,
+   a voice will be sacrificed to play the first voice of the instrument,
+   but the second voice will not be played.
 

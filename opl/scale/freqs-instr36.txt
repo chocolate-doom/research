@@ -1,0 +1,156 @@
+Some instruments (like instrument #36) are played at one octave below "normal":
+
+0-9
+Key on, channel 1: octave 0, freq 0x158
+Key on, channel 2: octave 0, freq 0x16d
+Key on, channel 3: octave 0, freq 0x183
+Key on, channel 4: octave 0, freq 0x19a
+Key on, channel 5: octave 0, freq 0x1b2
+Key on, channel 6: octave 0, freq 0x1cc
+Key on, channel 7: octave 0, freq 0x1e7 ___
+Key on, channel 8: octave 0, freq 0x204
+Key on, channel 1: octave 0, freq 0x223
+Key on, channel 2: octave 0, freq 0x244
+
+10-19
+Key on, channel 3: octave 0, freq 0x266
+Key on, channel 4: octave 0, freq 0x28b
+Key on, channel 5: octave 0, freq 0x158
+Key on, channel 6: octave 0, freq 0x16d
+Key on, channel 7: octave 0, freq 0x183
+Key on, channel 8: octave 0, freq 0x19a
+Key on, channel 1: octave 0, freq 0x1b2
+Key on, channel 2: octave 0, freq 0x1cc
+Key on, channel 3: octave 0, freq 0x1e7 ___
+Key on, channel 4: octave 0, freq 0x204
+
+20-29
+Key on, channel 5: octave 0, freq 0x223
+Key on, channel 6: octave 0, freq 0x244
+Key on, channel 7: octave 0, freq 0x266
+Key on, channel 8: octave 0, freq 0x28b
+Key on, channel 1: octave 0, freq 0x2b1
+Key on, channel 2: octave 0, freq 0x2da
+Key on, channel 3: octave 0, freq 0x306
+Key on, channel 4: octave 0, freq 0x334
+Key on, channel 5: octave 0, freq 0x365
+Key on, channel 6: octave 0, freq 0x398
+
+30-39
+Key on, channel 7: octave 0, freq 0x3cf ___
+Key on, channel 8: octave 1, freq 0x204
+Key on, channel 1: octave 1, freq 0x223
+Key on, channel 2: octave 1, freq 0x244
+Key on, channel 3: octave 1, freq 0x266
+Key on, channel 4: octave 1, freq 0x28b
+Key on, channel 5: octave 1, freq 0x2b1
+Key on, channel 6: octave 1, freq 0x2da
+Key on, channel 7: octave 1, freq 0x306
+Key on, channel 8: octave 1, freq 0x334
+
+40-49
+Key on, channel 1: octave 1, freq 0x365
+Key on, channel 2: octave 1, freq 0x398
+Key on, channel 3: octave 1, freq 0x3cf ___
+Key on, channel 4: octave 2, freq 0x204
+Key on, channel 5: octave 2, freq 0x223
+Key on, channel 6: octave 2, freq 0x244
+Key on, channel 7: octave 2, freq 0x266
+Key on, channel 8: octave 2, freq 0x28b
+Key on, channel 1: octave 2, freq 0x2b1
+Key on, channel 2: octave 2, freq 0x2da
+
+50-59
+Key on, channel 3: octave 2, freq 0x306
+Key on, channel 4: octave 2, freq 0x334
+Key on, channel 5: octave 2, freq 0x365
+Key on, channel 6: octave 2, freq 0x398
+Key on, channel 7: octave 2, freq 0x3cf ___
+Key on, channel 8: octave 3, freq 0x204
+Key on, channel 1: octave 3, freq 0x223
+Key on, channel 2: octave 3, freq 0x244
+Key on, channel 3: octave 3, freq 0x266
+Key on, channel 4: octave 3, freq 0x28b
+
+60-69
+Key on, channel 5: octave 3, freq 0x2b1
+Key on, channel 6: octave 3, freq 0x2da
+Key on, channel 7: octave 3, freq 0x306
+Key on, channel 8: octave 3, freq 0x334
+Key on, channel 1: octave 3, freq 0x365
+Key on, channel 2: octave 3, freq 0x398
+Key on, channel 3: octave 3, freq 0x3cf ___
+Key on, channel 4: octave 4, freq 0x204
+Key on, channel 5: octave 4, freq 0x223
+Key on, channel 6: octave 4, freq 0x244
+
+70-79
+Key on, channel 7: octave 4, freq 0x266
+Key on, channel 8: octave 4, freq 0x28b
+Key on, channel 1: octave 4, freq 0x2b1
+Key on, channel 2: octave 4, freq 0x2da
+Key on, channel 3: octave 4, freq 0x306
+Key on, channel 4: octave 4, freq 0x334
+Key on, channel 5: octave 4, freq 0x365
+Key on, channel 6: octave 4, freq 0x398
+Key on, channel 7: octave 4, freq 0x3cf ___
+Key on, channel 8: octave 5, freq 0x204
+
+80-89
+Key on, channel 1: octave 5, freq 0x223
+Key on, channel 2: octave 5, freq 0x244
+Key on, channel 3: octave 5, freq 0x266
+Key on, channel 4: octave 5, freq 0x28b
+Key on, channel 5: octave 5, freq 0x2b1
+Key on, channel 6: octave 5, freq 0x2da
+Key on, channel 7: octave 5, freq 0x306
+Key on, channel 8: octave 5, freq 0x334
+Key on, channel 1: octave 5, freq 0x365
+Key on, channel 2: octave 5, freq 0x398
+
+90-99
+Key on, channel 3: octave 5, freq 0x3cf ___
+Key on, channel 4: octave 6, freq 0x204
+Key on, channel 5: octave 6, freq 0x223
+Key on, channel 6: octave 6, freq 0x244
+Key on, channel 7: octave 6, freq 0x266
+Key on, channel 8: octave 6, freq 0x28b
+Key on, channel 1: octave 6, freq 0x2b1
+Key on, channel 2: octave 6, freq 0x2da
+Key on, channel 3: octave 6, freq 0x306
+Key on, channel 4: octave 6, freq 0x334
+
+100-109
+Key on, channel 5: octave 6, freq 0x365
+Key on, channel 6: octave 6, freq 0x398
+Key on, channel 7: octave 6, freq 0x3cf ___
+Key on, channel 8: octave 7, freq 0x204
+Key on, channel 1: octave 7, freq 0x223
+Key on, channel 2: octave 7, freq 0x244
+Key on, channel 3: octave 7, freq 0x266
+Key on, channel 4: octave 7, freq 0x28b
+Key on, channel 5: octave 6, freq 0x2b1
+Key on, channel 6: octave 6, freq 0x2da
+
+110-119
+Key on, channel 7: octave 6, freq 0x306
+Key on, channel 8: octave 6, freq 0x334
+Key on, channel 1: octave 6, freq 0x365
+Key on, channel 2: octave 6, freq 0x398
+Key on, channel 3: octave 6, freq 0x3cf ___
+Key on, channel 4: octave 7, freq 0x204
+Key on, channel 5: octave 7, freq 0x223
+Key on, channel 6: octave 7, freq 0x244
+Key on, channel 7: octave 7, freq 0x266
+Key on, channel 8: octave 7, freq 0x28b
+
+120-127
+Key on, channel 1: octave 6, freq 0x2b1
+Key on, channel 2: octave 6, freq 0x2da
+Key on, channel 3: octave 6, freq 0x306
+Key on, channel 4: octave 6, freq 0x334
+Key on, channel 5: octave 6, freq 0x365
+Key on, channel 6: octave 6, freq 0x398
+Key on, channel 7: octave 6, freq 0x3cf ___
+Key on, channel 8: octave 7, freq 0x204
+

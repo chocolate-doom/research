@@ -65,7 +65,7 @@ end
 def read_instruments(filename)
     instruments = []
 
-    File.open("genmidi1.lmp") do |file|
+    File.open(filename) do |file|
         header = file.read(8)
 
         if header != "#OPL_II#"

@@ -1,0 +1,86 @@
+carrier:
+	4x:
+		no (#0 = #36)
+	2x:
+		top bits:
+			no (#0 = #36)
+		frequency multiple:
+			normal for = 0
+			offset for = 1 (#4), 2
+			normal for = 1 (#15)
+	6x:
+		no (#0 = #36)
+	8x:
+		?
+	ex:
+		waveform:
+			normal for = 1 (#0)
+			offset for = 0 (#4)
+			normal for = 0 (#10)
+			no (#4 = #10)
+modulator:
+	4x:
+		scaling level:
+			no (#0 = #36)
+		total level:
+			?
+	2x:
+		no (#0 = #36)
+	6x:
+		no (#0 = #36)
+	8x:
+		?
+	ex:
+		waveform:
+			normal for = 1 (#0), = 0 (#1)
+			offset for = 0 (#4)
+			no (#1 = #4)
+feedback (cx):
+	feedback:
+		normal for = 5 (#0), 4 (#2)
+		offset for = 3 (#4)
+		normal for = 3 (#6)
+		no (#4 = #6)
+	algorithm:
+		no (#0 = #36)
+
+
+----
+
+Normal genmidi:
+        2x,6x,8x,ex,4x,--,cx,2x,6x,8x,ex,4x,--
+	30,f0,f3,01,40,14,0a,30,f1,f4,01,00,00  # instr #0 (normal)
+	10,60,00,01,00,1a,08,10,81,f6,00,00,00  # instr #36 (down octave)
+	10,a1,97,02,40,03,00,11,e1,e7,00,00,00  # instr #32 (normal)
+
+genmidi2-2nd-op.lmp
+	30,f0,f3,01,40,14,0a,10,81,f6,00,00,00
+	Normal Doom II genmidi, with first instrument modified to have second
+	operator data matching that of instrument #36.
+
+	No change compared to regular instrument, so second operator has
+	no effect.
+
+genmidi2-normal.lmp
+	30,60,00,01,00,1a,0a,30,f1,f4,01,00,00
+
+	Rate control registers (60,80,40) in first operator modified to
+	match #36. These are not expected to have an effect.
+
+	No effect compared to regular instrument, so hypothesis proven.
+
+genmidi2-sanity.lmp
+	10,60,00,01,00,1a,08,10,81,f6,00,00,00
+
+	Complete instrument #36 data substituted into instrument #0, sanity
+	check that the decision to offset down by one octave comes from the
+	data itself, not from some built-in table.
+
+	No change, so there must be an internal table!
+
+	From closer examination of the patches table, this seems to be
+	inevitable:
+
+	Instrument #50 has two identical voices, both of which are offset
+	down, while instrument #39 has two identical voices, but only the
+	second is offset down.

@@ -1,0 +1,1588 @@
+Adlib detection sequence
+	04: 60
+	04: 80
+	02: ff
+	04: 21
+	04: 60
+	04: 80
+Adlib detection sequence
+	04: 60
+	04: 80
+	02: ff
+	04: 21
+	04: 60
+	04: 80
+Initial initialisation of registers...
+	40: 3f
+	41: 3f
+	42: 3f
+	43: 3f
+Initial initialisation of registers...
+	44: 3f
+	45: 3f
+	46: 3f
+	47: 3f
+Initial initialisation of registers...
+	48: 3f
+	49: 3f
+	4a: 3f
+	4b: 3f
+Initial initialisation of registers...
+	4c: 3f
+	4d: 3f
+	4e: 3f
+	4f: 3f
+Initial initialisation of registers...
+	50: 3f
+	51: 3f
+	52: 3f
+	53: 3f
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+Initial initialisation of registers...
+	60: 00
+	61: 00
+	62: 00
+	63: 00
+Initial initialisation of registers...
+	64: 00
+	65: 00
+	66: 00
+	67: 00
+Initial initialisation of registers...
+	68: 00
+	69: 00
+	6a: 00
+	6b: 00
+Initial initialisation of registers...
+	6c: 00
+	6d: 00
+	6e: 00
+	6f: 00
+Initial initialisation of registers...
+	70: 00
+	71: 00
+	72: 00
+	73: 00
+Initial initialisation of registers...
+	74: 00
+	75: 00
+	76: 00
+	77: 00
+Initial initialisation of registers...
+	78: 00
+	79: 00
+	7a: 00
+	7b: 00
+Initial initialisation of registers...
+	7c: 00
+	7d: 00
+	7e: 00
+	7f: 00
+Initial initialisation of registers...
+	80: 00
+	81: 00
+	82: 00
+	83: 00
+Initial initialisation of registers...
+	84: 00
+	85: 00
+	86: 00
+	87: 00
+Initial initialisation of registers...
+	88: 00
+	89: 00
+	8a: 00
+	8b: 00
+Initial initialisation of registers...
+	8c: 00
+	8d: 00
+	8e: 00
+	8f: 00
+Initial initialisation of registers...
+	90: 00
+	91: 00
+	92: 00
+	93: 00
+Initial initialisation of registers...
+	94: 00
+	95: 00
+	96: 00
+	97: 00
+Initial initialisation of registers...
+	98: 00
+	99: 00
+	9a: 00
+	9b: 00
+Initial initialisation of registers...
+	9c: 00
+	9d: 00
+	9e: 00
+	9f: 00
+Initial initialisation of registers...
+	a0: 00
+	a1: 00
+	a2: 00
+	a3: 00
+Initial initialisation of registers...
+	a4: 00
+	a5: 00
+	a6: 00
+	a7: 00
+Initial initialisation of registers...
+	a8: 00
+	a9: 00
+	aa: 00
+	ab: 00
+Initial initialisation of registers...
+	ac: 00
+	ad: 00
+	ae: 00
+	af: 00
+Initial initialisation of registers...
+	b0: 00
+	b1: 00
+	b2: 00
+	b3: 00
+Initial initialisation of registers...
+	b4: 00
+	b5: 00
+	b6: 00
+	b7: 00
+Initial initialisation of registers...
+	b8: 00
+	b9: 00
+	ba: 00
+	bb: 00
+Initial initialisation of registers...
+	bc: 00
+	bd: 00
+	be: 00
+	bf: 00
+Initial initialisation of registers...
+	c0: 00
+	c1: 00
+	c2: 00
+	c3: 00
+Initial initialisation of registers...
+	c4: 00
+	c5: 00
+	c6: 00
+	c7: 00
+Initial initialisation of registers...
+	c8: 00
+	c9: 00
+	ca: 00
+	cb: 00
+Initial initialisation of registers...
+	cc: 00
+	cd: 00
+	ce: 00
+	cf: 00
+Initial initialisation of registers...
+	d0: 00
+	d1: 00
+	d2: 00
+	d3: 00
+Initial initialisation of registers...
+	d4: 00
+	d5: 00
+	d6: 00
+	d7: 00
+Initial initialisation of registers...
+	d8: 00
+	d9: 00
+	da: 00
+	db: 00
+Initial initialisation of registers...
+	dc: 00
+	dd: 00
+	de: 00
+	df: 00
+Initial initialisation of registers...
+	e0: 00
+	e1: 00
+	e2: 00
+	e3: 00
+Initial initialisation of registers...
+	e4: 00
+	e5: 00
+	e6: 00
+	e7: 00
+Initial initialisation of registers...
+	e8: 00
+	e9: 00
+	ea: 00
+	eb: 00
+Initial initialisation of registers...
+	ec: 00
+	ed: 00
+	ee: 00
+	ef: 00
+Initial initialisation of registers...
+	f0: 00
+	f1: 00
+	f2: 00
+	f3: 00
+Basic register write: f4: 00
+	f4: 00
+Basic register write: f5: 00
+	f5: 00
+Basic register write: 01: 00
+	01: 00
+Basic register write: 02: 00
+	02: 00
+Basic register write: 03: 00
+	03: 00
+Initial initialisation of registers...
+	04: 00
+	05: 00
+	06: 00
+	07: 00
+Initial initialisation of registers...
+	08: 00
+	09: 00
+	0a: 00
+	0b: 00
+Initial initialisation of registers...
+	0c: 00
+	0d: 00
+	0e: 00
+	0f: 00
+Initial initialisation of registers...
+	10: 00
+	11: 00
+	12: 00
+	13: 00
+Initial initialisation of registers...
+	14: 00
+	15: 00
+	16: 00
+	17: 00
+Initial initialisation of registers...
+	18: 00
+	19: 00
+	1a: 00
+	1b: 00
+Initial initialisation of registers...
+	1c: 00
+	1d: 00
+	1e: 00
+	1f: 00
+Initial initialisation of registers...
+	20: 00
+	21: 00
+	22: 00
+	23: 00
+Initial initialisation of registers...
+	24: 00
+	25: 00
+	26: 00
+	27: 00
+Initial initialisation of registers...
+	28: 00
+	29: 00
+	2a: 00
+	2b: 00
+Initial initialisation of registers...
+	2c: 00
+	2d: 00
+	2e: 00
+	2f: 00
+Initial initialisation of registers...
+	30: 00
+	31: 00
+	32: 00
+	33: 00
+Initial initialisation of registers...
+	34: 00
+	35: 00
+	36: 00
+	37: 00
+Initial initialisation of registers...
+	38: 00
+	39: 00
+	3a: 00
+	3b: 00
+Initial initialisation of registers...
+	3c: 00
+	3d: 00
+	3e: 00
+	3f: 00
+Basic register write: 04: 60
+	04: 60
+Basic register write: 04: 80
+	04: 80
+Basic register write: 01: 20
+	01: 20
+Basic register write: 08: 40
+	08: 40
+Initialising channel 0: 20,e0,14,00,80,0f,38,30,e1,d6,00,80,3f
+	43: bf
+	23: 30
+	63: e1
+	83: d6
+	e3: 00
+	40: 8f
+	20: 20
+	60: e0
+	80: 14
+	e0: 00
+	c0: 38
+Scale level change on channel 0, op 1: 6.0dB, 1.5dB/8ve
+	43: 88
+expect: 0
+Key on, channel 0: octave 2, freq 0x365
+	a0: 65
+	b0: 2b
+Initialising channel 1: 30,f0,f3,01,40,14,3a,10,81,f6,00,00,3f
+	44: 3f
+	24: 10
+	64: 81
+	84: f6
+	e4: 00
+	41: 54
+	21: 30
+	61: f0
+	81: f3
+	e1: 01
+	c1: 3a
+Scale level change on channel 1, op 1: 5.25dB, no change
+	44: 07
+expect: 1
+Key on, channel 1: octave 0, freq 0x158
+	a1: 58
+	b1: 21
+Key off, channel 1
+	b1: 01
+Initialising channel 2: 30,f0,f3,01,40,14,3a,10,81,f6,00,00,3f
+	45: 3f
+	25: 10
+	65: 81
+	85: f6
+	e5: 00
+	42: 54
+	22: 30
+	62: f0
+	82: f3
+	e2: 01
+	c2: 3a
+Scale level change on channel 2, op 1: 5.25dB, no change
+	45: 07
+expect: 2
+Key on, channel 2: octave 0, freq 0x16d
+	a2: 6d
+	b2: 21
+Key off, channel 2
+	b2: 01
+Initialising channel 3: 30,f0,f3,01,40,14,3a,10,81,f6,00,00,3f
+	4b: 3f
+	2b: 10
+	6b: 81
+	8b: f6
+	eb: 00
+	48: 54
+	28: 30
+	68: f0
+	88: f3
+	e8: 01
+	c3: 3a
+Scale level change on channel 3, op 1: 5.25dB, no change
+	4b: 07
+expect: 3
+Key on, channel 3: octave 0, freq 0x183
+	a3: 83
+	b3: 21
+Key off, channel 3
+	b3: 01
+Initialising channel 4: 30,f0,f3,01,40,14,3a,10,81,f6,00,00,3f
+	4c: 3f
+	2c: 10
+	6c: 81
+	8c: f6
+	ec: 00
+	49: 54
+	29: 30
+	69: f0
+	89: f3
+	e9: 01
+	c4: 3a
+Scale level change on channel 4, op 1: 5.25dB, no change
+	4c: 07
+expect: 4
+Key on, channel 4: octave 0, freq 0x19a
+	a4: 9a
+	b4: 21
+Key off, channel 4
+	b4: 01
+Initialising channel 5: 30,f0,f3,01,40,14,3a,10,81,f6,00,00,3f
+	4d: 3f
+	2d: 10
+	6d: 81
+	8d: f6
+	ed: 00
+	4a: 54
+	2a: 30
+	6a: f0
+	8a: f3
+	ea: 01
+	c5: 3a
+Scale level change on channel 5, op 1: 5.25dB, no change
+	4d: 07
+expect: 5
+Key on, channel 5: octave 0, freq 0x1b2
+	a5: b2
+	b5: 21
+Key off, channel 5
+	b5: 01
+Initialising channel 6: 30,f0,f3,01,40,14,3a,10,81,f6,00,00,3f
+	53: 3f
+	33: 10
+	73: 81
+	93: f6
+	f3: 00
+	50: 54
+	30: 30
+	70: f0
+	90: f3
+	f0: 01
+	c6: 3a
+Scale level change on channel 6, op 1: 5.25dB, no change
+	53: 07
+expect: 6
+Key on, channel 6: octave 0, freq 0x1cc
+	a6: cc
+	b6: 21
+Key off, channel 6
+	b6: 01
+Initialising channel 7: 30,f0,f3,01,40,14,3a,10,81,f6,00,00,3f
+	54: 3f
+	34: 10
+	74: 81
+	94: f6
+	f4: 00
+	51: 54
+	31: 30
+	71: f0
+	91: f3
+	f1: 01
+	c7: 3a
+Scale level change on channel 7, op 1: 5.25dB, no change
+	54: 07
+expect: 7
+Key on, channel 7: octave 0, freq 0x1e7
+	a7: e7
+	b7: 21
+Key off, channel 7
+	b7: 01
+Initialising channel 8: 30,f0,f3,01,40,14,3a,10,81,f6,00,00,3f
+	55: 3f
+	35: 10
+	75: 81
+	95: f6
+	f5: 00
+	52: 54
+	32: 30
+	72: f0
+	92: f3
+	f2: 01
+	c8: 3a
+Scale level change on channel 8, op 1: 5.25dB, no change
+	55: 07
+expect: 8
+Key on, channel 8: octave 0, freq 0x204
+	a8: 04
+	b8: 22
+Key off, channel 8
+	b8: 02
+expect: 1
+Key on, channel 1: octave 0, freq 0x223
+	a1: 23
+	b1: 22
+Key off, channel 1
+	b1: 02
+expect: 2
+Key on, channel 2: octave 0, freq 0x244
+	a2: 44
+	b2: 22
+Key off, channel 2
+	b2: 02
+expect: 3
+Key on, channel 3: octave 0, freq 0x266
+	a3: 66
+	b3: 22
+Key off, channel 3
+	b3: 02
+expect: 4
+Key on, channel 4: octave 0, freq 0x28b
+	a4: 8b
+	b4: 22
+Key off, channel 4
+	b4: 02
+expect: 5
+Key on, channel 5: octave 0, freq 0x2b1
+	a5: b1
+	b5: 22
+Key off, channel 5
+	b5: 02
+expect: 6
+Key on, channel 6: octave 0, freq 0x2da
+	a6: da
+	b6: 22
+Key off, channel 6
+	b6: 02
+expect: 7
+Key on, channel 7: octave 0, freq 0x306
+	a7: 06
+	b7: 23
+Key off, channel 7
+	b7: 03
+expect: 8
+Key on, channel 8: octave 0, freq 0x334
+	a8: 34
+	b8: 23
+Key off, channel 8
+	b8: 03
+expect: 1
+Key on, channel 1: octave 0, freq 0x365
+	a1: 65
+	b1: 23
+Key off, channel 1
+	b1: 03
+expect: 2
+Key on, channel 2: octave 0, freq 0x398
+	a2: 98
+	b2: 23
+Key off, channel 2
+	b2: 03
+expect: 3
+Key on, channel 3: octave 0, freq 0x3cf
+	a3: cf
+	b3: 23
+Key off, channel 3
+	b3: 03
+expect: 4
+Key on, channel 4: octave 1, freq 0x204
+	a4: 04
+	b4: 26
+Key off, channel 4
+	b4: 06
+expect: 5
+Key on, channel 5: octave 1, freq 0x223
+	a5: 23
+	b5: 26
+Key off, channel 5
+	b5: 06
+expect: 6
+Key on, channel 6: octave 1, freq 0x244
+	a6: 44
+	b6: 26
+Key off, channel 6
+	b6: 06
+expect: 7
+Key on, channel 7: octave 1, freq 0x266
+	a7: 66
+	b7: 26
+Key off, channel 7
+	b7: 06
+expect: 8
+Key on, channel 8: octave 1, freq 0x28b
+	a8: 8b
+	b8: 26
+Key off, channel 8
+	b8: 06
+expect: 1
+Key on, channel 1: octave 1, freq 0x2b1
+	a1: b1
+	b1: 26
+Key off, channel 1
+	b1: 06
+expect: 2
+Key on, channel 2: octave 1, freq 0x2da
+	a2: da
+	b2: 26
+Key off, channel 2
+	b2: 06
+expect: 3
+Key on, channel 3: octave 1, freq 0x306
+	a3: 06
+	b3: 27
+Key off, channel 3
+	b3: 07
+expect: 4
+Key on, channel 4: octave 1, freq 0x334
+	a4: 34
+	b4: 27
+Key off, channel 4
+	b4: 07
+expect: 5
+Key on, channel 5: octave 1, freq 0x365
+	a5: 65
+	b5: 27
+Key off, channel 5
+	b5: 07
+expect: 6
+Key on, channel 6: octave 1, freq 0x398
+	a6: 98
+	b6: 27
+Key off, channel 6
+	b6: 07
+expect: 7
+Key on, channel 7: octave 1, freq 0x3cf
+	a7: cf
+	b7: 27
+Key off, channel 7
+	b7: 07
+expect: 8
+Key on, channel 8: octave 2, freq 0x204
+	a8: 04
+	b8: 2a
+Key off, channel 8
+	b8: 0a
+expect: 1
+Key on, channel 1: octave 2, freq 0x223
+	a1: 23
+	b1: 2a
+Key off, channel 1
+	b1: 0a
+expect: 2
+Key on, channel 2: octave 2, freq 0x244
+	a2: 44
+	b2: 2a
+Key off, channel 2
+	b2: 0a
+expect: 3
+Key on, channel 3: octave 2, freq 0x266
+	a3: 66
+	b3: 2a
+Key off, channel 3
+	b3: 0a
+expect: 4
+Key on, channel 4: octave 2, freq 0x28b
+	a4: 8b
+	b4: 2a
+Key off, channel 4
+	b4: 0a
+expect: 5
+Key on, channel 5: octave 2, freq 0x2b1
+	a5: b1
+	b5: 2a
+Key off, channel 5
+	b5: 0a
+expect: 6
+Key on, channel 6: octave 2, freq 0x2da
+	a6: da
+	b6: 2a
+Key off, channel 6
+	b6: 0a
+expect: 7
+Key on, channel 7: octave 2, freq 0x306
+	a7: 06
+	b7: 2b
+Key off, channel 7
+	b7: 0b
+expect: 8
+Key on, channel 8: octave 2, freq 0x334
+	a8: 34
+	b8: 2b
+Key off, channel 8
+	b8: 0b
+expect: 1
+Key on, channel 1: octave 2, freq 0x365
+	a1: 65
+	b1: 2b
+Key off, channel 1
+	b1: 0b
+expect: 2
+Key on, channel 2: octave 2, freq 0x398
+	a2: 98
+	b2: 2b
+Key off, channel 2
+	b2: 0b
+expect: 3
+Key on, channel 3: octave 2, freq 0x3cf
+	a3: cf
+	b3: 2b
+Key off, channel 3
+	b3: 0b
+expect: 4
+Key on, channel 4: octave 3, freq 0x204
+	a4: 04
+	b4: 2e
+Key off, channel 4
+	b4: 0e
+expect: 5
+Key on, channel 5: octave 3, freq 0x223
+	a5: 23
+	b5: 2e
+Key off, channel 5
+	b5: 0e
+expect: 6
+Key on, channel 6: octave 3, freq 0x244
+	a6: 44
+	b6: 2e
+Key off, channel 6
+	b6: 0e
+expect: 7
+Key on, channel 7: octave 3, freq 0x266
+	a7: 66
+	b7: 2e
+Key off, channel 7
+	b7: 0e
+expect: 8
+Key on, channel 8: octave 3, freq 0x28b
+	a8: 8b
+	b8: 2e
+Key off, channel 8
+	b8: 0e
+expect: 1
+Key on, channel 1: octave 3, freq 0x2b1
+	a1: b1
+	b1: 2e
+Key off, channel 1
+	b1: 0e
+expect: 2
+Key on, channel 2: octave 3, freq 0x2da
+	a2: da
+	b2: 2e
+Key off, channel 2
+	b2: 0e
+expect: 3
+Key on, channel 3: octave 3, freq 0x306
+	a3: 06
+	b3: 2f
+Key off, channel 3
+	b3: 0f
+expect: 4
+Key on, channel 4: octave 3, freq 0x334
+	a4: 34
+	b4: 2f
+Key off, channel 4
+	b4: 0f
+expect: 5
+Key on, channel 5: octave 3, freq 0x365
+	a5: 65
+	b5: 2f
+Key off, channel 5
+	b5: 0f
+expect: 6
+Key on, channel 6: octave 3, freq 0x398
+	a6: 98
+	b6: 2f
+Key off, channel 6
+	b6: 0f
+expect: 7
+Key on, channel 7: octave 3, freq 0x3cf
+	a7: cf
+	b7: 2f
+Key off, channel 7
+	b7: 0f
+expect: 8
+Key on, channel 8: octave 4, freq 0x204
+	a8: 04
+	b8: 32
+Key off, channel 8
+	b8: 12
+expect: 1
+Key on, channel 1: octave 4, freq 0x223
+	a1: 23
+	b1: 32
+Key off, channel 1
+	b1: 12
+expect: 2
+Key on, channel 2: octave 4, freq 0x244
+	a2: 44
+	b2: 32
+Key off, channel 2
+	b2: 12
+expect: 3
+Key on, channel 3: octave 4, freq 0x266
+	a3: 66
+	b3: 32
+Key off, channel 3
+	b3: 12
+expect: 4
+Key on, channel 4: octave 4, freq 0x28b
+	a4: 8b
+	b4: 32
+Key off, channel 4
+	b4: 12
+expect: 5
+Key on, channel 5: octave 4, freq 0x2b1
+	a5: b1
+	b5: 32
+Key off, channel 5
+	b5: 12
+expect: 6
+Key on, channel 6: octave 4, freq 0x2da
+	a6: da
+	b6: 32
+Key off, channel 6
+	b6: 12
+expect: 7
+Key on, channel 7: octave 4, freq 0x306
+	a7: 06
+	b7: 33
+Key off, channel 7
+	b7: 13
+expect: 8
+Key on, channel 8: octave 4, freq 0x334
+	a8: 34
+	b8: 33
+Key off, channel 8
+	b8: 13
+expect: 1
+Key on, channel 1: octave 4, freq 0x365
+	a1: 65
+	b1: 33
+Key off, channel 1
+	b1: 13
+expect: 2
+Key on, channel 2: octave 4, freq 0x398
+	a2: 98
+	b2: 33
+Key off, channel 2
+	b2: 13
+expect: 3
+Key on, channel 3: octave 4, freq 0x3cf
+	a3: cf
+	b3: 33
+Key off, channel 3
+	b3: 13
+expect: 4
+Key on, channel 4: octave 5, freq 0x204
+	a4: 04
+	b4: 36
+Key off, channel 4
+	b4: 16
+expect: 5
+Key on, channel 5: octave 5, freq 0x223
+	a5: 23
+	b5: 36
+Key off, channel 5
+	b5: 16
+expect: 6
+Key on, channel 6: octave 5, freq 0x244
+	a6: 44
+	b6: 36
+Key off, channel 6
+	b6: 16
+expect: 7
+Key on, channel 7: octave 5, freq 0x266
+	a7: 66
+	b7: 36
+Key off, channel 7
+	b7: 16
+expect: 8
+Key on, channel 8: octave 5, freq 0x28b
+	a8: 8b
+	b8: 36
+Key off, channel 8
+	b8: 16
+expect: 1
+Key on, channel 1: octave 5, freq 0x2b1
+	a1: b1
+	b1: 36
+Key off, channel 1
+	b1: 16
+expect: 2
+Key on, channel 2: octave 5, freq 0x2da
+	a2: da
+	b2: 36
+Key off, channel 2
+	b2: 16
+expect: 3
+Key on, channel 3: octave 5, freq 0x306
+	a3: 06
+	b3: 37
+Key off, channel 3
+	b3: 17
+expect: 4
+Key on, channel 4: octave 5, freq 0x334
+	a4: 34
+	b4: 37
+Key off, channel 4
+	b4: 17
+expect: 5
+Key on, channel 5: octave 5, freq 0x365
+	a5: 65
+	b5: 37
+Key off, channel 5
+	b5: 17
+expect: 6
+Key on, channel 6: octave 5, freq 0x398
+	a6: 98
+	b6: 37
+Key off, channel 6
+	b6: 17
+expect: 7
+Key on, channel 7: octave 5, freq 0x3cf
+	a7: cf
+	b7: 37
+Key off, channel 7
+	b7: 17
+expect: 8
+Key on, channel 8: octave 6, freq 0x204
+	a8: 04
+	b8: 3a
+Key off, channel 8
+	b8: 1a
+expect: 1
+Key on, channel 1: octave 6, freq 0x223
+	a1: 23
+	b1: 3a
+Key off, channel 1
+	b1: 1a
+expect: 2
+Key on, channel 2: octave 6, freq 0x244
+	a2: 44
+	b2: 3a
+Key off, channel 2
+	b2: 1a
+expect: 3
+Key on, channel 3: octave 6, freq 0x266
+	a3: 66
+	b3: 3a
+Key off, channel 3
+	b3: 1a
+expect: 4
+Key on, channel 4: octave 6, freq 0x28b
+	a4: 8b
+	b4: 3a
+Key off, channel 4
+	b4: 1a
+expect: 5
+Key on, channel 5: octave 6, freq 0x2b1
+	a5: b1
+	b5: 3a
+Key off, channel 5
+	b5: 1a
+expect: 6
+Key on, channel 6: octave 6, freq 0x2da
+	a6: da
+	b6: 3a
+Key off, channel 6
+	b6: 1a
+expect: 7
+Key on, channel 7: octave 6, freq 0x306
+	a7: 06
+	b7: 3b
+Key off, channel 7
+	b7: 1b
+expect: 8
+Key on, channel 8: octave 6, freq 0x334
+	a8: 34
+	b8: 3b
+Key off, channel 8
+	b8: 1b
+expect: 1
+Key on, channel 1: octave 6, freq 0x365
+	a1: 65
+	b1: 3b
+Key off, channel 1
+	b1: 1b
+expect: 2
+Key on, channel 2: octave 6, freq 0x398
+	a2: 98
+	b2: 3b
+Key off, channel 2
+	b2: 1b
+expect: 3
+Key on, channel 3: octave 6, freq 0x3cf
+	a3: cf
+	b3: 3b
+Key off, channel 3
+	b3: 1b
+expect: 4
+Key on, channel 4: octave 7, freq 0x204
+	a4: 04
+	b4: 3e
+Key off, channel 4
+	b4: 1e
+expect: 5
+Key on, channel 5: octave 7, freq 0x223
+	a5: 23
+	b5: 3e
+Key off, channel 5
+	b5: 1e
+expect: 6
+Key on, channel 6: octave 7, freq 0x244
+	a6: 44
+	b6: 3e
+Key off, channel 6
+	b6: 1e
+expect: 7
+Key on, channel 7: octave 7, freq 0x266
+	a7: 66
+	b7: 3e
+Key off, channel 7
+	b7: 1e
+expect: 8
+Key on, channel 8: octave 7, freq 0x28b
+	a8: 8b
+	b8: 3e
+Key off, channel 8
+	b8: 1e
+expect: 1
+Key on, channel 1: octave 6, freq 0x2b1
+	a1: b1
+	b1: 3a
+Key off, channel 1
+	b1: 1a
+expect: 2
+Key on, channel 2: octave 6, freq 0x2da
+	a2: da
+	b2: 3a
+Key off, channel 2
+	b2: 1a
+expect: 3
+Key on, channel 3: octave 6, freq 0x306
+	a3: 06
+	b3: 3b
+Key off, channel 3
+	b3: 1b
+expect: 4
+Key on, channel 4: octave 6, freq 0x334
+	a4: 34
+	b4: 3b
+Key off, channel 4
+	b4: 1b
+expect: 5
+Key on, channel 5: octave 6, freq 0x365
+	a5: 65
+	b5: 3b
+Key off, channel 5
+	b5: 1b
+expect: 6
+Key on, channel 6: octave 6, freq 0x398
+	a6: 98
+	b6: 3b
+Key off, channel 6
+	b6: 1b
+expect: 7
+Key on, channel 7: octave 6, freq 0x3cf
+	a7: cf
+	b7: 3b
+Key off, channel 7
+	b7: 1b
+expect: 8
+Key on, channel 8: octave 7, freq 0x204
+	a8: 04
+	b8: 3e
+Key off, channel 8
+	b8: 1e
+expect: 1
+Key on, channel 1: octave 7, freq 0x223
+	a1: 23
+	b1: 3e
+Key off, channel 1
+	b1: 1e
+expect: 2
+Key on, channel 2: octave 7, freq 0x244
+	a2: 44
+	b2: 3e
+Key off, channel 2
+	b2: 1e
+expect: 3
+Key on, channel 3: octave 7, freq 0x266
+	a3: 66
+	b3: 3e
+Key off, channel 3
+	b3: 1e
+expect: 4
+Key on, channel 4: octave 7, freq 0x28b
+	a4: 8b
+	b4: 3e
+Key off, channel 4
+	b4: 1e
+expect: 5
+Key on, channel 5: octave 6, freq 0x2b1
+	a5: b1
+	b5: 3a
+Key off, channel 5
+	b5: 1a
+expect: 6
+Key on, channel 6: octave 6, freq 0x2da
+	a6: da
+	b6: 3a
+Key off, channel 6
+	b6: 1a
+expect: 7
+Key on, channel 7: octave 6, freq 0x306
+	a7: 06
+	b7: 3b
+Key off, channel 7
+	b7: 1b
+expect: 8
+Key on, channel 8: octave 6, freq 0x334
+	a8: 34
+	b8: 3b
+Key off, channel 8
+	b8: 1b
+expect: 1
+Key on, channel 1: octave 6, freq 0x365
+	a1: 65
+	b1: 3b
+Key off, channel 1
+	b1: 1b
+expect: 2
+Key on, channel 2: octave 6, freq 0x398
+	a2: 98
+	b2: 3b
+Key off, channel 2
+	b2: 1b
+expect: 3
+Key on, channel 3: octave 6, freq 0x3cf
+	a3: cf
+	b3: 3b
+Key off, channel 3
+	b3: 1b
+expect: 4
+Key on, channel 4: octave 7, freq 0x204
+	a4: 04
+	b4: 3e
+Key off, channel 4
+	b4: 1e
+expect: 5
+Key on, channel 5: octave 7, freq 0x223
+	a5: 23
+	b5: 3e
+Key off, channel 5
+	b5: 1e
+expect: 6
+Key on, channel 6: octave 7, freq 0x244
+	a6: 44
+	b6: 3e
+Key off, channel 6
+	b6: 1e
+expect: 7
+Key on, channel 7: octave 7, freq 0x266
+	a7: 66
+	b7: 3e
+Key off, channel 7
+	b7: 1e
+expect: 8
+Key on, channel 8: octave 7, freq 0x28b
+	a8: 8b
+	b8: 3e
+Key off, channel 8
+	b8: 1e
+expect: 1
+Key on, channel 1: octave 6, freq 0x2b1
+	a1: b1
+	b1: 3a
+Key off, channel 1
+	b1: 1a
+expect: 2
+Key on, channel 2: octave 6, freq 0x2da
+	a2: da
+	b2: 3a
+Key off, channel 2
+	b2: 1a
+expect: 3
+Key on, channel 3: octave 6, freq 0x306
+	a3: 06
+	b3: 3b
+Key off, channel 3
+	b3: 1b
+expect: 4
+Key on, channel 4: octave 6, freq 0x334
+	a4: 34
+	b4: 3b
+Key off, channel 4
+	b4: 1b
+expect: 5
+Key on, channel 5: octave 6, freq 0x365
+	a5: 65
+	b5: 3b
+Key off, channel 5
+	b5: 1b
+expect: 6
+Key on, channel 6: octave 6, freq 0x398
+	a6: 98
+	b6: 3b
+Key off, channel 6
+	b6: 1b
+expect: 7
+Key on, channel 7: octave 6, freq 0x3cf
+	a7: cf
+	b7: 3b
+Key off, channel 7
+	b7: 1b
+expect: 8
+Key on, channel 8: octave 7, freq 0x204
+	a8: 04
+	b8: 3e
+Key off, channel 8
+	b8: 1e
+Key off, channel 0
+	b0: 0b
+Initialising channel 1: 20,e0,14,00,80,0f,38,30,e1,d6,00,80,3f
+	44: bf
+	24: 30
+	64: e1
+	84: d6
+	e4: 00
+	41: 8f
+	21: 20
+	61: e0
+	81: 14
+	e1: 00
+	c1: 38
+Scale level change on channel 1, op 1: 6.0dB, 1.5dB/8ve
+	44: 88
+expect: 1
+Key on, channel 1: octave 2, freq 0x365
+	a1: 65
+	b1: 2b
+expect: 2
+Key on, channel 2: octave 0, freq 0x158
+	a2: 58
+	b2: 21
+Key off, channel 2
+	b2: 01
+expect: 3
+Key on, channel 3: octave 0, freq 0x16d
+	a3: 6d
+	b3: 21
+Key off, channel 3
+	b3: 01
+expect: 4
+Key on, channel 4: octave 0, freq 0x183
+	a4: 83
+	b4: 21
+Key off, channel 4
+	b4: 01
+expect: 5
+Key on, channel 5: octave 0, freq 0x19a
+	a5: 9a
+	b5: 21
+Key off, channel 5
+	b5: 01
+expect: 6
+Key on, channel 6: octave 0, freq 0x1b2
+	a6: b2
+	b6: 21
+Key off, channel 6
+	b6: 01
+expect: 7
+Key on, channel 7: octave 0, freq 0x1cc
+	a7: cc
+	b7: 21
+Key off, channel 7
+	b7: 01
+expect: 8
+Key on, channel 8: octave 0, freq 0x1e7
+	a8: e7
+	b8: 21
+Key off, channel 1
+	b1: 0b
+Key off, channel 8
+	b8: 01
+Initial initialisation of registers...
+	40: 3f
+	41: 3f
+	42: 3f
+	43: 3f
+Initial initialisation of registers...
+	44: 3f
+	45: 3f
+	46: 3f
+	47: 3f
+Initial initialisation of registers...
+	48: 3f
+	49: 3f
+	4a: 3f
+	4b: 3f
+Initial initialisation of registers...
+	4c: 3f
+	4d: 3f
+	4e: 3f
+	4f: 3f
+Initial initialisation of registers...
+	50: 3f
+	51: 3f
+	52: 3f
+	53: 3f
+Scale level change on channel 7, op 1: 47.25dB, no change
+	54: 3f
+Scale level change on channel 8, op 1: 47.25dB, no change
+	55: 3f
+Initial initialisation of registers...
+	60: 00
+	61: 00
+	62: 00
+	63: 00
+Initial initialisation of registers...
+	64: 00
+	65: 00
+	66: 00
+	67: 00
+Initial initialisation of registers...
+	68: 00
+	69: 00
+	6a: 00
+	6b: 00
+Initial initialisation of registers...
+	6c: 00
+	6d: 00
+	6e: 00
+	6f: 00
+Initial initialisation of registers...
+	70: 00
+	71: 00
+	72: 00
+	73: 00
+Initial initialisation of registers...
+	74: 00
+	75: 00
+	76: 00
+	77: 00
+Initial initialisation of registers...
+	78: 00
+	79: 00
+	7a: 00
+	7b: 00
+Initial initialisation of registers...
+	7c: 00
+	7d: 00
+	7e: 00
+	7f: 00
+Initial initialisation of registers...
+	80: 00
+	81: 00
+	82: 00
+	83: 00
+Initial initialisation of registers...
+	84: 00
+	85: 00
+	86: 00
+	87: 00
+Initial initialisation of registers...
+	88: 00
+	89: 00
+	8a: 00
+	8b: 00
+Initial initialisation of registers...
+	8c: 00
+	8d: 00
+	8e: 00
+	8f: 00
+Initial initialisation of registers...
+	90: 00
+	91: 00
+	92: 00
+	93: 00
+Initial initialisation of registers...
+	94: 00
+	95: 00
+	96: 00
+	97: 00
+Initial initialisation of registers...
+	98: 00
+	99: 00
+	9a: 00
+	9b: 00
+Initial initialisation of registers...
+	9c: 00
+	9d: 00
+	9e: 00
+	9f: 00
+Initial initialisation of registers...
+	a0: 00
+	a1: 00
+	a2: 00
+	a3: 00
+Initial initialisation of registers...
+	a4: 00
+	a5: 00
+	a6: 00
+	a7: 00
+Initial initialisation of registers...
+	a8: 00
+	a9: 00
+	aa: 00
+	ab: 00
+Initial initialisation of registers...
+	ac: 00
+	ad: 00
+	ae: 00
+	af: 00
+Initial initialisation of registers...
+	b0: 00
+	b1: 00
+	b2: 00
+	b3: 00
+Initial initialisation of registers...
+	b4: 00
+	b5: 00
+	b6: 00
+	b7: 00
+Initial initialisation of registers...
+	b8: 00
+	b9: 00
+	ba: 00
+	bb: 00
+Initial initialisation of registers...
+	bc: 00
+	bd: 00
+	be: 00
+	bf: 00
+Initial initialisation of registers...
+	c0: 00
+	c1: 00
+	c2: 00
+	c3: 00
+Initial initialisation of registers...
+	c4: 00
+	c5: 00
+	c6: 00
+	c7: 00
+Initial initialisation of registers...
+	c8: 00
+	c9: 00
+	ca: 00
+	cb: 00
+Initial initialisation of registers...
+	cc: 00
+	cd: 00
+	ce: 00
+	cf: 00
+Initial initialisation of registers...
+	d0: 00
+	d1: 00
+	d2: 00
+	d3: 00
+Initial initialisation of registers...
+	d4: 00
+	d5: 00
+	d6: 00
+	d7: 00
+Initial initialisation of registers...
+	d8: 00
+	d9: 00
+	da: 00
+	db: 00
+Initial initialisation of registers...
+	dc: 00
+	dd: 00
+	de: 00
+	df: 00
+Initial initialisation of registers...
+	e0: 00
+	e1: 00
+	e2: 00
+	e3: 00
+Initial initialisation of registers...
+	e4: 00
+	e5: 00
+	e6: 00
+	e7: 00
+Initial initialisation of registers...
+	e8: 00
+	e9: 00
+	ea: 00
+	eb: 00
+Initial initialisation of registers...
+	ec: 00
+	ed: 00
+	ee: 00
+	ef: 00
+Initial initialisation of registers...
+	f0: 00
+	f1: 00
+	f2: 00
+	f3: 00
+Basic register write: f4: 00
+	f4: 00
+Basic register write: f5: 00
+	f5: 00
+Basic register write: 01: 00
+	01: 00
+Basic register write: 02: 00
+	02: 00
+Basic register write: 03: 00
+	03: 00
+Initial initialisation of registers...
+	04: 00
+	05: 00
+	06: 00
+	07: 00
+Initial initialisation of registers...
+	08: 00
+	09: 00
+	0a: 00
+	0b: 00
+Initial initialisation of registers...
+	0c: 00
+	0d: 00
+	0e: 00
+	0f: 00
+Initial initialisation of registers...
+	10: 00
+	11: 00
+	12: 00
+	13: 00
+Initial initialisation of registers...
+	14: 00
+	15: 00
+	16: 00
+	17: 00
+Initial initialisation of registers...
+	18: 00
+	19: 00
+	1a: 00
+	1b: 00
+Initial initialisation of registers...
+	1c: 00
+	1d: 00
+	1e: 00
+	1f: 00
+Initial initialisation of registers...
+	20: 00
+	21: 00
+	22: 00
+	23: 00
+Initial initialisation of registers...
+	24: 00
+	25: 00
+	26: 00
+	27: 00
+Initial initialisation of registers...
+	28: 00
+	29: 00
+	2a: 00
+	2b: 00
+Initial initialisation of registers...
+	2c: 00
+	2d: 00
+	2e: 00
+	2f: 00
+Initial initialisation of registers...
+	30: 00
+	31: 00
+	32: 00
+	33: 00
+Initial initialisation of registers...
+	34: 00
+	35: 00
+	36: 00
+	37: 00
+Initial initialisation of registers...
+	38: 00
+	39: 00
+	3a: 00
+	3b: 00
+Initial initialisation of registers...
+	3c: 00
+	3d: 00
+	3e: 00
+	3f: 00
+Basic register write: 04: 60
+	04: 60
+Basic register write: 04: 80
+	04: 80
+Basic register write: 01: 20
+	01: 20

@@ -1,0 +1,48 @@
+#!/usr/bin/env ruby
+#
+# Play note #19 on each instrument, the f-on octave value should
+# be 1 for normal, 0 if offset down by one octave.
+
+def note_on(delay, channel, note, volume)
+    # note on
+    putc delay
+    putc 0x90 + channel
+    putc note
+    putc volume
+end
+
+def note_off(delay, channel, note)
+    # note on
+    putc delay
+    putc 0x80 + channel
+    putc note
+    putc 0x00
+end
+
+def program_change(delay, channel, instrument)
+    putc delay
+    putc 0xc0 + channel
+    putc instrument
+end
+
+def end_of_track
+    putc 0x00
+    putc 0xff
+    putc 0x2f
+    putc 0x00
+end
+
+for i in 0...128
+    program_change(0, 8, i)
+
+    # note on
+    note_on(0xf, 8, 19, 0x7b)
+
+    # note off
+    note_off(0xf, 8, 19)
+end
+
+# end of track
+
+end_of_track
+

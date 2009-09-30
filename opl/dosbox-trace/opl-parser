@@ -185,10 +185,30 @@ class InitChannel < OperatorEvent
         operator_values(operator_2)
     end
 
+    # Description of the instrument being loaded:
+
+    def instr_desc
+        instr_data = $instruments[values]
+
+        if instr_data == nil
+            return "- Unknown instrument"
+        end
+
+        result = ""
+
+        for possible in instr_data
+            result += "- Instrument ##{possible[:instrument]} " \
+                   +  "(#{possible[:name]}) "                   \
+                   +  "v#{possible[:voice]}\n"
+        end
+
+        result
+    end
+
     def to_s
         stringified = values.map { |val| sprintf("%02x", val) }
         stringified = stringified.join(",")
-        "Initialising channel #{channel}: #{stringified}"
+        "Initializing channel #{channel}: #{stringified}\n" + instr_desc
     end
 end
 
@@ -248,6 +268,107 @@ end
 class BasicRegisterWrite < Event
     def to_s
         "Basic register write: " + @reg_writes[0].to_s
+    end
+end
+
+# GENMIDI parsing code:
+
+NUM_INSTRUMENTS = 175
+
+def read_instrument(file)
+    result = []
+
+    36.times do
+        c = file.getc
+        result.push(c)
+    end
+
+    result
+end
+
+# "Flatten" voice data in the way that the Doom code will:
+
+def flatten_voice(voice_data)
+    modulating = (voice_data[6] & 0x01) == 0;
+
+    # Voices 1 and 2 (for OPL3)
+    voice_data[6] |= 0x30;
+
+    # 2nd op always has level set to max 
+    voice_data[12] |= 0x3f;
+
+    # 1st op has level set to max if not modulating
+    if !modulating
+        voice_data[5] |= 0x3f;
+    end
+end
+
+# Add a voice to the instruments lookup table.
+
+def add_voice(instruments, voice_data, instr_num, voice_num, name)
+    if instruments[voice_data] == nil
+        instruments[voice_data] = []
+    end
+
+    instruments[voice_data].push({
+        :instrument => instr_num,
+        :voice => voice_num,
+        :name => name
+    })
+end
+
+def read_genmidi(filename)
+    instr_data = []
+    instr_names = []
+
+    File.open(filename) do |file|
+        header = file.read(8)
+
+        if header != "#OPL_II#"
+            raise "Header not found!"
+        end
+
+        NUM_INSTRUMENTS.times do
+	    data = read_instrument(file)
+            instr_data.push(data)
+        end
+
+        NUM_INSTRUMENTS.times do
+            name = file.read(32).strip
+            instr_names.push(name)
+        end
+    end
+
+    instruments = {}
+
+    for i in 0...NUM_INSTRUMENTS
+        dual_voice = (instr_data[i][0] & 0x04) != 0
+        voice1 = instr_data[i][4, 13]
+        voice2 = instr_data[i][20, 13]
+
+        flatten_voice(voice1)
+        flatten_voice(voice2)
+
+        add_voice(instruments, voice1, i, 1, instr_names[i])
+
+        if dual_voice
+            add_voice(instruments, voice2, i, 2, instr_names[i])
+        end
+    end
+
+    instruments
+end
+
+def parse_cmdline
+    i = 0
+    $instruments = {}
+
+    while i < ARGV.length
+        if ARGV[i] == "-genmidi"
+            $instruments = read_genmidi(ARGV[i + 1])
+            i += 1
+        end
+        i += 1
     end
 end
 
@@ -334,6 +455,8 @@ MATCH_PATTERNS = [
 
     MatchPattern.new(BasicRegisterWrite, [[0, 0]])
 ]
+
+parse_cmdline
 
 writes = parse_file($stdin)
 

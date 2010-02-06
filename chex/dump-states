@@ -1,0 +1,65 @@
+#!/usr/bin/env ruby
+
+require "scanf"
+require "json"
+
+filename = ARGV[0]
+offset = ARGV[1].scanf("%x")[0]
+
+NUM_STATES=967
+
+def read_int(file)
+        c1 = file.getc
+        c2 = file.getc
+        c3 = file.getc
+        c4 = file.getc
+
+        c1 | (c2 << 8) | (c3 << 16) | (c4 << 24)
+end
+
+def read_state(file)
+        result = {}
+
+        result[:spritenum] = read_int(file)
+        result[:frame] = read_int(file)
+        result[:tics] = read_int(file)
+        result[:action] = read_int(file)
+        result[:nextstate] = read_int(file)
+        result[:misc1] = read_int(file)
+        result[:misc2] = read_int(file)
+
+        result
+end
+
+def fix_actions(states)
+        all_actions = {}
+
+        snum = 0
+
+        for state in states
+                action = state[:action]
+                if !all_actions.has_key?(action)
+                        all_actions[action] = snum
+                        snum += 1
+                end
+
+                state[:action] = all_actions[action]
+        end
+end
+
+states = []
+
+File.open(filename) do |file|
+        file.seek(offset)
+
+        NUM_STATES.times do
+                states.push(read_state(file))
+        end
+end
+
+fix_actions(states)
+
+for state in states
+        puts state.to_json
+end
+

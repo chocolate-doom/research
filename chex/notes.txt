@@ -1,0 +1,46 @@
+
+states table:
+
+    {SPR_SHTG,4,0,{A_Light0},S_NULL,0,0},       // S_LIGHTDONE
+
+->
+
+01 00 00 00  04 00 00 00  00 00 00 00  ?? ?? ?? ??  00 00 00 00 
+00 00 00 00  00 00 00 00
+
+starts at 0009f3cc in doom2.exe
+starts at 0009f0c0 in chex.exe
+
+mobjinfo table:
+
+    { -1, S_PLAY, 100, S_PLAY_RUN1, sfx_None, 0, sfx_None, S_PLAY_PAIN,
+        255, sfx_plpain, S_NULL, S_PLAY_ATK1, S_PLAY_DIE1, S_PLAY_XDIE1,
+        sfx_pldeth, 0, 16*FRACUNIT, 56*FRACUNIT, 100, 0, sfx_None,
+        MF_SOLID|MF_SHOOTABLE|MF_DROPOFF|MF_PICKUP|MF_NOTDMATCH,
+        S_NULL },
+
+ff ff ff ff 95 00 00 00 64 00 00 00 ...
+
+starts at 000a5d90 in doom2.exe
+starts at 000a5a84 in chex.exe
+
+state differences:
+
+  state 537: tics reduced from 8 -> 3
+  state 538: tics reduced from 8 -> 3
+  state 539: tics reduced from 8 -> 0
+      faster boss firing rate?
+
+mobjinfo differences:
+
+  mobj 1 : fields 11 and 12 swapped (0, 184) -> (184, 0)
+  mobj 2 : fields 11 and 12 swapped (0, 217) -> (217, 0)
+     these are swappings of meleestate and missilestate (flemoids only
+      attack at close range?)
+
+  mobj 15: fields 17 and 18 changed: (1572864,4194304) -> (2883584,6553600)
+     wider and taller - boss?
+
+  mobj 18: field 12 changed (589 -> 0)
+     far attack frame set to S_NULL - lost souls don't do the charge attack
+

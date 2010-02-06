@@ -1,0 +1,4 @@
+Scripts etc. that were used to analyse the Chex Quest executable, so
+that the auxiliary chex.deh patch could be created to add Chex Quest
+support to Chocolate Doom.
+

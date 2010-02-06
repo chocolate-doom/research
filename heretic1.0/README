@@ -1,0 +1,13 @@
+This research is for the purpose of adding HHE support to Chocolate Heretic
+(raven-branch).  However, this is complicated by the fact that the DOS HHE
+executable only worked with Heretic v1.0.  Furthermore, the internal state
+tables changed between Heretic v1.0 and the final v1.3.  In order for loading
+of HHE patches to be supported, it is therefore necessary to apply patches
+against the Heretic 1.0 tables and use these instead of the normal
+(v1.3) tables.
+
+These are scripts to dump the internal tables for importing into Chocolate
+Heretic.
+
+./dump-states ~/doom/hhe/heretic/heretic.exe 8bf04
+

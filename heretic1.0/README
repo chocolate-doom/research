@@ -9,5 +9,6 @@ against the Heretic 1.0 tables and use these instead of the normal
 These are scripts to dump the internal tables for importing into Chocolate
 Heretic.
 
-./dump-states ~/doom/hhe/heretic/heretic.exe 8bf04
+./dump-states heretic.exe 8bf04 > states.c
+./dump-mobjinfo heretic.exe 942ec > mobjinfo.c
 

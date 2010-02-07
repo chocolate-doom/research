@@ -1,0 +1,4 @@
+mobjinfo differences in Heretic 1.0:
+
+* extra object after MT_PHOENIXFX1 (MT_PHOENIXFX1.5?)
+

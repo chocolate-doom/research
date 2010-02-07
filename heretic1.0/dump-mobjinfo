@@ -1,0 +1,103 @@
+#!/usr/bin/env ruby
+
+require "scanf"
+require "common.rb"
+
+filename = ARGV[0]
+offset = ARGV[1].scanf("%x")[0]
+
+NUM_MOBJS=161
+
+def read_int(file)
+        c1 = file.getc
+        c2 = file.getc
+        c3 = file.getc
+        c4 = file.getc
+
+        c1 | (c2 << 8) | (c3 << 16) | (c4 << 24)
+end
+
+def read_mobj(file)
+        result = []
+
+        24.times do
+                i = read_int(file)
+                result.push(i)
+        end
+
+        result
+end
+
+def parse_flags(value, flagnames)
+	flags = []
+
+	for i in 0...32
+		if (value & (1 << i)) != 0
+			flags.push(flagnames[i])
+		end
+	end
+
+	if flags.length == 0
+		return "0"
+	else
+		return flags.join(" | ")
+	end
+end
+
+def print_field(state, index)
+	field_name = MOBJINFO_FIELDS[index]
+	value = state[index]
+
+	if field_name =~ /sound$/
+		value = SOUND_EFFECTS[value]
+	elsif field_name == "doomednum"
+		if value > (1 << 31)
+			value -= (1 << 32)
+		end
+	elsif field_name =~ /speed|radius|height/ # fixed_t
+		if value != 0 and ((value % 65536) == 0)
+			value /= 65536
+
+			value = sprintf("%i * FRACUNIT", value)
+		end
+	elsif field_name == "flags"
+		value = parse_flags(value, THING_FLAGS1)
+	elsif field_name == "flags2"
+		value = parse_flags(value, THING_FLAGS2)
+	end
+
+	s = sprintf("     %s,", value)
+
+	printf "%s", s
+
+	if s.length < 32
+		printf " " * (32 - s.length)
+	else
+		printf "     "
+	end
+
+	printf "// %s\n", field_name
+end
+
+states = []
+
+File.open(filename) do |file|
+        file.seek(offset)
+
+        NUM_MOBJS.times do
+                states.push(read_mobj(file))
+        end
+end
+
+puts "mobjinfo_t mobjinfo[] = {"
+puts
+
+for state in states
+	printf "    {\n"
+	for i in 0...24
+		print_field(state, i)
+	end
+	printf "     },\n"
+	puts
+end
+

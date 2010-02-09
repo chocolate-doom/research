@@ -1,0 +1,38 @@
+BFW9000.HHE
+	?
+
+DORKS.HHE
+	Does not load in HHE when using v1.0 or v1.3. v1.2?
+	Designed for v1.2 or v1.3 (hhe.ini included with zip)
+
+HACK.HHE
+	Does not load in HHE when using v1.0 or v1.3. v1.2?
+	Designed for v1.2 or v1.3 (hhe.ini included with zip)
+
+H-ARMY.HHE
+	Designed for v1.0 exe.  Monsters do not appear/animate properly
+	if patch is loaded for v1.3.
+
+Ichor.hhe
+	Designed for v1.3 (tested, and text offsets match)
+	Designed for v1.2 or v1.3 (hhe.ini included with zip)
+
+NITEMARE.HHE
+	v1.3 patch (text offsets)
+	Designed for v1.2 or v1.3 (hhe.ini included with zip)
+
+Redkey.hhe
+	v1.3 patch (text offsets)
+	Designed for v1.2 or v1.3 (hhe.ini included with zip)
+
+Shadow.hhe
+	v1.3 patch (text offsets)
+	Designed for v1.2 or v1.3 (hhe.ini included with zip)
+
+TONEPWR.HHE
+	Designed for v1.0 exe.  Crossbow does not fire when loaded in v1.3.
+
+WEAPONH.DEH
+	?
+	Designed for v1.2 or v1.3 (hhe.ini included with zip)
+

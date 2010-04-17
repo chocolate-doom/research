@@ -8,6 +8,7 @@ NUM_MOBJS=160
 
 STATE_OFFSET=0x8e8b4
 MOBJINFO_OFFSET=617600
+STRINGS_OFFSET=563284
 
 # Locations of action pointer functions for Heretic 1.2.  Hand-constructed.
 

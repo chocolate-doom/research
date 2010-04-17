@@ -1,6 +1,9 @@
 #!/usr/bin/env ruby
 
 require "json"
+require "common"
+
+set_config(ARGV[1])
 
 def read_block(file)
         result = ""
@@ -34,7 +37,7 @@ end
 File.open(ARGV[0]) do |file|
         current_str = ""
 
-	file.seek(554068 )
+	file.seek(STRINGS_OFFSET)
 
 	offset = 0
 	start_offset = nil

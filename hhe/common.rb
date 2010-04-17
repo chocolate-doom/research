@@ -83,6 +83,9 @@ def set_config(name)
 	for config in configs
 		if name == config::NAME
 			include config
+			return
 		end
 	end
+
+	raise "Unknown configuration: #{name}"
 end

@@ -452,11 +452,11 @@ state_t states[] = {
     {SPR_GWND, 0, 1, A_Lower, 450, 0, 0 },                 // state #450
     {SPR_GWND, 0, 1, A_Raise, 451, 0, 0 },                 // state #451
     {SPR_GWND, 1, 3, NULL, 453, 0, 0 },                    // state #452
-    {SPR_GWND, 2, 5, A_FireGoldenWandPL1, 454, 0, 0 },     // state #453
+    {SPR_GWND, 2, 5, A_FireGoldWandPL1, 454, 0, 0 },       // state #453
     {SPR_GWND, 3, 3, NULL, 455, 0, 0 },                    // state #454
     {SPR_GWND, 3, 0, A_ReFire, 449, 0, 0 },                // state #455
     {SPR_GWND, 1, 3, NULL, 457, 0, 0 },                    // state #456
-    {SPR_GWND, 2, 4, A_FireGoldenWandPL2, 458, 0, 0 },     // state #457
+    {SPR_GWND, 2, 4, A_FireGoldWandPL2, 458, 0, 0 },       // state #457
     {SPR_GWND, 3, 3, NULL, 459, 0, 0 },                    // state #458
     {SPR_GWND, 3, 0, A_ReFire, 449, 0, 0 },                // state #459
     {SPR_FX01, 32768, 6, NULL, 461, 0, 0 },                // state #460
@@ -495,7 +495,7 @@ state_t states[] = {
     {SPR_FX08, 32774, 4, NULL, 494, 0, 0 },                // state #493
     {SPR_FX08, 32775, 4, NULL, 0, 0, 0 },                  // state #494
     {SPR_FX08, 32776, 8, NULL, 496, 0, 0 },                // state #495
-    {SPR_FX08, 32777, 8, ???? DONT KNOW YET, 496, 0, 0 },  // state #496
+    {SPR_FX08, 32777, 8, A_RemovedPhoenixFunc, 496, 0, 0 },// state #496
     {SPR_FX08, 32778, 8, NULL, 0, 0, 0 },                  // state #497
     {SPR_FX04, 1, 4, NULL, 499, 0, 0 },                    // state #498
     {SPR_FX04, 2, 4, NULL, 500, 0, 0 },                    // state #499

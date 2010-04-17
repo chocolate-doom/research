@@ -1,4 +1,8 @@
 
+require "v1.0/config.rb"
+require "v1.2/config.rb"
+require "v1.3/config.rb"
+
 # Symbolic sprite names, from info.h.
 
 SPRITE_NAMES = %w{
@@ -73,3 +77,12 @@ THING_FLAGS2 = %w{
     MF2_DONTDRAW
 }
 
+def set_config(name)
+	configs = [ Heretic_1_0, Heretic_1_2, Heretic_1_3 ]
+
+	for config in configs
+		if name == config::NAME
+			include config
+		end
+	end
+end

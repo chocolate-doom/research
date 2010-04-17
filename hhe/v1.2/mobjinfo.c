@@ -2363,33 +2363,6 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     497,                       // deathstate
-     0,                         // xdeathstate
-     sfx_None,                  // deathsound
-     0,                         // speed
-     2 * FRACUNIT,              // radius
-     4 * FRACUNIT,              // height
-     100,                       // mass
-     0,                         // damage
-     sfx_None,                  // activesound
-     MF_NOBLOCKMAP | MF_NOGRAVITY | MF_DROPOFF | MF_MISSILE,     // flags
-     MF2_NOTELEPORT,            // flags2
-     },
-
-    {
-     -1,                        // doomednum
-     498,                       // spawnstate
-     1000,                      // spawnhealth
-     0,                         // seestate
-     sfx_None,                  // seesound
-     8,                         // reactiontime
-     sfx_None,                  // attacksound
-     0,                         // painstate
-     0,                         // painchance
-     sfx_None,                  // painsound
-     0,                         // meleestate
-     0,                         // missilestate
-     0,                         // crashstate
      0,                         // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
@@ -2405,7 +2378,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     503,                       // spawnstate
+     500,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -2417,7 +2390,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     513,                       // deathstate
+     510,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      10 * FRACUNIT,             // speed
@@ -2432,7 +2405,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      2001,                      // doomednum
-     518,                       // spawnstate
+     515,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -2459,7 +2432,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     555,                       // spawnstate
+     552,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_bowsht,                // seesound
@@ -2471,7 +2444,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     556,                       // deathstate
+     553,                       // deathstate
      0,                         // xdeathstate
      sfx_hrnhit,                // deathsound
      30 * FRACUNIT,             // speed
@@ -2486,7 +2459,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     559,                       // spawnstate
+     556,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_bowsht,                // seesound
@@ -2498,7 +2471,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     556,                       // deathstate
+     553,                       // deathstate
      0,                         // xdeathstate
      sfx_hrnhit,                // deathsound
      32 * FRACUNIT,             // speed
@@ -2513,7 +2486,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     560,                       // spawnstate
+     557,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -2525,7 +2498,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     561,                       // deathstate
+     558,                       // deathstate
      0,                         // xdeathstate
      sfx_hrnhit,                // deathsound
      20 * FRACUNIT,             // speed
@@ -2540,7 +2513,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     564,                       // spawnstate
+     561,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -2567,7 +2540,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     566,                       // spawnstate
+     563,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -2594,7 +2567,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     569,                       // spawnstate
+     566,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -2606,7 +2579,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     572,                       // deathstate
+     569,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      0,                         // speed
@@ -2621,20 +2594,20 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     573,                       // spawnstate
+     570,                       // spawnstate
      100,                       // spawnhealth
-     574,                       // seestate
+     571,                       // seestate
      sfx_None,                  // seesound
      0,                         // reactiontime
      sfx_None,                  // attacksound
-     580,                       // painstate
+     577,                       // painstate
      255,                       // painchance
      sfx_plrpai,                // painsound
      0,                         // meleestate
-     578,                       // missilestate
+     575,                       // missilestate
      0,                         // crashstate
-     582,                       // deathstate
-     591,                       // xdeathstate
+     579,                       // deathstate
+     588,                       // xdeathstate
      sfx_plrdth,                // deathsound
      0,                         // speed
      16 * FRACUNIT,             // radius
@@ -2648,7 +2621,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     618,                       // spawnstate
+     617,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -2675,19 +2648,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     625,                       // spawnstate
+     624,                       // spawnstate
      100,                       // spawnhealth
-     626,                       // seestate
+     625,                       // seestate
      sfx_None,                  // seesound
      0,                         // reactiontime
      sfx_None,                  // attacksound
-     631,                       // painstate
+     630,                       // painstate
      255,                       // painchance
      sfx_chicpai,               // painsound
      0,                         // meleestate
-     630,                       // missilestate
+     629,                       // missilestate
      0,                         // crashstate
-     641,                       // deathstate
+     640,                       // deathstate
      0,                         // xdeathstate
      sfx_chicdth,               // deathsound
      0,                         // speed
@@ -2702,19 +2675,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     633,                       // spawnstate
+     632,                       // spawnstate
      10,                        // spawnhealth
-     635,                       // seestate
+     634,                       // seestate
      sfx_chicpai,               // seesound
      8,                         // reactiontime
      sfx_chicatk,               // attacksound
-     637,                       // painstate
+     636,                       // painstate
      200,                       // painchance
      sfx_chicpai,               // painsound
-     639,                       // meleestate
+     638,                       // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     641,                       // deathstate
+     640,                       // deathstate
      0,                         // xdeathstate
      sfx_chicdth,               // deathsound
      4,                         // speed
@@ -2729,7 +2702,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     649,                       // spawnstate
+     648,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -2741,7 +2714,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     657,                       // deathstate
+     656,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      0,                         // speed
@@ -2756,19 +2729,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      68,                        // doomednum
-     658,                       // spawnstate
+     657,                       // spawnstate
      80,                        // spawnhealth
-     660,                       // seestate
+     659,                       // seestate
      sfx_mumsit,                // seesound
      8,                         // reactiontime
      sfx_mumat1,                // attacksound
-     673,                       // painstate
+     672,                       // painstate
      128,                       // painchance
      sfx_mumpai,                // painsound
-     664,                       // meleestate
+     663,                       // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     675,                       // deathstate
+     674,                       // deathstate
      0,                         // xdeathstate
      sfx_mumdth,                // deathsound
      12,                        // speed
@@ -2783,19 +2756,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      45,                        // doomednum
-     658,                       // spawnstate
+     657,                       // spawnstate
      100,                       // spawnhealth
-     660,                       // seestate
+     659,                       // seestate
      sfx_mumsit,                // seesound
      8,                         // reactiontime
      sfx_mumat1,                // attacksound
-     673,                       // painstate
+     672,                       // painstate
      64,                        // painchance
      sfx_mumpai,                // painsound
-     664,                       // meleestate
-     667,                       // missilestate
+     663,                       // meleestate
+     666,                       // missilestate
      0,                         // crashstate
-     675,                       // deathstate
+     674,                       // deathstate
      0,                         // xdeathstate
      sfx_mumdth,                // deathsound
      12,                        // speed
@@ -2810,19 +2783,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      69,                        // doomednum
-     658,                       // spawnstate
+     657,                       // spawnstate
      80,                        // spawnhealth
-     660,                       // seestate
+     659,                       // seestate
      sfx_mumsit,                // seesound
      8,                         // reactiontime
      sfx_mumat1,                // attacksound
-     673,                       // painstate
+     672,                       // painstate
      128,                       // painchance
      sfx_mumpai,                // painsound
-     664,                       // meleestate
+     663,                       // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     675,                       // deathstate
+     674,                       // deathstate
      0,                         // xdeathstate
      sfx_mumdth,                // deathsound
      12,                        // speed
@@ -2837,19 +2810,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      46,                        // doomednum
-     658,                       // spawnstate
+     657,                       // spawnstate
      100,                       // spawnhealth
-     660,                       // seestate
+     659,                       // seestate
      sfx_mumsit,                // seesound
      8,                         // reactiontime
      sfx_mumat1,                // attacksound
-     673,                       // painstate
+     672,                       // painstate
      64,                        // painchance
      sfx_mumpai,                // painsound
-     664,                       // meleestate
-     667,                       // missilestate
+     663,                       // meleestate
+     666,                       // missilestate
      0,                         // crashstate
-     675,                       // deathstate
+     674,                       // deathstate
      0,                         // xdeathstate
      sfx_mumdth,                // deathsound
      12,                        // speed
@@ -2864,7 +2837,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     683,                       // spawnstate
+     682,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -2891,7 +2864,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     690,                       // spawnstate
+     689,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -2903,7 +2876,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     694,                       // deathstate
+     693,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      9 * FRACUNIT,              // speed
@@ -2918,20 +2891,20 @@ mobjinfo_t mobjinfo[] = {
 
     {
      70,                        // doomednum
-     698,                       // spawnstate
+     697,                       // spawnstate
      220,                       // spawnhealth
-     700,                       // seestate
+     699,                       // seestate
      sfx_bstsit,                // seesound
      8,                         // reactiontime
      sfx_bstatk,                // attacksound
-     708,                       // painstate
+     707,                       // painstate
      100,                       // painchance
      sfx_bstpai,                // painsound
      0,                         // meleestate
-     706,                       // missilestate
+     705,                       // missilestate
      0,                         // crashstate
-     710,                       // deathstate
-     719,                       // xdeathstate
+     709,                       // deathstate
+     718,                       // xdeathstate
      sfx_bstdth,                // deathsound
      14,                        // speed
      32 * FRACUNIT,             // radius
@@ -2945,7 +2918,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     727,                       // spawnstate
+     726,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -2957,7 +2930,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     733,                       // deathstate
+     732,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      12 * FRACUNIT,             // speed
@@ -2972,7 +2945,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     738,                       // spawnstate
+     737,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -2984,7 +2957,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     733,                       // deathstate
+     732,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      10 * FRACUNIT,             // speed
@@ -2999,7 +2972,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     746,                       // spawnstate
+     745,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3011,7 +2984,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     733,                       // deathstate
+     732,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      10 * FRACUNIT,             // speed
@@ -3026,7 +2999,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     754,                       // spawnstate
+     753,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3038,7 +3011,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     754,                       // deathstate
+     753,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      10 * FRACUNIT,             // speed
@@ -3053,19 +3026,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      92,                        // doomednum
-     759,                       // spawnstate
+     758,                       // spawnstate
      280,                       // spawnhealth
-     761,                       // seestate
+     760,                       // seestate
      sfx_snksit,                // seesound
      8,                         // reactiontime
      sfx_snkatk,                // attacksound
-     774,                       // painstate
+     773,                       // painstate
      48,                        // painchance
      sfx_snkpai,                // painsound
      0,                         // meleestate
-     765,                       // missilestate
+     764,                       // missilestate
      0,                         // crashstate
-     776,                       // deathstate
+     775,                       // deathstate
      0,                         // xdeathstate
      sfx_snkdth,                // deathsound
      10,                        // speed
@@ -3080,7 +3053,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     786,                       // spawnstate
+     785,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3092,7 +3065,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     790,                       // deathstate
+     789,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      14 * FRACUNIT,             // speed
@@ -3107,7 +3080,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     795,                       // spawnstate
+     794,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3119,7 +3092,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     797,                       // deathstate
+     796,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      14 * FRACUNIT,             // speed
@@ -3134,19 +3107,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      6,                         // doomednum
-     801,                       // spawnstate
+     800,                       // spawnstate
      700,                       // spawnhealth
-     802,                       // seestate
+     801,                       // seestate
      sfx_hedsit,                // seesound
      8,                         // reactiontime
      sfx_hedat1,                // attacksound
-     805,                       // painstate
+     804,                       // painstate
      32,                        // painchance
      sfx_hedpai,                // painsound
      0,                         // meleestate
-     803,                       // missilestate
+     802,                       // missilestate
      0,                         // crashstate
-     807,                       // deathstate
+     806,                       // deathstate
      0,                         // xdeathstate
      sfx_heddth,                // deathsound
      6,                         // speed
@@ -3161,7 +3134,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     814,                       // spawnstate
+     813,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3173,7 +3146,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     817,                       // deathstate
+     816,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      13 * FRACUNIT,             // speed
@@ -3188,7 +3161,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     821,                       // spawnstate
+     820,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3200,7 +3173,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     824,                       // deathstate
+     823,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      8 * FRACUNIT,              // speed
@@ -3215,7 +3188,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     828,                       // spawnstate
+     827,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3227,7 +3200,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     834,                       // deathstate
+     833,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      10 * FRACUNIT,             // speed
@@ -3242,7 +3215,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     838,                       // spawnstate
+     837,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3254,7 +3227,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     845,                       // deathstate
+     844,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      10 * FRACUNIT,             // speed
@@ -3269,19 +3242,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      90,                        // doomednum
-     849,                       // spawnstate
+     848,                       // spawnstate
      150,                       // spawnhealth
-     851,                       // seestate
+     850,                       // seestate
      sfx_clksit,                // seesound
      8,                         // reactiontime
      sfx_clkatk,                // attacksound
-     858,                       // painstate
+     857,                       // painstate
      32,                        // painchance
      sfx_clkpai,                // painsound
-     855,                       // meleestate
+     854,                       // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     860,                       // deathstate
+     859,                       // deathstate
      0,                         // xdeathstate
      sfx_clkdth,                // deathsound
      14,                        // speed
@@ -3296,19 +3269,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      15,                        // doomednum
-     867,                       // spawnstate
+     866,                       // spawnstate
      180,                       // spawnhealth
-     869,                       // seestate
+     868,                       // seestate
      sfx_wizsit,                // seesound
      8,                         // reactiontime
      sfx_wizatk,                // attacksound
-     886,                       // painstate
+     885,                       // painstate
      64,                        // painchance
      sfx_wizpai,                // painsound
      0,                         // meleestate
-     877,                       // missilestate
+     876,                       // missilestate
      0,                         // crashstate
-     888,                       // deathstate
+     887,                       // deathstate
      0,                         // xdeathstate
      sfx_wizdth,                // deathsound
      12,                        // speed
@@ -3323,7 +3296,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     896,                       // spawnstate
+     895,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3335,7 +3308,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     898,                       // deathstate
+     897,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      18 * FRACUNIT,             // speed
@@ -3350,20 +3323,20 @@ mobjinfo_t mobjinfo[] = {
 
     {
      66,                        // doomednum
-     903,                       // spawnstate
+     902,                       // spawnstate
      40,                        // spawnhealth
-     907,                       // seestate
+     906,                       // seestate
      sfx_impsit,                // seesound
      8,                         // reactiontime
      sfx_impat1,                // attacksound
-     927,                       // painstate
+     926,                       // painstate
      200,                       // painchance
      sfx_imppai,                // painsound
-     915,                       // meleestate
-     918,                       // missilestate
-     936,                       // crashstate
-     929,                       // deathstate
-     931,                       // xdeathstate
+     914,                       // meleestate
+     917,                       // missilestate
+     935,                       // crashstate
+     928,                       // deathstate
+     930,                       // xdeathstate
      sfx_impdth,                // deathsound
      10,                        // speed
      16 * FRACUNIT,             // radius
@@ -3377,20 +3350,20 @@ mobjinfo_t mobjinfo[] = {
 
     {
      5,                         // doomednum
-     903,                       // spawnstate
+     902,                       // spawnstate
      80,                        // spawnhealth
-     907,                       // seestate
+     906,                       // seestate
      sfx_impsit,                // seesound
      8,                         // reactiontime
      sfx_impat2,                // attacksound
-     927,                       // painstate
+     926,                       // painstate
      200,                       // painchance
      sfx_imppai,                // painsound
      0,                         // meleestate
-     924,                       // missilestate
-     936,                       // crashstate
-     929,                       // deathstate
-     931,                       // xdeathstate
+     923,                       // missilestate
+     935,                       // crashstate
+     928,                       // deathstate
+     930,                       // xdeathstate
      sfx_impdth,                // deathsound
      10,                        // speed
      16 * FRACUNIT,             // radius
@@ -3404,7 +3377,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     943,                       // spawnstate
+     942,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3431,7 +3404,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     946,                       // spawnstate
+     945,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3458,7 +3431,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     949,                       // spawnstate
+     948,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3470,7 +3443,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     952,                       // deathstate
+     951,                       // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      10 * FRACUNIT,             // speed
@@ -3485,19 +3458,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      64,                        // doomednum
-     956,                       // spawnstate
+     955,                       // spawnstate
      200,                       // spawnhealth
-     958,                       // seestate
+     957,                       // seestate
      sfx_kgtsit,                // seesound
      8,                         // reactiontime
      sfx_kgtatk,                // attacksound
-     968,                       // painstate
+     967,                       // painstate
      100,                       // painchance
      sfx_kgtpai,                // painsound
-     962,                       // meleestate
-     962,                       // missilestate
+     961,                       // meleestate
+     961,                       // missilestate
      0,                         // crashstate
-     970,                       // deathstate
+     969,                       // deathstate
      0,                         // xdeathstate
      sfx_kgtdth,                // deathsound
      12,                        // speed
@@ -3512,19 +3485,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      65,                        // doomednum
-     956,                       // spawnstate
+     955,                       // spawnstate
      200,                       // spawnhealth
-     958,                       // seestate
+     957,                       // seestate
      sfx_kgtsit,                // seesound
      8,                         // reactiontime
      sfx_kgtatk,                // attacksound
-     968,                       // painstate
+     967,                       // painstate
      100,                       // painchance
      sfx_kgtpai,                // painsound
-     962,                       // meleestate
-     962,                       // missilestate
+     961,                       // meleestate
+     961,                       // missilestate
      0,                         // crashstate
-     970,                       // deathstate
+     969,                       // deathstate
      0,                         // xdeathstate
      sfx_kgtdth,                // deathsound
      12,                        // speed
@@ -3539,7 +3512,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     977,                       // spawnstate
+     976,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3551,7 +3524,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     980,                       // deathstate
+     979,                       // deathstate
      0,                         // xdeathstate
      sfx_hrnhit,                // deathsound
      9 * FRACUNIT,              // speed
@@ -3566,7 +3539,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     983,                       // spawnstate
+     982,                       // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3578,7 +3551,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     985,                       // deathstate
+     984,                       // deathstate
      0,                         // xdeathstate
      sfx_hrnhit,                // deathsound
      9 * FRACUNIT,              // speed
@@ -3593,19 +3566,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      7,                         // doomednum
-     988,                       // spawnstate
+     987,                       // spawnstate
      2000,                      // spawnhealth
-     990,                       // seestate
+     989,                       // seestate
      sfx_sbtsit,                // seesound
      8,                         // reactiontime
      sfx_sbtatk,                // attacksound
-     994,                       // painstate
+     993,                       // painstate
      56,                        // painchance
      sfx_sbtpai,                // painsound
      0,                         // meleestate
-     995,                       // missilestate
+     994,                       // missilestate
      0,                         // crashstate
-     1002,                      // deathstate
+     1001,                      // deathstate
      0,                         // xdeathstate
      sfx_sbtdth,                // deathsound
      16,                        // speed
@@ -3620,7 +3593,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     1019,                      // spawnstate
+     1018,                      // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3632,7 +3605,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     1022,                      // deathstate
+     1021,                      // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      20 * FRACUNIT,             // speed
@@ -3647,19 +3620,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     1034,                      // spawnstate
+     1033,                      // spawnstate
      3500,                      // spawnhealth
-     1036,                      // seestate
+     1035,                      // seestate
      sfx_sorsit,                // seesound
      8,                         // reactiontime
      sfx_soratk,                // attacksound
-     1040,                      // painstate
+     1039,                      // painstate
      32,                        // painchance
      sfx_sorpai,                // painsound
      0,                         // meleestate
-     1042,                      // missilestate
+     1041,                      // missilestate
      0,                         // crashstate
-     1051,                      // deathstate
+     1050,                      // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      14,                        // speed
@@ -3674,7 +3647,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     1066,                      // spawnstate
+     1065,                      // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3686,7 +3659,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     1069,                      // deathstate
+     1068,                      // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      20 * FRACUNIT,             // speed
@@ -3701,7 +3674,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     1075,                      // spawnstate
+     1074,                      // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3728,7 +3701,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     1078,                      // spawnstate
+     1077,                      // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3740,7 +3713,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     1081,                      // deathstate
+     1080,                      // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      6 * FRACUNIT,              // speed
@@ -3755,7 +3728,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     1086,                      // spawnstate
+     1085,                      // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3782,19 +3755,19 @@ mobjinfo_t mobjinfo[] = {
 
     {
      9,                         // doomednum
-     1092,                      // spawnstate
+     1091,                      // spawnstate
      3000,                      // spawnhealth
-     1094,                      // seestate
+     1093,                      // seestate
      sfx_minsit,                // seesound
      8,                         // reactiontime
      sfx_minat1,                // attacksound
-     1109,                      // painstate
+     1108,                      // painstate
      25,                        // painchance
      sfx_minpai,                // painsound
-     1098,                      // meleestate
-     1101,                      // missilestate
+     1097,                      // meleestate
+     1100,                      // missilestate
      0,                         // crashstate
-     1111,                      // deathstate
+     1110,                      // deathstate
      0,                         // xdeathstate
      sfx_mindth,                // deathsound
      16,                        // speed
@@ -3809,7 +3782,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     1126,                      // spawnstate
+     1125,                      // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3821,7 +3794,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     1128,                      // deathstate
+     1127,                      // deathstate
      0,                         // xdeathstate
      sfx_None,                  // deathsound
      20 * FRACUNIT,             // speed
@@ -3836,7 +3809,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     1134,                      // spawnstate
+     1133,                      // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3848,7 +3821,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     1135,                      // deathstate
+     1134,                      // deathstate
      0,                         // xdeathstate
      sfx_phohit,                // deathsound
      14 * FRACUNIT,             // speed
@@ -3863,7 +3836,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      -1,                        // doomednum
-     1140,                      // spawnstate
+     1139,                      // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3875,7 +3848,7 @@ mobjinfo_t mobjinfo[] = {
      0,                         // meleestate
      0,                         // missilestate
      0,                         // crashstate
-     1135,                      // deathstate
+     1134,                      // deathstate
      0,                         // xdeathstate
      sfx_phohit,                // deathsound
      0,                         // speed
@@ -3890,7 +3863,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      73,                        // doomednum
-     1149,                      // spawnstate
+     1148,                      // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3917,7 +3890,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      79,                        // doomednum
-     1159,                      // spawnstate
+     1158,                      // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3944,7 +3917,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      80,                        // doomednum
-     1169,                      // spawnstate
+     1168,                      // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3971,7 +3944,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      10,                        // doomednum
-     1178,                      // spawnstate
+     1177,                      // spawnstate
      10,                        // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -3998,7 +3971,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      12,                        // doomednum
-     1179,                      // spawnstate
+     1178,                      // spawnstate
      50,                        // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -4025,7 +3998,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      13,                        // doomednum
-     1182,                      // spawnstate
+     1181,                      // spawnstate
      20,                        // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -4052,7 +4025,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      16,                        // doomednum
-     1183,                      // spawnstate
+     1182,                      // spawnstate
      100,                       // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -4079,7 +4052,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      18,                        // doomednum
-     1184,                      // spawnstate
+     1183,                      // spawnstate
      5,                         // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -4106,7 +4079,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      19,                        // doomednum
-     1185,                      // spawnstate
+     1184,                      // spawnstate
      20,                        // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -4133,7 +4106,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      20,                        // doomednum
-     1188,                      // spawnstate
+     1187,                      // spawnstate
      20,                        // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -4160,7 +4133,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      21,                        // doomednum
-     1190,                      // spawnstate
+     1189,                      // spawnstate
      100,                       // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -4187,7 +4160,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      22,                        // doomednum
-     1192,                      // spawnstate
+     1191,                      // spawnstate
      1,                         // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -4214,7 +4187,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      23,                        // doomednum
-     1195,                      // spawnstate
+     1194,                      // spawnstate
      10,                        // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -4241,7 +4214,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      54,                        // doomednum
-     1198,                      // spawnstate
+     1197,                      // spawnstate
      10,                        // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -4268,7 +4241,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      55,                        // doomednum
-     1201,                      // spawnstate
+     1200,                      // spawnstate
      25,                        // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -4295,7 +4268,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      42,                        // doomednum
-     1204,                      // spawnstate
+     1203,                      // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound
@@ -4322,7 +4295,7 @@ mobjinfo_t mobjinfo[] = {
 
     {
      41,                        // doomednum
-     1205,                      // spawnstate
+     1204,                      // spawnstate
      1000,                      // spawnhealth
      0,                         // seestate
      sfx_None,                  // seesound

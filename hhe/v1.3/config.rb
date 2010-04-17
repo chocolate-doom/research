@@ -4,8 +4,10 @@ module Heretic_1_3
 NAME="v1.3"
 
 NUM_STATES=1206
+NUM_MOBJS=160
 
 STATE_OFFSET=0x8e8b4
+MOBJINFO_OFFSET=617600
 
 # Action pointers for Heretic 1.3.
 

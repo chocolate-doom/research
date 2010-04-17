@@ -4,9 +4,8 @@ require "scanf"
 require "common.rb"
 
 filename = ARGV[0]
-offset = ARGV[1].scanf("%x")[0]
 
-NUM_MOBJS=161
+set_config(ARGV[1])
 
 def read_int(file)
         c1 = file.getc
@@ -82,7 +81,7 @@ end
 states = []
 
 File.open(filename) do |file|
-        file.seek(offset)
+        file.seek(MOBJINFO_OFFSET)
 
         NUM_MOBJS.times do
                 states.push(read_mobj(file))
@@ -100,4 +99,7 @@ for state in states
 	printf "     },\n"
 	puts
 end
+
+puts "};"
+puts
 

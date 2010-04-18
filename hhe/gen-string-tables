@@ -62,20 +62,24 @@ end
 # Print strings left over in the specified lookup table
 # that were not in the good strings list.
 
-def print_unused_strings(name, strings)
+def print_unsupported_strings(name, strings)
 
-	unused_offsets = strings.map do |entry|
+	unsupported_offsets = strings.map do |entry|
 		entry[0]
 	end
 
-	puts "static int #{name} = {"
+	puts "static int #{name}[] = {"
 
 	numbers = 0
 
-	for offset in unused_offsets.sort
-		print "    " if numbers == 0
+	for offset in unsupported_offsets.sort
+		if numbers == 0
+			print "    "
+		else
+			print " "
+		end
 
-		printf "%5i, ", offset
+		printf "%5i,", offset
 		numbers += 1
 
 		if numbers >= 8
@@ -114,8 +118,8 @@ puts
 # Output strings that appear in HHE but are not supported (ie. in good_strings)
 
 CONFIGS.each_with_index do |config, i|
-	name = "unused_strings_#{config::SUFFIX}"
-	print_unused_strings(name, string_lookups[i])
+	name = "unsupported_strings_#{config::SUFFIX}"
+	print_unsupported_strings(name, string_lookups[i])
 end
 
 

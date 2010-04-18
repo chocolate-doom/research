@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 
-require "json"
 require "common"
 
 config = find_config(ARGV[1])

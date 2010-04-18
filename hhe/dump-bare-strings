@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+require "common"
+
+config = find_config(ARGV[1])
+strings = find_strings(ARGV[0], config)
+
+for string in strings
+	puts string[1].to_json
+end
+

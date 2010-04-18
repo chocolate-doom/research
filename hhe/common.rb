@@ -1,4 +1,5 @@
 
+require "json"
 require "v1.0/config.rb"
 require "v1.2/config.rb"
 require "v1.3/config.rb"

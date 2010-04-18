@@ -36,11 +36,7 @@ end
 
 def format_func_offsets(offsets)
 	formatted = offsets.map do |offset|
-		if offset == 0
-			"  NULL"
-		else
-			sprintf("%6i", offset)
-		end
+		sprintf("%6i", offset)
 	end
 
 	"{ " + formatted.join(", ") + " }"

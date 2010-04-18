@@ -3,78 +3,17 @@
 require "json"
 require "common"
 
-# HHE seems to stop when it has found this many strings:
+config = find_config(ARGV[1])
+strings = find_strings(ARGV[0], config)
 
-NUM_STRINGS=785
+for string in strings
 
-set_config(ARGV[1])
+	string_text = string[1].to_json
 
-def read_block(file)
-        result = ""
-
-        4.times do
-                break if file.eof?
-                c = file.readchar
-                result += sprintf("%c", c)
-        end
-
-        end_index = result.index(0)
-        if end_index
-                result = result[0, end_index]
-        end
-
-        result
-end
-
-def bad_string?(str)
-	str.each_byte do |b|
-		if b >= 0x80
-			return true
-		end
+	if string[1] == nil
+		string_text = "NULL"
 	end
 
-	return false
+	printf "    { %6i, %s },\n", string[0], string_text
 end
-
-File.open(ARGV[0]) do |file|
-        current_str = ""
-
-	file.seek(STRINGS_OFFSET)
-
-	offset = 0
-	start_offset = nil
-	num_strings = 0
-
-        while num_strings < NUM_STRINGS
-                block = read_block(file)
-
-		if start_offset == nil
-			start_offset = offset
-		end
-
-		current_str += block
-
-		# End of string?
-
-		if block.length < 4
-
-			# Extended-ASCII characters cannot be output
-			# to JSON.
-
-			if bad_string?(current_str)
-				current_str = "XXXXX BAD STRING"
-			end
-
-			printf "    { %6i, %s },\n", start_offset,
-			                             current_str.to_json
-			current_str = ""
-			start_offset = nil
-			num_strings += 1
-		end
-
-		offset += 4
-        end
-end
-
-
 

@@ -581,7 +581,7 @@
     {  11900, "P_RemoveActivePlat: can't find plat!" },
     {  11940, "Too many mace spots." },
     {  11964, "" },
-    {  11968, "XXXXX BAD STRING" },
+    {  11968, NULL },
     {  11980, "P_GroupLines: miscounted" },
     {  12008, "-timer" },
     {  12016, "FLTWAWA1" },

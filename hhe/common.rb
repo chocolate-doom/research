@@ -77,15 +77,96 @@ THING_FLAGS2 = %w{
     MF2_DONTDRAW
 }
 
-def set_config(name)
+# HHE seems to stop when it has found this many strings:
+
+NUM_STRINGS=785
+
+def find_config(name)
 	configs = [ Heretic_1_0, Heretic_1_2, Heretic_1_3 ]
 
 	for config in configs
 		if name == config::NAME
-			include config
-			return
+			return config
 		end
 	end
 
 	raise "Unknown configuration: #{name}"
 end
+
+def set_config(name)
+	config = find_config(name)
+	include config
+end
+
+def read_block(file)
+        result = ""
+
+        4.times do
+                break if file.eof?
+                c = file.readchar
+                result += sprintf("%c", c)
+        end
+
+        end_index = result.index(0)
+        if end_index
+                result = result[0, end_index]
+        end
+
+        result
+end
+
+def bad_string?(str)
+	str.each_byte do |b|
+		if b >= 0x80
+			return true
+		end
+	end
+
+	return false
+end
+
+def find_strings(filename, config)
+
+	strings = []
+
+	File.open(filename) do |file|
+		current_str = ""
+
+		file.seek(config::STRINGS_OFFSET)
+
+		offset = 0
+		start_offset = nil
+
+		while strings.length < NUM_STRINGS
+			block = read_block(file)
+
+			if start_offset == nil
+				start_offset = offset
+			end
+
+			current_str += block
+
+			# End of string?
+
+			if block.length < 4
+
+				# Extended-ASCII characters cannot be output
+				# to JSON.
+
+				if bad_string?(current_str)
+					current_str = nil
+				end
+
+				strings.push([start_offset, current_str])
+
+				current_str = ""
+				start_offset = nil
+			end
+
+			offset += 4
+		end
+	end
+
+	strings
+end
+

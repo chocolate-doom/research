@@ -2,16 +2,6 @@
 
 require "common.rb"
 
-def strings_to_lookup(strings)
-	lookup = {}
-
-	for string in strings
-		lookup[string[1]] = string[0]
-	end
-
-	lookup
-end
-
 # Generate string -> offset lookup tables for each executable.
 
 def load_string_lookups(exe_files)
@@ -19,7 +9,7 @@ def load_string_lookups(exe_files)
 
 	CONFIGS.each_with_index do |config, i|
 		strings = find_strings(exe_files[i], config)
-		string_lookups.push(strings_to_lookup(strings))
+		string_lookups.push(strings)
 	end
 
 	string_lookups
@@ -33,11 +23,31 @@ def load_good_strings(filename)
 	end
 end
 
+# Look up a string's offset, removing it from the specified lookup table.
+# This is done because a string can appear multiple times at different offsets.
+
+def lookup_string(lookup_table, string)
+	lookup_table.each_with_index do |entry, i|
+		if entry[1] == string
+			lookup_table.delete_at(i)
+			return entry[0]
+		end
+	end
+
+	nil
+end
+
 # Find offsets for the specified string.
 
 def get_string_offsets(string, string_lookups)
 	string_lookups.map do |lookup|
-		lookup[string] or 0
+		offset = lookup_string(lookup, string)
+
+		if offset != nil
+			offset
+		else
+			0
+		end
 	end
 end
 
@@ -49,13 +59,13 @@ def format_offsets(offsets)
 	"{ " + formatted_offsets.join(", ") + " }"
 end
 
-def print_unused_strings(name, strings, good_strings)
-	unused_offsets = []
+# Print strings left over in the specified lookup table
+# that were not in the good strings list.
 
-	strings.each_pair do |string, offset|
-		if not good_strings.member? string
-			unused_offsets.push(offset)
-		end
+def print_unused_strings(name, strings)
+
+	unused_offsets = strings.map do |entry|
+		entry[0]
 	end
 
 	puts "static int #{name} = {"
@@ -105,7 +115,7 @@ puts
 
 CONFIGS.each_with_index do |config, i|
 	name = "unused_strings_#{config::SUFFIX}"
-	print_unused_strings(name, string_lookups[i], good_strings)
+	print_unused_strings(name, string_lookups[i])
 end
 
 

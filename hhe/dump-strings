@@ -3,6 +3,10 @@
 require "json"
 require "common"
 
+# HHE seems to stop when it has found this many strings:
+
+NUM_STRINGS=785
+
 set_config(ARGV[1])
 
 def read_block(file)
@@ -22,16 +26,14 @@ def read_block(file)
         result
 end
 
-def valid_block?(block)
-        for i in 0...block.length
-                c = block[i, 1]
+def bad_string?(str)
+	str.each_byte do |b|
+		if b >= 0x80
+			return true
+		end
+	end
 
-                if c !~ /[a-zA-Z0-9_= :\\\'\"\-\,\.\(\)\[\]\%\!\n\?\<\>\%\#\@\/\&]/
-                        return false
-                end
-        end
-
-        true
+	return false
 end
 
 File.open(ARGV[0]) do |file|
@@ -41,34 +43,34 @@ File.open(ARGV[0]) do |file|
 
 	offset = 0
 	start_offset = nil
+	num_strings = 0
 
-        until file.eof?
+        while num_strings < NUM_STRINGS
                 block = read_block(file)
 
-                if valid_block?(block)
-			if start_offset == nil
-				start_offset = offset
+		if start_offset == nil
+			start_offset = offset
+		end
+
+		current_str += block
+
+		# End of string?
+
+		if block.length < 4
+
+			# Extended-ASCII characters cannot be output
+			# to JSON.
+
+			if bad_string?(current_str)
+				current_str = "XXXXX BAD STRING"
 			end
-                        current_str += block
 
-                        # End of string?
-
-                        if block.length < 4
-                                if current_str.length >= 4
-                                        puts "    { #{start_offset}, #{current_str.to_json} },"
-                                end
-                                current_str = ""
-				start_offset = nil
-                        end
-                else
-                        # Invalid string; start again
-  
-#                        if current_str.length >= 4
-#                                puts "INVALID: #{current_str + block}"
-#                        end
-
-                        current_str = ""
-                end
+			printf "    { %6i, %s },\n", start_offset,
+			                             current_str.to_json
+			current_str = ""
+			start_offset = nil
+			num_strings += 1
+		end
 
 		offset += 4
         end

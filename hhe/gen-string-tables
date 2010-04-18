@@ -1,0 +1,111 @@
+#!/usr/bin/env ruby
+
+require "common.rb"
+
+def strings_to_lookup(strings)
+	lookup = {}
+
+	for string in strings
+		lookup[string[1]] = string[0]
+	end
+
+	lookup
+end
+
+# Generate string -> offset lookup tables for each executable.
+
+def load_string_lookups(exe_files)
+	string_lookups = []
+
+	CONFIGS.each_with_index do |config, i|
+		strings = find_strings(exe_files[i], config)
+		string_lookups.push(strings_to_lookup(strings))
+	end
+
+	string_lookups
+end
+
+# Load list of "good" strings.
+
+def load_good_strings(filename)
+	File.readlines(filename).map do |string|
+		JSON::load("["+ string.chomp + "]")[0]
+	end
+end
+
+# Find offsets for the specified string.
+
+def get_string_offsets(string, string_lookups)
+	string_lookups.map do |lookup|
+		lookup[string] or 0
+	end
+end
+
+def format_offsets(offsets)
+	formatted_offsets = offsets.map do |offset|
+		sprintf("%5i", offset)
+	end
+
+	"{ " + formatted_offsets.join(", ") + " }"
+end
+
+def print_unused_strings(name, strings, good_strings)
+	unused_offsets = []
+
+	strings.each_pair do |string, offset|
+		if not good_strings.member? string
+			unused_offsets.push(offset)
+		end
+	end
+
+	puts "static int #{name} = {"
+
+	numbers = 0
+
+	for offset in unused_offsets.sort
+		print "    " if numbers == 0
+
+		printf "%5i, ", offset
+		numbers += 1
+
+		if numbers >= 8
+			print "\n"
+			numbers = 0
+		end
+	end
+
+	if numbers > 0
+		print "\n"
+	end
+
+	puts "};"
+	puts
+end
+
+string_lookups = load_string_lookups(ARGV)
+good_strings = load_good_strings("good-strings.txt")
+
+# Output list of supported strings with their offset for each version
+
+puts "static HHEString strings[] = {"
+
+for string in good_strings
+
+	offsets = get_string_offsets(string, string_lookups)
+
+	print "    { " + format_offsets(offsets) + ", "
+#	print "\n      "
+	print string.to_json + " },\n"
+end
+
+puts "};"
+puts
+
+# Output strings that appear in HHE but are not supported (ie. in good_strings)
+
+CONFIGS.each_with_index do |config, i|
+	name = "unused_strings_#{config::SUFFIX}"
+	print_unused_strings(name, string_lookups[i], good_strings)
+end
+
+

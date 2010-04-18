@@ -4,6 +4,8 @@ require "v1.0/config.rb"
 require "v1.2/config.rb"
 require "v1.3/config.rb"
 
+CONFIGS = [ Heretic_1_0, Heretic_1_2, Heretic_1_3 ]
+
 # Symbolic sprite names, from info.h.
 
 SPRITE_NAMES = %w{
@@ -83,9 +85,7 @@ THING_FLAGS2 = %w{
 NUM_STRINGS=785
 
 def find_config(name)
-	configs = [ Heretic_1_0, Heretic_1_2, Heretic_1_3 ]
-
-	for config in configs
+	for config in CONFIGS
 		if name == config::NAME
 			return config
 		end

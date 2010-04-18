@@ -2,6 +2,7 @@
 module Heretic_1_2
 
 NAME="v1.2"
+SUFFIX="1_2"
 
 NUM_STATES=1206
 NUM_MOBJS=160

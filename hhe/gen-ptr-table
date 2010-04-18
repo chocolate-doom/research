@@ -42,13 +42,13 @@ def format_func_offsets(offsets)
 	"{ " + formatted.join(", ") + " }"
 end
 
-puts "static HHEActionPointer action_pointers[] = {"
+puts "static hhe_action_pointer_t action_pointers[] = {"
 
 for name in action_func_names.sort
 	offsets = func_offsets(name)
 	print "    { "
 	print format_func_offsets(offsets) + ", "
-	print name.to_json
+	print name
 	print " },\n"
 end
 

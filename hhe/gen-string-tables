@@ -72,7 +72,7 @@ def print_unsupported_strings(name, strings)
 
 	numbers = 0
 
-	for offset in unsupported_offsets.sort
+	for offset in unsupported_offsets.sort + [ -1 ]
 		if numbers == 0
 			print "    "
 		else

@@ -68,7 +68,8 @@ def print_unsupported_strings(name, strings)
 		entry[0]
 	end
 
-	puts "static int #{name}[] = {"
+	puts "static int #{name}[] ="
+	puts "{"
 
 	numbers = 0
 
@@ -101,7 +102,8 @@ good_strings = load_good_strings("good-strings.txt")
 
 # Output list of supported strings with their offset for each version
 
-puts "static hhe_string_t strings[] = {"
+puts "static hhe_string_t strings[] ="
+puts "{"
 
 for string in good_strings
 

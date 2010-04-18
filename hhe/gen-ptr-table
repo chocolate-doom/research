@@ -42,7 +42,8 @@ def format_func_offsets(offsets)
 	"{ " + formatted.join(", ") + " }"
 end
 
-puts "static hhe_action_pointer_t action_pointers[] = {"
+puts "static hhe_action_pointer_t action_pointers[] ="
+puts "{"
 
 for name in action_func_names.sort
 	offsets = func_offsets(name)

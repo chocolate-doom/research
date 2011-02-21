@@ -1,11 +1,33 @@
 Investigation of DMX sound length cutoffs.
 
 The DMX sound library seems to discard sound effects that are less
-than 49 samples in length.  A sample that is exactly 49 samples long
-will play, but the same effect cropped to 48 samples will not be
-played.
+than a certain number of samples in length.  The number of samples
+depends on the sample rate of the sound effect ...
 
-Included here are notsilnt.lmp (49 samples long) and silent.lmp
-(identical, but 48 samples long). Rename to dspistol.lmp and run with
+Included here are various sound files. Rename to dspistol.lmp and run with
 doom2.exe -file dspistol.lmp to try out.
+
+11025Hz
+
+silent.lmp         - 48 samples long, not played
+notsilnt.lmp       - 49 samples long, played
+
+22050Hz
+
+silent2.lmp        - 49 samples long, not played
+notsiln2.lmp       - 50 samples long, played
+
+44100Hz
+
+silent4.lmp        - 51 samples long, not played
+notsiln4.lmp       - 52 samples long, played
+
+-----
+
+Looks like:
+
+cutoff = 48 + samplerate / 11025
+
+if length < cutoff:
+    discard
 

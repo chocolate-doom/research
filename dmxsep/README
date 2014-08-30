@@ -1,0 +1,28 @@
+This is a WAV file recorded from Vanilla Doom in DOSbox in E2M2.  I
+stood in front of the crushing ceilings, which make a constant moving
+sound.
+
+ * At first I'm facing the crushing ceilings dead on.
+ * After a few seconds I turn 90 degrees to the right (crushing
+   ceilings now on the left).
+ * After a few more seconds I turn 90 degrees to the right again
+   (crushing ceilings behind me).
+ * After a few more seconds I turn 90 degrees to the right again
+   (crushing ceilings on my right).
+
+Results:
+ * When facing dead on, the peak amplitude is at around 0.45 on both
+   channels.
+ * With the crushing ceilings on my left, the left channel peaks at
+   around 0.5, while the right channel peaks at around 0.25.
+ * With the crushing ceilings on my right, the left channel peaks at
+   around 0.25, while the right channel peaks at around 0.5.
+ * With the crushing ceilings behind me, behavior is the same as when
+   looking dead on.
+
+Interpretation:
+ * Stereo separation ranges only affects half the peak amplitude: it
+   only drops by about half depending on the direction the player is
+   facing.
+ * There appears to be a roughly 10% "reserve" that is not used when
+   looking dead on; this is used when the sound comes from one side.

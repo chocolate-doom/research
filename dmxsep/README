@@ -1,3 +1,5 @@
+== 90degrot.wav ==
+
 This is a WAV file recorded from Vanilla Doom in DOSbox in E2M2.  I
 stood in front of the crushing ceilings, which make a constant moving
 sound.
@@ -26,3 +28,11 @@ Interpretation:
    facing.
  * There appears to be a roughly 10% "reserve" that is not used when
    looking dead on; this is used when the sound comes from one side.
+
+== slowrot.wav ==
+
+This is a WAV recorded from the same position in E2M2, but using a
+control API-based program to turn the player view round slowly at a
+constant speed (version of forward.exe modified to set angleturn
+instead of forwardmove).
+

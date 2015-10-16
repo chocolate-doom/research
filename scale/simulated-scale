@@ -1,0 +1,173 @@
+#!/usr/bin/env python
+
+import sys
+
+ASPECT_RATIO = 4.0 / 3
+AUTO_ADJUST = True
+SCREENWIDTH = 320
+SCREENHEIGHT = 200
+
+def set_screen_size(w, h):
+	global window_w, window_h, texture_w, texture_h
+	global scale_horiz, scale_vert
+
+	window_w, window_h = w, h
+
+	if AUTO_ADJUST:
+		if float(window_w) / window_h > ASPECT_RATIO:
+			# widescreen
+			new_window_w = int(window_h * ASPECT_RATIO)
+			new_window_h = window_h
+		else:
+			new_window_w = window_w
+			new_window_h = int(window_w / ASPECT_RATIO)
+
+		if (window_w, window_h) != (new_window_w, new_window_h):
+			window_w, window_h = new_window_w, new_window_h
+			#print "Auto-adjusted to %ix%i" % (window_w, window_h)
+
+	scale_horiz = (window_w + SCREENWIDTH - 1) // SCREENWIDTH
+	scale_vert = (window_h + SCREENHEIGHT - 1) // SCREENHEIGHT
+	texture_w = SCREENWIDTH * scale_horiz
+	texture_h = SCREENHEIGHT * scale_vert
+
+def texture_pixel_value(x, y):
+	"""Get value at the given texture coordinates."""
+	orig_x = x // scale_horiz
+	orig_y = y // scale_vert
+	# Black/white checkerboard pattern:
+	result = (orig_x + orig_y) % 2
+	#print "\t(%i, %i) -> %i" % (x, y, result)
+	return result
+
+def screen_pixel_value(x, y):
+	"""Get pixel value at given texture coordinates."""
+	tx_x = float(x * texture_w) / window_w
+	tx_y = float(y * texture_h) / window_h
+	#print "(%i, %i) -> (%.1f, %.1f) in tx" % (x, y, tx_x, tx_y)
+
+	tx_x1 = tx_x // 1
+	tx_x2 = tx_x1 + 1
+	tx_y1 = tx_y // 1
+	tx_y2 = tx_y1 + 1
+
+	tl = texture_pixel_value(tx_x1, tx_y1)
+	tr = texture_pixel_value(tx_x2, tx_y1)
+	bl = texture_pixel_value(tx_x1, tx_y2)
+	br = texture_pixel_value(tx_x2, tx_y2)
+
+	x_frac = tx_x - tx_x1
+	y_frac = tx_y - tx_y1
+
+	t = tl * (1 - x_frac) + tr * x_frac
+	#print "\t%.1f between %.1f and %.1f = %.1f" % (x_frac, tl, tr, t)
+	b = bl * (1 - x_frac) + br * x_frac
+	#print "\t%.1f between %.1f and %.1f = %.1f" % (y_frac, bl, br, b)
+	#print "\t%.1f between %.1f and %.1f" % (y_frac, t, b)
+
+	result = t * (1 - y_frac) + b * y_frac
+
+	return result
+
+def is_exact(v):
+	frac = min(v, 1 - v)
+	return frac < (1 / 256.0)
+
+def bluriness_measure():
+	"""Calculate a measure for screen blurriness."""
+	num_pixels = window_w * window_h
+	num_blurries = 0
+	blurriness = 0
+	for y in range(window_h):
+		for x in range(window_w):
+			v = screen_pixel_value(x, y)
+			# Maximum blurriness is frac=0.5:
+			frac = min(v, 1 - v)
+			blurriness += frac / 0.5
+
+			if not is_exact(v):
+				num_blurries += 1
+
+	return blurriness / num_pixels, float(num_blurries) / num_pixels
+
+def draw_ascii():
+	output_w, output_h = 80, 50
+
+	for y in range(output_h):
+		for x in range(output_w):
+			v = screen_pixel_value(x, y)
+			if is_exact(v):
+				if v < 0.5:
+					sys.stdout.write(' ')
+				else:
+					sys.stdout.write('#')
+			else:
+				if v < 0.5:
+					sys.stdout.write('.')
+				else:
+					sys.stdout.write(':')
+		sys.stdout.write('\n')
+
+def draw_floats():
+	for y in range(output_h):
+		for x in range(10):
+			v = screen_pixel_value(x, y)
+			print "%.3f" % v,
+		print
+
+base_screen_sizes = (
+	# Integer vertical scales:
+	(267,  200),
+	(533,  400),
+	(800,  600),
+	(1066, 800),
+	(1333, 1000),
+	(1600, 1200),
+	None,
+	# Integer horizontal scales:
+	(320,  240),
+	(640,  480),
+	(960,  720),
+	(1280, 960),
+	(1600, 1200),
+	None,
+	# Other modes we care about:
+	(1024, 768),   None,
+	(1920, 1080),  None,
+)
+
+#set_screen_size(int(sys.argv[1]), int(sys.argv[2]))
+#draw_ascii()
+
+for i in range(len(base_screen_sizes) - 1):
+	size1, size2 = base_screen_sizes[i:i+2]
+	if size1 is None:
+		continue
+
+	def fraction_between_sizes(frac):
+		return (
+			int(size1[0] * (1 - frac) + size2[0] * frac),
+			int(size1[1] * (1 - frac) + size2[1] * frac),
+		)
+
+	sizes = [size1]
+	if size2 is not None:
+		sizes.extend((
+			fraction_between_sizes(0.25),
+			fraction_between_sizes(1.0 / 3),
+			fraction_between_sizes(0.5),
+			fraction_between_sizes(2.0 / 3),
+			fraction_between_sizes(0.75),
+		))
+
+	for size in sizes:
+		set_screen_size(size[0] + 1, size[1])
+
+		int_mul = ((window_w % SCREENWIDTH) == 0
+		        or (window_h % SCREENHEIGHT) == 0)
+		blurriness, num_blurries = bluriness_measure()
+		print "%i,%i,%.5f,%.5f,%s,%s" % (
+			window_w, window_h, blurriness, num_blurries,
+			"e" if (window_w % SCREENWIDTH) == 0 else "n",
+			"e" if (window_h % SCREENHEIGHT) == 0 else "n")
+

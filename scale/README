@@ -1,0 +1,3 @@
+Simulation of scaling when using the sdl2-branch hardware scaling,
+calculating estimates of blurriness when using non-integer scale
+factors.

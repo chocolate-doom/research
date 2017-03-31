@@ -9,6 +9,7 @@ states table:
 00 00 00 00  00 00 00 00
 
 starts at 0009f3cc in doom2.exe
+starts at 0009ec9c in udoom.exe
 starts at 0009f0c0 in chex.exe
 
 mobjinfo table:
@@ -22,6 +23,7 @@ mobjinfo table:
 ff ff ff ff 95 00 00 00 64 00 00 00 ...
 
 starts at 000a5d90 in doom2.exe
+starts at 000a5660 in udoom.exe
 starts at 000a5a84 in chex.exe
 
 state differences:

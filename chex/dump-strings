@@ -7,11 +7,11 @@ def read_block(file)
 
         4.times do
                 break if file.eof?
-                c = file.readchar
+                c = file.readbyte
                 result += sprintf("%c", c)
         end
 
-        end_index = result.index(0)
+        end_index = result.index("\0")
         if end_index
                 result = result[0, end_index]
         end

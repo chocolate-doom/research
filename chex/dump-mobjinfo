@@ -9,10 +9,10 @@ offset = ARGV[1].scanf("%x")[0]
 NUM_MOBJS=137
 
 def read_int(file)
-        c1 = file.getc
-        c2 = file.getc
-        c3 = file.getc
-        c4 = file.getc
+        c1 = file.getbyte
+        c2 = file.getbyte
+        c3 = file.getbyte
+        c4 = file.getbyte
 
         c1 | (c2 << 8) | (c3 << 16) | (c4 << 24)
 end
